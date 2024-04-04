@@ -4,13 +4,13 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "RoadMap",
-    description: "Web Club in gmsh",
+    title: "NovaLaw",
+    description: "Law Firm in Korea",
     icons: {
         icon: "img/road-map.png",
     },
     other: {
-        url: "img/roadmap-banner.png",
+        url: "img/posco.png",
     },
 };
 
