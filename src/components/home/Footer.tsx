@@ -42,16 +42,53 @@ function Footer() {
                 </h3>
 
                 <div className="footer-img-container-">
-                    <img src="img/lawtalk.png" alt="" className="footer-img" />
-                    <img src="img/kakao.png" alt="" className="footer-img" />
+                    <a
+                        href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
+                        target="_blank"
+                        title="LawTalk Consult"
+                    >
+                        <img
+                            src="img/lawtalk.png"
+                            alt="LawTalk Consult"
+                            className="footer-img"
+                        />
+                    </a>
+
+                    <a
+                        href="https://pf.kakao.com/_CXxhwG"
+                        target="_blank"
+                        title="Official KakaoTalk Account"
+                    >
+                        <img
+                            src="img/kakao.png"
+                            alt="Official KakaoTalk Account"
+                            className="footer-img"
+                        />
+                    </a>
                     <span className="footer-img-margin"></span>
-                    <img
-                        src="img/instagram.webp"
-                        alt=""
-                        className="footer-img"
-                    />
+                    <a
+                        href="https://www.instagram.com/lawyer_dono/"
+                        target="_blank"
+                        title="CEO's instagram"
+                    >
+                        <img
+                            src="img/instagram.webp"
+                            alt="CEO's instagram"
+                            className="footer-img"
+                        />
+                    </a>
                     <span className="footer-img-margin"></span>
-                    <img src="img/youtube.png" alt="" className="footer-img" />
+                    <a
+                        href="https://www.youtube.com/@nova_law"
+                        target="_blank"
+                        title="Official YouTube Channel"
+                    >
+                        <img
+                            src="img/youtube.png"
+                            alt="Official YouTube Channel"
+                            className="footer-img"
+                        />
+                    </a>
                 </div>
             </div>
 
