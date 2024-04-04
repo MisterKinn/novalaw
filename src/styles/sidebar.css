@@ -1,0 +1,85 @@
+.sidebar {
+    height: 100%;
+    width: 0px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 60px;
+}
+
+.sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+/*메뉴열기 hover 시*/
+.sidebar a:hover {
+    color: #f1f1f1;
+}
+
+.openbtn {
+    top: 0;
+    font-size: 20px;
+    cursor: pointer;
+    position: fixed;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+.openbtn:hover {
+    background-color: #444;
+}
+
+.sidebar .closebtn {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    color: grey;
+}
+
+.bottom-border {
+    margin: 15px;
+    border-bottom: 2px grey solid;
+    color: white;
+    font-size: 25px;
+}
+
+.sidebar-info {
+    text-align: left;
+    margin-left: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+.apply {
+    display: inline-block;
+    background-color: #ffffff;
+    color: #333333;
+    height: 3em;
+    width: 8em;
+    margin: 0;
+    margin-left: -0.4em;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 2px solid #333333;
+    text-decoration: none;
+    font-size: 25px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.apply:hover {
+    background-color: #333333;
+    color: #ffffff;
+}
