@@ -1,4 +1,3 @@
-html,
 body {
     margin: 0;
     padding: 0;
@@ -82,6 +81,13 @@ body {
     display: flex;
     justify-content: center;
     text-align: left;
+    margin-top: -1em;
+}
+
+.intro-text {
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
 }
 
 .container {
@@ -266,22 +272,4 @@ p {
     text-align: center;
     font-size: 25px;
     color: grey;
-}
-
-@media (max-width: 800px) {
-    .title {
-        font-size: 2.1em;
-    }
-
-    .sub-title {
-        font-size: 1.3em;
-    }
-
-    .intro-text {
-        font-size: 20px;
-    }
-
-    .card-title {
-        font-size: 25px;
-    }
 }

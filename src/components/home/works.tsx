@@ -86,29 +86,6 @@ function Works() {
                         <div>
                             <img
                                 loading="lazy"
-                                src="img/resister.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 등기 / 집단등기</strong>
-                            </span>
-                            <div className="card-text">
-                                <strong>
-                                    귀찮고 복잡한 등기절차, 신축아파트 집단등기
-                                    <br />
-                                    등을 일사천리로{" "}
-                                    <span className="white">해결</span>합니다.
-                                </strong>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="spec">
-                    <div className="card-container spec2">
-                        <div>
-                            <img
-                                loading="lazy"
                                 src="img/labor.png"
                                 className="card-img"
                             />
