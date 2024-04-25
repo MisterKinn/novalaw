@@ -17,7 +17,15 @@ function Greeting() {
                     대형로펌 소속변호사부터 시작하여
                     <br />
                     파트너변호사가 되기까지{" "}
-                    <span className="white">많은 사건</span>들을 해결해왔습니다.
+                    <a
+                        href="/success"
+                        target="_blank"
+                        title="성공 사례"
+                        className="white"
+                    >
+                        많은 사건
+                    </a>
+                    들을 해결해왔습니다.
                     <br />
                     <br />
                     이제 보다 가까운 곳에서{" "}
