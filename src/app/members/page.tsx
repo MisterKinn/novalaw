@@ -1,7 +1,18 @@
+"use client";
+import React, { useEffect } from "react";
+import AOS from "aos";
+import "@/styles/aos.css";
+
 import "@/styles/novalaw.css";
 import NavBar from "@/components/home/NavBar";
 
 function Members() {
+    useEffect(() => {
+        AOS.init({
+            duration: 1000,
+        });
+    }, []);
+
     return (
         <div>
             <NavBar />
@@ -10,7 +21,7 @@ function Members() {
                 구성원 소개
             </h1>
 
-            <h2 className="member-subtitle">
+            <h2 className="member-subtitle" data-aos="fade-up">
                 <span className="white">노바법률사무소</span>의 자랑스러운
                 구성원들입니다.
             </h2>
@@ -239,62 +250,47 @@ function Members() {
             </div>
 
             <div className="container" data-aos="fade-up">
-                <div className="container" data-aos="fade-up">
-                    <div className="spec">
-                        <div className="card-container member-card-container">
-                            <div>
-                                <div className="row-center">
-                                    <span className="card-title">
-                                        김동권 자문노무사
-                                    </span>
-                                </div>
-                                <div className="member-card-text">
-                                    現{" "}
-                                    <span className="white">
-                                        노바법률사무소
-                                    </span>{" "}
-                                    자문노무사
-                                    <br />現{" "}
-                                    <span className="white">
-                                        노무법인 리담
-                                    </span>{" "}
-                                    광화문 본사 노무사
-                                    <br />前{" "}
-                                    <span className="white">
-                                        중소벤처기업부
-                                    </span>{" "}
-                                    비즈니스지원단 현장클리닉
-                                    <br />前{" "}
-                                    <span className="white">
-                                        고용노동부
-                                    </span>{" "}
-                                    일터혁신 컨설턴트
-                                    <br />前{" "}
-                                    <span className="white">
-                                        공인노무사회
-                                    </span>{" "}
-                                    노동시간 단축 전문 컨설턴트
-                                    <br />前{" "}
-                                    <span className="white">
-                                        대한민국 공군
-                                    </span>{" "}
-                                    군수사령부 인사장교
-                                    <br />前{" "}
-                                    <span className="white">
-                                        현대차그룹
-                                    </span>{" "}
-                                    현대엔지니어링 사내 노무사
-                                    <br />
-                                    <span className="white">
-                                        고려대학교
-                                    </span>{" "}
-                                    경영대학원 석사과정
-                                    <br />
-                                    <span className="white">
-                                        경북대학교
-                                    </span>{" "}
-                                    사범대학
-                                </div>
+                <div className="spec">
+                    <div className="card-container member-card-container">
+                        <div>
+                            <div className="row-center">
+                                <span className="card-title">
+                                    김동권 자문노무사
+                                </span>
+                            </div>
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                자문노무사
+                                <br />現{" "}
+                                <span className="white">
+                                    노무법인 리담
+                                </span>{" "}
+                                광화문 본사 노무사
+                                <br />前{" "}
+                                <span className="white">
+                                    중소벤처기업부
+                                </span>{" "}
+                                비즈니스지원단 현장클리닉
+                                <br />前{" "}
+                                <span className="white">고용노동부</span>{" "}
+                                일터혁신 컨설턴트
+                                <br />前{" "}
+                                <span className="white">공인노무사회</span>{" "}
+                                노동시간 단축 전문 컨설턴트
+                                <br />前{" "}
+                                <span className="white">
+                                    대한민국 공군
+                                </span>{" "}
+                                군수사령부 인사장교
+                                <br />前{" "}
+                                <span className="white">현대차그룹</span>{" "}
+                                현대엔지니어링 사내 노무사
+                                <br />
+                                <span className="white">고려대학교</span>{" "}
+                                경영대학원 석사과정
+                                <br />
+                                <span className="white">경북대학교</span>{" "}
+                                사범대학
                             </div>
                         </div>
                     </div>
