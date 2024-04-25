@@ -104,6 +104,7 @@ body {
     margin-bottom: 7.5em;
     padding: 0.8rem 3rem;
     position: relative;
+    wrap: no-wrap;
 }
 
 .join span {
@@ -167,6 +168,7 @@ body {
     text-align: left;
     font-size: 2em;
     font-weight: bold;
+    color: #a0a0a0;
 }
 
 .container {
@@ -371,16 +373,23 @@ p {
 }
 
 .lawtalk-icon {
+    height: 3em;
+    width: 3em;
     margin-left: 0.5em;
 }
 
+.kakaotalk-icon {
+    height: 3em;
+    width: 3em;
+}
+
 .instagram-icon {
-    height: 2.5em;
-    width: 2.5em;
+    height: 2em;
+    width: 2em;
 }
 
 .youtube-icon {
-    height: 2em;
+    height: 1.5em;
     width: auto;
 }
 

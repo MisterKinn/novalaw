@@ -62,7 +62,7 @@ function Footer() {
                         <img
                             src="img/kakao.png"
                             alt="Official KakaoTalk Account"
-                            className="footer-img"
+                            className="footer-img kakaotalk-icon"
                         />
                     </a>
 

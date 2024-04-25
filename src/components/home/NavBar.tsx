@@ -19,16 +19,16 @@ function NavBar() {
                 </a>
 
                 <div className="topnav">
-                    <a href="#greeting" title="인사말">
+                    <a href="../#greeting" title="인사말">
                         인사말
                     </a>
-                    <a href="#works" title="업무 소개">
+                    <a href="../#works" title="업무 소개">
                         업무 소개
                     </a>
-                    <a href="/members" target="_blank" title="구성원">
+                    <a href="/members" title="구성원">
                         구성원
                     </a>
-                    <a href="/success" target="_blank" title="승소사례">
+                    <a href="/success" title="승소사례">
                         승소사례
                     </a>
                     <a href="#" title="미디어 소개">

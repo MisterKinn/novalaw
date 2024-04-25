@@ -5,7 +5,6 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/novalaw.css";
 
-import Sidebar from "../../components/home/sidebar";
 import NavBar from "@/components/home/NavBar";
 import Home from "@/components/home/Home";
 import Greeting from "@/components/home/greeting";
@@ -14,7 +13,7 @@ import Success from "@/components/home/success";
 import Recruit from "@/components/home/recruit";
 import Footer from "@/components/home/Footer";
 
-function Novalaw() {
+function NovaLaw() {
     useEffect(() => {
         AOS.init({
             duration: 1000,
@@ -40,4 +39,4 @@ function Novalaw() {
     }
 }
 
-export default Novalaw;
+export default NovaLaw;

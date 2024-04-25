@@ -11,7 +11,11 @@ function Recruit() {
                 <br />
                 법률적 도움이 필요하시면 언제나 부담없이 연락주세요
             </h2>
-            <a href="#" target="_blank" title="상담 신청하기">
+            <a
+                href="mailto:nova@novalaw.kr"
+                target="_blank"
+                title="상담 신청하기"
+            >
                 <button className="join">
                     <span>상담 신청하기</span>
                 </button>
