@@ -14,36 +14,117 @@ function Members() {
                 <span className="white">노바법률사무소</span>의 자랑스러운
                 구성원들입니다.
             </h2>
+
             <div className="container" data-aos="fade-up">
                 <div className="spec">
-                    <div className="card-container member-card-container">
+                    <div className="card-container donho-card-container">
                         <div>
                             <div className="row-center">
                                 <span className="card-title">
                                     이돈호 대표변호사
                                 </span>
                             </div>
-                            <div className="member-card-text">
-                                現 <span className="white">노바법률사무소</span>{" "}
-                                고문변호사
-                                <br />現{" "}
-                                <span className="white">엠디엠플러스</span>{" "}
-                                준법지원팀장
-                                <br />前 <span className="white">
-                                    GS건설
-                                </span>{" "}
-                                국내법무팀 변호사
-                                <br />
-                                <span className="white">서울대학교</span> 법학부
-                                졸업(학사)
-                                <br />
-                                <span className="white">연세대학교</span>{" "}
-                                법학전문대학원 졸업(전문석사)
+                            <div className="donho-card-text">
+                                <div className="current-career">
+                                    現{" "}
+                                    <span className="white">
+                                        노바법률사무소
+                                    </span>{" "}
+                                    대표변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        대법원 국선변호인
+                                    </span>
+                                    <br />現{" "}
+                                    <span className="white">법무부</span>{" "}
+                                    중소기업 고문변호사단
+                                    <br />現{" "}
+                                    <span className="white">
+                                        성균관대학교
+                                    </span>{" "}
+                                    창업지원단 자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        성균관대학교
+                                    </span>{" "}
+                                    산학협력단 자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        현대제철 노동조합
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        (주)빅엔트로프로페셔널
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        오늘도 365의원
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        토탈스트렝스
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        대영케이티팩
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        미지향식품
+                                    </span>{" "}
+                                    자문변호사
+                                </div>
+                                <div className="previous-career">
+                                    前{" "}
+                                    <span className="white">법무법인 AK</span>{" "}
+                                    파트너변호사
+                                    <br />前{" "}
+                                    <span className="white">
+                                        법무법인 YK
+                                    </span>{" "}
+                                    변호사
+                                    <br />前{" "}
+                                    <span className="white">
+                                        교보핫트랙스
+                                    </span>{" "}
+                                    자문변호사
+                                    <br />
+                                    <span className="white">
+                                        사법연수원
+                                    </span>{" "}
+                                    실무연수 변리사 집합교육 수료
+                                    <br />
+                                    <span className="white">
+                                        한국금융연수원
+                                    </span>{" "}
+                                    준법감시인
+                                    <br />
+                                    <span className="white">
+                                        학교폭력예방상담사
+                                    </span>
+                                    <br />
+                                    <span className="white">
+                                        성균관대학교
+                                    </span>{" "}
+                                    법학과(학사)
+                                    <br />
+                                    <span className="white">
+                                        경북대학교
+                                    </span>{" "}
+                                    법학전문대학원(전문석사)
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="spec">
                     <div className="card-container member-card-container">
                         <div>
@@ -116,9 +197,7 @@ function Members() {
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div className="container" data-aos="fade-up">
                 <div className="spec">
                     <div className="card-container member-card-container">
                         <div>
@@ -157,7 +236,9 @@ function Members() {
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="container" data-aos="fade-up">
                     <div className="spec">
                         <div className="card-container member-card-container">

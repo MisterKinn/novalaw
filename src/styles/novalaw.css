@@ -209,8 +209,13 @@ body {
 }
 
 .member-card-container {
-    height: 8em;
+    height: 8.5em;
     width: 12em;
+}
+
+.donho-card-container {
+    height: 10.5em;
+    width: 25em;
 }
 
 .white {
@@ -247,7 +252,17 @@ body {
 
 .member-card-text {
     margin-top: 0.5em;
-    text-align: center;
+    text-align: left;
+    font-size: 22px;
+    color: #a0a0a0;
+}
+
+.donho-card-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 0.5em;
+    text-align: left;
     font-size: 22px;
     color: #a0a0a0;
 }
