@@ -5,85 +5,113 @@ function Members() {
     return (
         <div>
             <NavBar />
-            <h2 className="introduce" data-aos="fade-up">
-                업무 소개
+
+            <h1 className="member-title" data-aos="fade-up">
+                구성원 소개
+            </h1>
+
+            <h2 className="member-subtitle">
+                <span className="white">노바법률사무소</span>의 자랑스러운
+                구성원들입니다.
             </h2>
             <div className="container" data-aos="fade-up">
                 <div className="spec">
-                    <div className="card-container spec2">
+                    <div className="card-container member-card-container">
                         <div>
-                            <div className="column-center">
-                                <img
-                                    loading="lazy"
-                                    src="img/handcuffs.png"
-                                    className="card-img"
-                                />
+                            <div className="row-center">
                                 <span className="card-title">
-                                    <strong> 형사사건</strong>
+                                    이돈호 대표변호사
                                 </span>
                             </div>
-                            <div className="card-text">
-                                <strong>
-                                    수사단계부터 재판까지 의뢰인의 편에서
-                                    <br />
-                                    <span className="white">최선의 결과</span>를
-                                    위해 노력합니다.
-                                </strong>
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                고문변호사
+                                <br />現{" "}
+                                <span className="white">엠디엠플러스</span>{" "}
+                                준법지원팀장
+                                <br />前 <span className="white">
+                                    GS건설
+                                </span>{" "}
+                                국내법무팀 변호사
+                                <br />
+                                <span className="white">서울대학교</span> 법학부
+                                졸업(학사)
+                                <br />
+                                <span className="white">연세대학교</span>{" "}
+                                법학전문대학원 졸업(전문석사)
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="spec">
-                    <div className="card-container spec2">
+                    <div className="card-container member-card-container">
                         <div>
-                            <div className="column-center">
-                                <img
-                                    loading="lazy"
-                                    src="img/civil.png"
-                                    className="card-img"
-                                />
+                            <div className="row-center">
                                 <span className="card-title">
-                                    <strong> 민사소송</strong>
+                                    김민성 고문변호사
                                 </span>
                             </div>
-                            <div className="card-text">
-                                <strong>
-                                    의뢰인의 소중한 권리와 자산 보호를 위해
-                                    <br />
-                                    <span className="white">
-                                        체계적
-                                    </span>이고{" "}
-                                    <span className="white">전략적</span>으로
-                                    접근합니다.
-                                </strong>
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                고문변호사
+                                <br />現{" "}
+                                <span className="white">엠디엠플러스</span>{" "}
+                                준법지원팀장
+                                <br />前 <span className="white">
+                                    GS건설
+                                </span>{" "}
+                                국내법무팀 변호사
+                                <br />
+                                <span className="white">서울대학교</span> 법학부
+                                졸업(학사)
+                                <br />
+                                <span className="white">연세대학교</span>{" "}
+                                법학전문대학원 졸업(전문석사)
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="spec">
-                    <div className="card-container spec2">
+                    <div className="card-container member-card-container">
                         <div>
-                            <div className="column-center">
-                                <img
-                                    loading="lazy"
-                                    src="img/hammer.png"
-                                    className="card-img"
-                                />
+                            <div className="row-center">
                                 <span className="card-title">
-                                    <strong> 행정쟁송</strong>
+                                    서예은 자문회계사
                                 </span>
                             </div>
-                            <div className="card-text">
-                                <strong>
-                                    국가로부터 권리를 침해받았을 경우
-                                    <br />
-                                    구제받을 수 있도록 행정쟁송의
-                                    <br />
-                                    <span className="white">조력자</span>가
-                                    되어드립니다.
-                                </strong>
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                자문회계사
+                                <br />現{" "}
+                                <span className="white">
+                                    회계법인 마일스톤
+                                </span>{" "}
+                                회계사
+                                <br />前{" "}
+                                <span className="white">
+                                    김&장 법률사무소
+                                </span>{" "}
+                                회계사
+                                <br />前{" "}
+                                <span className="white">
+                                    KPMG 삼정회계법인
+                                </span>{" "}
+                                세무자문본부
+                                <br />前{" "}
+                                <span className="white">
+                                    Deloitte 안진회계법인
+                                </span>{" "}
+                                회계감사본부
+                                <br />
+                                2012년 <span className="white">
+                                    공인회계사
+                                </span>{" "}
+                                합격
+                                <br />
+                                <span className="white">성균관대학교</span>{" "}
+                                경제학과 졸업
                             </div>
                         </div>
                     </div>
@@ -92,52 +120,148 @@ function Members() {
 
             <div className="container" data-aos="fade-up">
                 <div className="spec">
-                    <div className="card-container spec2">
+                    <div className="card-container member-card-container">
                         <div>
-                            <div className="column-center">
-                                <img
-                                    loading="lazy"
-                                    src="img/labor.png"
-                                    className="card-img"
-                                />
+                            <div className="row-center">
                                 <span className="card-title">
-                                    <strong> 노동쟁송</strong>
+                                    김혜진 자문세무사
                                 </span>
                             </div>
-                            <div className="card-text">
-                                <strong>
-                                    고문 노무사님과 함께
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                자문세무사
+                                <br />現{" "}
+                                <span className="white">
+                                    세무법인 더봄
+                                </span>{" "}
+                                홍대점 부대표 세무사
+                                <br />前 <span className="white">
+                                    롯데쇼핑
+                                </span>{" "}
+                                백화점사업본부
+                                <br />
+                                경영기획팀 / 점포 영업총괄팀
+                                <br />
+                                <span className="white">[저서]</span> 대리님
+                                세무 신고 이렇게 하는 게 맞아요?
+                                <br />
+                                <span className="white">더존에듀캠 강사</span> -
+                                신입사원을 위한 세무 강의
+                                <br />
+                                2017년 54기{" "}
+                                <span className="white">세무사</span> 합격
+                                <br />
+                                <span className="white">성균관대학교</span>{" "}
+                                경제학과 졸업
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="container" data-aos="fade-up">
+                    <div className="spec">
+                        <div className="card-container member-card-container">
+                            <div>
+                                <div className="row-center">
+                                    <span className="card-title">
+                                        김동권 자문노무사
+                                    </span>
+                                </div>
+                                <div className="member-card-text">
+                                    現{" "}
+                                    <span className="white">
+                                        노바법률사무소
+                                    </span>{" "}
+                                    자문노무사
+                                    <br />現{" "}
+                                    <span className="white">
+                                        노무법인 리담
+                                    </span>{" "}
+                                    광화문 본사 노무사
+                                    <br />前{" "}
+                                    <span className="white">
+                                        중소벤처기업부
+                                    </span>{" "}
+                                    비즈니스지원단 현장클리닉
+                                    <br />前{" "}
+                                    <span className="white">
+                                        고용노동부
+                                    </span>{" "}
+                                    일터혁신 컨설턴트
+                                    <br />前{" "}
+                                    <span className="white">
+                                        공인노무사회
+                                    </span>{" "}
+                                    노동시간 단축 전문 컨설턴트
+                                    <br />前{" "}
+                                    <span className="white">
+                                        대한민국 공군
+                                    </span>{" "}
+                                    군수사령부 인사장교
+                                    <br />前{" "}
+                                    <span className="white">
+                                        현대차그룹
+                                    </span>{" "}
+                                    현대엔지니어링 사내 노무사
                                     <br />
-                                    <span className="white">당연한 권리</span>를
-                                    누릴 수 있도록 돕습니다.
-                                </strong>
+                                    <span className="white">
+                                        고려대학교
+                                    </span>{" "}
+                                    경영대학원 석사과정
+                                    <br />
+                                    <span className="white">
+                                        경북대학교
+                                    </span>{" "}
+                                    사범대학
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="spec">
-                    <div className="card-container spec2">
+                    <div className="card-container member-card-container">
                         <div>
-                            <div className="column-center">
-                                <img
-                                    loading="lazy"
-                                    src="img/consulting.png"
-                                    className="card-img"
-                                />
+                            <div className="row-center">
                                 <span className="card-title">
-                                    <strong> 법률자문</strong>
+                                    오영석 자문의
                                 </span>
                             </div>
-                            <div className="card-text">
-                                <strong>
-                                    정기적인 법률자문이 필요한 경우
-                                    <br />
-                                    <span className="white">
-                                        믿을 수 있는
-                                    </span>{" "}
-                                    법률자문 서비스를 진행합니다.
-                                </strong>
+                            <div className="member-card-text">
+                                現 <span className="white">노바법률사무소</span>{" "}
+                                자문의
+                                <br />現{" "}
+                                <span className="white">
+                                    오늘도 365의원
+                                </span>{" "}
+                                원장
+                                <br />前{" "}
+                                <span className="white">
+                                    한양대학교의료원
+                                </span>{" "}
+                                외래교수
+                                <br />前{" "}
+                                <span className="white">EM365 영종점</span>{" "}
+                                부원장
+                                <br />前{" "}
+                                <span className="white">
+                                    연세메디람의원
+                                </span>{" "}
+                                호스피스전문 센터 진료과장
+                                <br />前{" "}
+                                <span className="white">오산한국병원</span>{" "}
+                                응급의학과 진료과장
+                                <br />
+                                <span className="white">
+                                    한양대학교 명지병원
+                                </span>{" "}
+                                권역응급의료센터 전공의
+                                <br />
+                                <span className="white">국제성모병원</span>{" "}
+                                수련의 수료
+                                <br />
+                                <span className="white">관동대학교</span>{" "}
+                                의과대학 졸업
                             </div>
                         </div>
                     </div>
