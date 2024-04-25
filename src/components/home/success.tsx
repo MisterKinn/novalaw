@@ -3,9 +3,9 @@ function Success() {
         <div data-aos="fade-up">
             <h1 className="success-title">
                 <span className="white">전문적인 구성원</span>들과{" "}
-                <span className="white">13건 이상의 승소사례</span>를
+                <span className="white">여러 건의 승소사례</span>를
                 <br />
-                여러 분야에서 쌓아냈습니다.
+                다양한 분야에서 쌓아냈습니다.
             </h1>
 
             <div className="success-button">

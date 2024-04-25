@@ -12,13 +12,13 @@ function Footer() {
     return (
         <div id="footer">
             <div className="footer-data">
-                <a href="/">
+                <a href="/terms" target="_blank" title="이용약관">
                     <h3 className="footer-button">이용약관</h3>
                 </a>
 
                 <div className="margin"></div>
 
-                <a href="/">
+                <a href="/privacy" target="_blank" title="개인정보 처리방침">
                     <h3 className="footer-button">개인정보 처리방침</h3>
                 </a>
             </div>
@@ -41,7 +41,7 @@ function Footer() {
                     사업자등록번호: <strong>248-13-02240</strong>
                 </h3>
 
-                <div className="footer-img-container-">
+                <div className="footer-icon">
                     <a
                         href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
                         target="_blank"
@@ -50,7 +50,7 @@ function Footer() {
                         <img
                             src="img/lawtalk.png"
                             alt="LawTalk Consult"
-                            className="footer-img"
+                            className="footer-img lawtalk-icon"
                         />
                     </a>
 
@@ -65,19 +65,19 @@ function Footer() {
                             className="footer-img"
                         />
                     </a>
-                    <span className="footer-img-margin"></span>
+
                     <a
-                        href="https://www.instagram.com/lawyer_dono/"
+                        href="https://www.instagram.com/lawyer_dono"
                         target="_blank"
                         title="CEO's instagram"
                     >
                         <img
                             src="img/instagram.webp"
                             alt="CEO's instagram"
-                            className="footer-img"
+                            className="footer-img instagram-icon"
                         />
                     </a>
-                    <span className="footer-img-margin"></span>
+
                     <a
                         href="https://www.youtube.com/@nova_law"
                         target="_blank"
@@ -86,7 +86,7 @@ function Footer() {
                         <img
                             src="img/youtube.png"
                             alt="Official YouTube Channel"
-                            className="footer-img"
+                            className="footer-img youtube-icon"
                         />
                     </a>
                 </div>

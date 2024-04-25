@@ -6,12 +6,13 @@ import "@/styles/aos.css";
 import "@/styles/novalaw.css";
 
 import Sidebar from "../../components/home/sidebar";
-import Home from "../../components/home/Home";
-import Greeting from "../../components/home/greeting";
-import Works from "../../components/home/works";
-import Success from "../../components/home/success";
-import Recruit from "../../components/home/recruit";
-import Footer from "../../components/home/Footer";
+import NavBar from "@/components/home/NavBar";
+import Home from "@/components/home/Home";
+import Greeting from "@/components/home/greeting";
+import Works from "@/components/home/works";
+import Success from "@/components/home/success";
+import Recruit from "@/components/home/recruit";
+import Footer from "@/components/home/Footer";
 
 function Novalaw() {
     useEffect(() => {
@@ -23,14 +24,11 @@ function Novalaw() {
     const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
     if (isMobile) {
-        return (
-            <div>
-            </div>
-        );
+        return <div></div>;
     } else {
         return (
             <div>
-                <Sidebar />
+                <NavBar />
                 <Home />
                 <Greeting />
                 <Works />

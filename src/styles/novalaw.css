@@ -32,6 +32,12 @@ body {
     filter: brightness(0.4);
 }
 
+.column-center {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5em;
+}
+
 .text-container {
     position: absolute;
     top: 50%;
@@ -252,6 +258,7 @@ body {
 .success-button {
     display: flex;
     justify-content: center;
+    margin-top: -2em;
 }
 
 .margin {
@@ -302,7 +309,7 @@ p {
 
 #footer {
     margin: 0;
-    background-color: #212529;
+    background-color: #202027;
 }
 
 .footer-data {
@@ -333,22 +340,52 @@ p {
     font-size: 23px;
 }
 
-.footer-img-conatiner {
-    justify-conten: center;
+.footer-icon {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-icon a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    width: 4em;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 10px;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-icon a:hover {
+    color: #24262b;
+    background-color: #ffffff;
 }
 
 .footer-img {
-    height: 50px;
-    width: auto;
+    height: 3.5em;
+    width: 3.5em;
 }
 
-.footer-img-margin {
-    margin: 10px;
+.lawtalk-icon {
+    margin-left: 0.5em;
+}
+
+.instagram-icon {
+    height: 2.5em;
+    width: 2.5em;
+}
+
+.youtube-icon {
+    height: 2em;
+    width: auto;
 }
 
 .footer-copyright {
     margin-top: 20px;
     text-align: center;
-    font-size: 25px;
+    font-size: 22.5px;
     color: grey;
 }

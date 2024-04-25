@@ -8,14 +8,16 @@ function Works() {
                 <div className="spec">
                     <div className="card-container spec2">
                         <div>
-                            <img
-                                loading="lazy"
-                                src="img/handcuffs.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 형사사건</strong>
-                            </span>
+                            <div className="column-center">
+                                <img
+                                    loading="lazy"
+                                    src="img/handcuffs.png"
+                                    className="card-img"
+                                />
+                                <span className="card-title">
+                                    <strong> 형사사건</strong>
+                                </span>
+                            </div>
                             <div className="card-text">
                                 <strong>
                                     수사단계부터 재판까지 의뢰인의 편에서
@@ -31,14 +33,16 @@ function Works() {
                 <div className="spec">
                     <div className="card-container spec2">
                         <div>
-                            <img
-                                loading="lazy"
-                                src="img/civil.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 민사소송</strong>
-                            </span>
+                            <div className="column-center">
+                                <img
+                                    loading="lazy"
+                                    src="img/civil.png"
+                                    className="card-img"
+                                />
+                                <span className="card-title">
+                                    <strong> 민사소송</strong>
+                                </span>
+                            </div>
                             <div className="card-text">
                                 <strong>
                                     의뢰인의 소중한 권리와 자산 보호를 위해
@@ -57,14 +61,16 @@ function Works() {
                 <div className="spec">
                     <div className="card-container spec2">
                         <div>
-                            <img
-                                loading="lazy"
-                                src="img/hammer.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 행정쟁송</strong>
-                            </span>
+                            <div className="column-center">
+                                <img
+                                    loading="lazy"
+                                    src="img/hammer.png"
+                                    className="card-img"
+                                />
+                                <span className="card-title">
+                                    <strong> 행정쟁송</strong>
+                                </span>
+                            </div>
                             <div className="card-text">
                                 <strong>
                                     국가로부터 권리를 침해받았을 경우
@@ -84,14 +90,16 @@ function Works() {
                 <div className="spec">
                     <div className="card-container spec2">
                         <div>
-                            <img
-                                loading="lazy"
-                                src="img/labor.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 노동쟁송</strong>
-                            </span>
+                            <div className="column-center">
+                                <img
+                                    loading="lazy"
+                                    src="img/labor.png"
+                                    className="card-img"
+                                />
+                                <span className="card-title">
+                                    <strong> 노동쟁송</strong>
+                                </span>
+                            </div>
                             <div className="card-text">
                                 <strong>
                                     고문 노무사님과 함께
@@ -107,14 +115,16 @@ function Works() {
                 <div className="spec">
                     <div className="card-container spec2">
                         <div>
-                            <img
-                                loading="lazy"
-                                src="img/consulting.png"
-                                className="card-img"
-                            />
-                            <span className="card-title">
-                                <strong> 법률자문</strong>
-                            </span>
+                            <div className="column-center">
+                                <img
+                                    loading="lazy"
+                                    src="img/consulting.png"
+                                    className="card-img"
+                                />
+                                <span className="card-title">
+                                    <strong> 법률자문</strong>
+                                </span>
+                            </div>
                             <div className="card-text">
                                 <strong>
                                     정기적인 법률자문이 필요한 경우

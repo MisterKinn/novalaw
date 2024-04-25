@@ -14,7 +14,7 @@ function Sidebar() {
 
             <a href="#greeting">인사말</a>
             <a href="#works">업무 소개</a>
-            <a href="#members">구성원</a>
+            <a href="/members">구성원</a>
             <a href="#">승소사례</a>
             <a href="#">미디어 소개</a>
             <a href="#">오시는 길</a>
