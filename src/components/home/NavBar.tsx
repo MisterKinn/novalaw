@@ -4,7 +4,7 @@ function NavBar() {
     return (
         <div>
             <nav id="nav-bar">
-                <a href="https://novalaw.kr" title="노바법률사무소" id="logo">
+                <a href="../" title="노바법률사무소" id="logo">
                     <img
                         src="img/novalaw-icon.png"
                         className="logo-img"
