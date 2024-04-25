@@ -1,17 +1,22 @@
-import "../../styles/navbar.css";
+import "@/styles/navbar.css";
 
 function NavBar() {
     return (
         <div>
             <nav id="nav-bar">
-                <div id="logo">
+                <a
+                    href="https://novalaw.kr"
+                    target="_blank"
+                    title="노바법률사무소"
+                    id="logo"
+                >
                     <img
                         src="img/novalaw-icon.png"
                         className="logo-img"
                         alt="Nova Law Firm Logo"
                     />
                     <span className="logo-text">노바법률사무소</span>
-                </div>
+                </a>
 
                 <div className="topnav">
                     <a href="#greeting" title="인사말">
