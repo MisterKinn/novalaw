@@ -1,4 +1,4 @@
-function RoadMap() {
+function Home() {
     return (
         <div>
             <header className="header">
@@ -20,4 +20,4 @@ function RoadMap() {
     );
 }
 
-export default RoadMap;
+export default Home;

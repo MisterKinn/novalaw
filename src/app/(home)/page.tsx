@@ -7,14 +7,15 @@ import "@/styles/novalaw.css";
 
 import NavBar from "@/components/home/NavBar";
 import Home from "@/components/home/Home";
-import Greeting from "@/components/home/greeting";
+import Greeting from "@/components/home/Greeting";
 import Works from "@/components/home/works";
-import Success from "@/components/home/success";
-import Recruit from "@/components/home/recruit";
+import Success from "@/components/home/Success";
+import Recruit from "@/components/home/Recruit";
 import Footer from "@/components/home/Footer";
 
-import MobileNavBar from "@/components/home/mobile/NavBar";
-import SideBar from "@/components/home/sidebar";
+import SideBar from "@/components/home/mobile/SideBar";
+import MobileHome from "@/components/home/mobile/Home";
+import MobileGreeting from "@/components/home/mobile/Greeting";
 
 function NovaLaw() {
     useEffect(() => {
@@ -26,10 +27,13 @@ function NovaLaw() {
     const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
     if (isMobile) {
-        return <div>
-        
+        return (
+        <div>
             <SideBar />
-        </div>;
+            <MobileHome />
+            <MobileGreeting />
+        </div>
+        );
     } else {
         return (
             <div>
