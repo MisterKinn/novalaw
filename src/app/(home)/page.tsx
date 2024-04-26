@@ -13,6 +13,9 @@ import Success from "@/components/home/success";
 import Recruit from "@/components/home/recruit";
 import Footer from "@/components/home/Footer";
 
+import MobileNavBar from "@/components/home/mobile/NavBar";
+import SideBar from "@/components/home/sidebar";
+
 function NovaLaw() {
     useEffect(() => {
         AOS.init({
@@ -23,7 +26,10 @@ function NovaLaw() {
     const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
     if (isMobile) {
-        return <div></div>;
+        return <div>
+        
+            <SideBar />
+        </div>;
     } else {
         return (
             <div>
