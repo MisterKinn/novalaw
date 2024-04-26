@@ -1,10 +1,17 @@
+nextjs-portal {
+    display: none;
+}
+
+#page {
+    overflow: hidden;
+}
+
 body {
     margin: 0;
     padding: 0;
     font-family: "__Inter_aaf875", "__Inter_Fallback_aaf875";
     background-color: black;
     position: relative;
-    overflow-x: hidden;
     scroll-behavior: smooth;
 }
 
@@ -50,14 +57,29 @@ body {
 }
 
 .title {
+    margin: 0.5em;
     font-size: 3.75em;
     color: white;
-    margin: 0.5em;
+}
+
+.mobile-title {
+    margin: 0.75em;
+    margin-left: -3em;
+    margin-right: -3em;
+    color: white;
 }
 
 .sub-title {
     margin-bottom: -1em;
-    font-size: 1.75em;
+    font-size: 1.25em;
+    color: #ccc;
+}
+
+.mobile-sub-title {
+    margin-bottom: -1em;
+    margin-left: -3em;
+    margin-right: -3em;
+    font-size: 1.5em;
     color: #ccc;
 }
 
@@ -111,6 +133,13 @@ body {
     white-space: nowrap;
 }
 
+.sidebar-join {
+    margin-left: -0.5em;
+    padding: 0;
+    height: 3.5em;
+    width: 10em;
+}
+
 .join span {
     mix-blend-mode: difference;
     font-size: 150%;
@@ -161,6 +190,13 @@ body {
     color: white;
 }
 
+.mobile-introduce {
+    text-align: center;
+    margin-top: 5em;
+    font-size: 3em;
+    color: white;
+}
+
 .member-title {
     text-align: center;
     margin-top: 3em;
@@ -173,7 +209,7 @@ body {
     margin: 70px;
     margin-top: -1.25em;
     font-size: 35px;
-    color: grey;
+    color: #a0a0a0;
 }
 
 .greeting {
@@ -181,6 +217,21 @@ body {
     justify-content: center;
     text-align: left;
     margin-top: -1em;
+}
+
+.mobile-greeting-container {
+    text-align: center;
+}
+
+.mobile-greeting-img {
+    margin-top: -5em;
+    height: 30em;
+    width: auto;
+}
+
+.mobile-greeting-text {
+    font-size: 1.25em;
+    font-weight: bold;
 }
 
 .intro-text {
@@ -206,6 +257,11 @@ body {
     border-radius: 16px;
     margin: 10px;
     padding: 24px;
+}
+
+.mobile-card-container {
+    height: 3.5em;
+    width: 8em;
 }
 
 .member-card-container {
@@ -247,7 +303,13 @@ body {
 .card-text {
     text-align: left;
     font-size: 22px;
-    color: grey;
+    color: #a0a0a0;
+}
+
+.mobile-card-text {
+    text-align: left;
+    font-size: 17px;
+    color: #a0a0a0;
 }
 
 .member-card-text {
@@ -303,7 +365,17 @@ body {
     margin: 70px;
     margin-top: 250px;
     font-size: 60px;
-    color: grey;
+    color: #a0a0a0;
+}
+
+.mobile-success-title {
+    text-align: center;
+    margin: 70px;
+    margin-top: 250px;
+    margin-left: -3em;
+    margin-right: -3em;
+    font-size: 35px;
+    color: #a0a0a0;
 }
 
 .success-button {
@@ -341,16 +413,36 @@ body {
     background-color: #0064ff;
 }
 
+.learn-more-mobile {
+    height: 4em;
+    width: 10em;
+}
+
+.mobile-footer-title {
+    margin: 0.5em;
+    margin-left: -3em;
+    margin-right: -3em;
+    font-size: 2.5em;
+    color: white;
+}
+
 .footer-sub-title {
     margin-top: -0.5em;
     font-size: 1.75em;
     color: #ccc;
 }
 
+.mobile-footer-sub-title {
+    margin-left: -3em;
+    margin-right: -3em;
+    font-size: 1.5em;
+    color: #ccc;
+}
+
 p {
     text-align: center;
     font-size: 25px;
-    color: grey;
+    color: #a0a0a0;
 }
 
 .center {
@@ -376,6 +468,13 @@ p {
     margin-bottom: 0;
 }
 
+.mobile-footer-data2 {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    margin-bottom: 0;
+}
+
 .footer-data a {
     color: white;
     text-decoration: none;
@@ -383,7 +482,7 @@ p {
 
 .footer-text {
     margin-top: -3em;
-    color: grey;
+    color: #a0a0a0;
     font-weight: normal;
 }
 
@@ -391,9 +490,17 @@ p {
     font-size: 23px;
 }
 
+.mobile-footer-text {
+    margin-top: -3em;
+    color: #a0a0a0;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
 .footer-icon {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .footer-icon a {
@@ -426,12 +533,30 @@ p {
     margin-left: 0.5em;
 }
 
+.mobile-lawtalk-icon {
+    height: 3em;
+    width: 4em;
+    padding-left: 0.5em;
+}
+
 .kakaotalk-icon {
     height: 3em;
     width: 3em;
 }
 
+.mobile-kakaotalk-icon {
+    padding: 1em;
+    height: 3em;
+    width: 4em;
+}
+
 .instagram-icon {
+    height: 2em;
+    width: 2em;
+}
+
+.mobile-instagram-icon {
+    padding: 1em;
     height: 2em;
     width: 2em;
 }
@@ -441,9 +566,19 @@ p {
     width: auto;
 }
 
+.mobile-youtube-icon {
+    padding: 1em;
+    height: 1.5em;  
+    width: auto;
+}
+
+.footer-blank {
+    margin: 3em;
+}
+
 .footer-copyright {
     margin-top: 20px;
     text-align: center;
     font-size: 22.5px;
-    color: grey;
+    color: #a0a0a0;
 }

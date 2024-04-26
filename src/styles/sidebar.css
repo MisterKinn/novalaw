@@ -68,9 +68,9 @@
     background-color: #ffffff;
     color: #333333;
     height: 3em;
-    width: 8em;
+    width: 9em;
     margin: 0;
-    margin-left: -0.4em;
+    margin-left: -0.75em;
     padding: 10px 20px;
     border-radius: 30px;
     border: 2px solid #333333;
@@ -82,4 +82,9 @@
 .apply:hover {
     background-color: #333333;
     color: #ffffff;
+}
+
+.close-img {
+    height: 1em;
+    width: auto;
 }
