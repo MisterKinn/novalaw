@@ -1,5 +1,5 @@
 import "@/styles/sidebar.css";
-import { openMenu, closeMenu } from "../../../app/sidebar";
+import { openMenu, closeMenu } from "@/app/sidebar";
 
 function Sidebar() {
     return (
@@ -9,7 +9,11 @@ function Sidebar() {
             </button>
 
             <a className="closebtn" onClick={closeMenu}>
-                <img src="img/close.png" alt="Close Menu" className="close-img" />
+                <img
+                    src="img/close.png"
+                    alt="Close Menu"
+                    className="close-img"
+                />
             </a>
 
             <a href="#greeting">인사말</a>
@@ -37,7 +41,11 @@ function Sidebar() {
                 (포스코타워, 26층)
             </p>
 
-            <a href="mailto:nova@novalaw.kr" target="_blank" title="상담 신청하기">
+            <a
+                href="mailto:nova@novalaw.kr"
+                target="_blank"
+                title="상담 신청하기"
+            >
                 <button className="join sidebar-join">상담 신청하기</button>
             </a>
         </div>
