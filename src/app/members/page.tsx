@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import AOS from "aos";
 import "@/styles/aos.css";
 
-import "@/styles/novalaw.css";
+import "@/styles/style.css";
 import NavBar from "@/components/home/NavBar";
 
 function Members() {

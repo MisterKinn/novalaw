@@ -10,7 +10,7 @@ function Recruit() {
             <h2 className="mobile-footer-sub-title">
                 저희는 항상 의뢰인만을
                 <br />
-                위하여 일합니다
+                위하여 일합니다.
                 <br />
                 법률적 도움이 필요하시면
                 <br />

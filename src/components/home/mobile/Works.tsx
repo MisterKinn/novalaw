@@ -51,9 +51,8 @@ function Works() {
                                 <strong>
                                     의뢰인의 소중한 권리와
                                     <br />
-                                    자산 보호를 위해 <span className="white">
-                                        체계적
-                                    </span>이고
+                                    자산 보호를 위해{" "}
+                                    <span className="white">체계적</span>이고
                                     <br />
                                     <span className="white">전략적</span>으로
                                     접근합니다.
@@ -65,7 +64,6 @@ function Works() {
             </div>
 
             <div className="container" data-aos="fade-up">
-
                 <div className="spec">
                     <div className="card-container mobile-card-container">
                         <div>
@@ -83,8 +81,9 @@ function Works() {
                                 <strong>
                                     국가로부터 권리를 침해받았을
                                     <br />
-                                    경우 구제받을 수 있도록
-                                    행정쟁송의 <span className="white">조력자</span>가
+                                    경우 구제받을 수 있도록 행정쟁송의
+                                    <br />
+                                    <span className="white">조력자</span>가
                                     되어드립니다.
                                 </strong>
                             </div>
@@ -109,7 +108,8 @@ function Works() {
                             </div>
                             <div className="mobile-card-text">
                                 <strong>
-                                    고문 노무사님과 함께 <span className="white">당연한 권리</span>를
+                                    고문 노무사님과 함께{" "}
+                                    <span className="white">당연한 권리</span>를
                                     <br />
                                     누릴 수 있도록 돕습니다.
                                 </strong>

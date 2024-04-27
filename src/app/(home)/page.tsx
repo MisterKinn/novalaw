@@ -3,12 +3,12 @@ import React, { useEffect } from "react";
 import { useMediaQuery } from "react-responsive";
 import AOS from "aos";
 import "@/styles/aos.css";
-import "@/styles/novalaw.css";
+import "@/styles/style.css";
 
 import NavBar from "@/components/home/NavBar";
 import Home from "@/components/home/Home";
 import Greeting from "@/components/home/Greeting";
-import Works from "@/components/home/works";
+import Works from "@/components/home/Works";
 import Success from "@/components/home/Success";
 import Recruit from "@/components/home/Recruit";
 import Footer from "@/components/home/Footer";
@@ -32,15 +32,15 @@ function NovaLaw() {
 
     if (isMobile) {
         return (
-        <div id="page">
-            <SideBar />
-            <MobileHome />
-            <MobileGreeting />
-            <MobileWorks />
-            <MobileSuccess />
-            <MobileRecruit />
-            <MobileFooter />
-        </div>
+            <div id="page">
+                <SideBar />
+                <MobileHome />
+                <MobileGreeting />
+                <MobileWorks />
+                <MobileSuccess />
+                <MobileRecruit />
+                <MobileFooter />
+            </div>
         );
     } else {
         return (
