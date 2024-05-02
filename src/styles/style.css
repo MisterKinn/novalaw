@@ -16,7 +16,7 @@ body {
 }
 
 .blank {
-    margin-top: 1000px;
+    margin-top: 150px;
 }
 
 .header {
@@ -212,6 +212,15 @@ body {
     color: #a0a0a0;
 }
 
+.mobile-member-subtitle {
+    text-align: center;
+    margin-top: -1.25em;
+    margin-left: -3em;
+    margin-right: -3em;
+    font-size: 30px;
+    color: #a0a0a0;
+}
+
 .greeting {
     display: flex;
     justify-content: center;
@@ -269,9 +278,24 @@ body {
     width: 12em;
 }
 
+.mobile-member-card-container {
+    height: 8em;
+    width: 9em;
+}
+
+.mobile-kms-member-card-container {
+    height: 5em;
+    width: 9em;
+}
+
 .donho-card-container {
     height: 10.5em;
     width: 23em;
+}
+
+.mobile-donho-card-container {
+    height: 15em;
+    width: 9em;
 }
 
 .white {
@@ -319,6 +343,14 @@ body {
     color: #a0a0a0;
 }
 
+.mobile-member-card-text {
+    margin-top: 0.5em;
+    margin-right: -1em;
+    text-align: left;
+    font-size: 18px;
+    color: #a0a0a0;
+}
+
 .donho-card-text {
     display: flex;
     flex-direction: row;
@@ -326,6 +358,11 @@ body {
     margin-top: 0.5em;
     text-align: left;
     font-size: 22px;
+    color: #a0a0a0;
+}
+
+.mobile-donho-card-text {
+    font-size: 20px;
     color: #a0a0a0;
 }
 
@@ -416,6 +453,22 @@ body {
 .learn-more-mobile {
     height: 4em;
     width: 10em;
+}
+
+.terms-text {
+    text-align: left;
+    margin-left: 7.5em;
+    margin-right: 7.5em;
+    font-size: 20px;
+    color: #c3c3c6;
+}
+
+.mobile-terms-text {
+    text-align: left;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    font-size: 20px;
+    color: #c3c3c6;
 }
 
 .mobile-footer-title {
@@ -568,7 +621,7 @@ p {
 
 .mobile-youtube-icon {
     padding: 1em;
-    height: 1.5em;  
+    height: 1.5em;
     width: auto;
 }
 

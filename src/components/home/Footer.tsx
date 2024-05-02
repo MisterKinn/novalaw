@@ -18,7 +18,7 @@ function Footer() {
 
                 <div className="margin"></div>
 
-                <a href="/privacy" target="_blank" title="개인정보 처리방침">
+                <a href="/policy" target="_blank" title="개인정보 처리방침">
                     <h3 className="footer-button">개인정보 처리방침</h3>
                 </a>
             </div>

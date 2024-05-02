@@ -5,8 +5,8 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 
-import DesktopPage from "@/app/terms/desktop/page";
-import MobilePage from "@/app/terms/mobile/page";
+import DesktopPage from "@/app/policy/desktop/page";
+import MobilePage from "@/app/policy/mobile/page";
 
 function Members() {
     useEffect(() => {

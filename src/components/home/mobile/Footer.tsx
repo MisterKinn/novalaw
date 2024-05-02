@@ -18,7 +18,7 @@ function Footer() {
 
                 <div className="margin"></div>
 
-                <a href="/privacy" target="_blank" title="개인정보 처리방침">
+                <a href="/policy" target="_blank" title="개인정보 처리방침">
                     <h3 className="footer-button">개인정보 처리방침</h3>
                 </a>
             </div>
@@ -27,8 +27,7 @@ function Footer() {
                 <h3 className="mobile-footer-text">
                     회사명: <strong>노바법률사무소</strong>
                     <br />
-                    대표:{" "}
-                    <strong>이돈호</strong>
+                    대표: <strong>이돈호</strong>
                     <br />
                     주소:{" "}
                     <strong>
@@ -40,8 +39,7 @@ function Footer() {
                     <br />
                     전화: <strong>032-212-4047</strong>
                     <br />
-                    FAX:{" "}
-                    <strong>032-232-7047</strong>
+                    FAX: <strong>032-232-7047</strong>
                     <br />
                     사업자등록번호: <strong>248-13-02240</strong>
                 </h3>
