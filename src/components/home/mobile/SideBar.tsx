@@ -1,5 +1,6 @@
-import "@/styles/sidebar.css";
+"use client";
 import { openMenu, closeMenu } from "@/app/sidebar";
+import "@/styles/sidebar.css";
 
 function Sidebar() {
     return (
