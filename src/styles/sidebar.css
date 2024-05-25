@@ -6,27 +6,30 @@
     top: 0;
     left: 0;
     background-color: #111;
-    overflow-x: hidden;
     transition: 0.3s;
     padding-top: 60px;
 }
 
 .sidebar a {
+    display: block;
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 20px;
     color: white;
-    display: block;
     transition: 0.3s;
 }
 
-/*메뉴열기 hover 시*/
 .sidebar a:hover {
     color: #f1f1f1;
 }
 
+.sidebar-content {
+    display: none;
+}
+
 .openbtn {
     top: 0;
+    left: 0;
     font-size: 20px;
     cursor: pointer;
     position: fixed;
