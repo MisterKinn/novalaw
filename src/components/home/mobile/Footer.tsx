@@ -32,8 +32,9 @@ function Footer() {
                     <br />
                     주소:{" "}
                     <strong>
-                        인천시 연수구 컨벤시아대로 165 포스코타워-송도 26층
-                        2625호
+                        인천시 연수구 컨벤시아대로 165
+                        <br />
+                        포스코타워-송도 26층 2625호
                     </strong>
                     <br />
                     이메일: <strong>nova@novalaw.kr</strong>
@@ -45,7 +46,7 @@ function Footer() {
                     사업자등록번호: <strong>248-13-02240</strong>
                 </h3>
 
-                <div className="footer-icon">
+                <div className="mobile-footer-icon">
                     <a
                         href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
                         target="_blank"
@@ -97,11 +98,10 @@ function Footer() {
             </div>
 
             <div className="footer-blank"></div>
-            <div className="footer-copyright">
+
+            <div className="mobile-footer-copyright">
                 &copy; <span id="copyright-year" ref={yearRef} />{" "}
-                <strong>노바법률사무소</strong>.
-                <br />
-                All Rights Reserved.
+                <strong>노바법률사무소</strong>. All Rights Reserved.
                 <br />
                 <br />
             </div>

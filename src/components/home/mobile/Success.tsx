@@ -13,20 +13,26 @@ function Success() {
 
             <div className="success-button" data-aos="fade-up">
                 <a href="/members" target="_blank" title="구성원 더 알아보기">
-                    <button className="learn-more learn-more-mobile" role="button">
-                        구성원 더
-                        <br />
-                        알아보기
+                    <button
+                        className="learn-more learn-more-mobile"
+                        role="button"
+                    >
+                        <span className="mobile-learn-more-text">
+                            구성원 더 알아보기
+                        </span>
                     </button>
                 </a>
 
                 <div className="margin"></div>
 
                 <a href="/success" target="_blank" title="승소사례 더 알아보기">
-                    <button className="learn-more learn-more-mobile" role="button">
-                        승소사례 더
-                        <br />
-                        알아보기
+                    <button
+                        className="learn-more learn-more-mobile"
+                        role="button"
+                    >
+                        <span className="mobile-learn-more-text">
+                            승소사례 더 알아보기
+                        </span>
                     </button>
                 </a>
             </div>

@@ -21,9 +21,10 @@ function Sidebar() {
                 <a href="../#greeting">인사말</a>
                 <a href="../#works">업무 소개</a>
                 <a href="/members">구성원</a>
-                <a href="#">승소사례</a>
-                <a href="#">미디어 소개</a>
-                <a href="#">오시는 길</a>
+                <a href="/success">승소사례</a>
+                <a href="/appreciation">감사인사</a>
+                <a href="/media">미디어 소개</a>
+                <a href="/location">오시는 길</a>
                 <h3 className="bottom-border">Contact Us</h3>
                 <p className="sidebar-info">
                     Mail: <strong>nova@novalaw.kr</strong>

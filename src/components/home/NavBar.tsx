@@ -26,10 +26,13 @@ function NavBar() {
                     <a href="/success" title="승소사례">
                         승소사례
                     </a>
-                    <a href="#" title="미디어 소개">
+                    <a href="/appreciation" title="감사인사">
+                        감사인사
+                    </a>
+                    <a href="/media" title="미디어 소개">
                         미디어 소개
                     </a>
-                    <a href="#" title="오시는 길">
+                    <a href="/location" title="오시는 길">
                         오시는 길
                     </a>
                 </div>
