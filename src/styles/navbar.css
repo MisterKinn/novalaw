@@ -10,29 +10,10 @@
     align-items: center;
 }
 
-#mobile-nav-bar {
-    position: fixed;
-    top: 1em;
-    left: 0;
-    height: 75px;
-    width: 100%;
-    z-index: 100;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 #logo {
     display: flex;
     align-items: center;
     column-gap: 10px;
-    text-decoration: none;
-}
-
-#mobile-logo {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     text-decoration: none;
 }
 
@@ -42,19 +23,9 @@
     width: auto;
 }
 
-.mobile-logo-img {
-    margin-left: 0;
-    height: 40px;
-    width: auto;
-}
-
 .logo-text {
     font-size: 25px;
-    color: white;
-}
-
-.mobile-logo-text {
-    font-size: 16px;
+    font-weight: bold;
     color: white;
 }
 

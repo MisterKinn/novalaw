@@ -1,7 +1,7 @@
 function Home() {
     return (
-        <div>
-            <header className="header">
+        <div id="Home">
+            <header>
                 <img
                     src="img/posco-mobile.png"
                     alt="GMSH RoadMap"

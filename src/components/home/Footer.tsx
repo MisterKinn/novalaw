@@ -80,9 +80,9 @@ function Footer() {
                     </a>
 
                     <a
-                        href="https://www.youtube.com/@nova_law"
+                        href="https://www.youtube.com/@donosaTV"
                         target="_blank"
-                        title="Official YouTube Channel"
+                        title="CEO's YouTube Channel"
                     >
                         <img
                             src="img/youtube.png"

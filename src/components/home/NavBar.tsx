@@ -26,9 +26,6 @@ function NavBar() {
                     <a href="/success" title="승소사례">
                         승소사례
                     </a>
-                    <a href="/appreciation" title="감사인사">
-                        감사인사
-                    </a>
                     <a href="/media" title="미디어 소개">
                         미디어 소개
                     </a>

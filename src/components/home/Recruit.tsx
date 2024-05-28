@@ -11,13 +11,26 @@ function Recruit() {
                 <br />
                 법률적 도움이 필요하시면 언제나 부담없이 연락주세요
             </h2>
+
             <a
-                href="mailto:nova@novalaw.kr"
+                href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
                 target="_blank"
-                title="상담 신청하기"
+                title="로톡 상담"
             >
                 <button className="join">
-                    <span>상담 신청하기</span>
+                    <span>로톡 상담</span>
+                </button>
+            </a>
+
+            <span style={{margin: "1em"}}></span>
+
+            <a
+                href="https://pf.kakao.com/_CXxhwG"
+                target="_blank"
+                title="카카오톡 상담"
+            >
+                <button className="join">
+                    <span>카카오톡 상담</span>
                 </button>
             </a>
         </div>

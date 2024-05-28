@@ -30,17 +30,16 @@
 .openbtn {
     top: 0;
     left: 0;
-    font-size: 20px;
     cursor: pointer;
     position: fixed;
-    background-color: #111;
-    color: white;
     padding: 10px 15px;
+    background-color: transparent;
     border: none;
 }
 
-.openbtn:hover {
-    background-color: #444;
+.menubar {
+    height: 75px;
+    width: auto;
 }
 
 .close-img {
