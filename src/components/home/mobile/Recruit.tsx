@@ -22,6 +22,7 @@ function Recruit() {
                     href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
                     target="_blank"
                     title="로톡 상담"
+                    className="no-bottom"
                 >
                     <button className="join">
                         <span>로톡 상담</span>
