@@ -8,6 +8,7 @@ import "@/styles/style.css";
 import "@/styles/desktop/media.css";
 import "@/styles/desktop/navbar.css";
 import "@/styles/desktop/stickynav.css";
+import "@/styles/desktop/footer.css";
 
 import NavBar from "@/components/home/NavBar";
 import StickyNav from "@/components/home/StickyNav";
