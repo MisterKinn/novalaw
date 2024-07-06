@@ -14,6 +14,7 @@ import StickyNav from "@/components/home/StickyNav";
 import Donho from "@/components/media/desktop/Donho";
 import Nova from "@/components/media/desktop/Nova";
 import Broadcast from "@/components/media/desktop/Broadcast";
+import Footer from "@/components/home/Footer";
 // import MobilePage from "@/app/media/mobile/page";
 
 function Media() {
@@ -35,6 +36,7 @@ function Media() {
                 <Donho />
                 <Nova />
                 <Broadcast />
+                <Footer />
             </div>
         );
     }
