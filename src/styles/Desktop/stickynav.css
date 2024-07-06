@@ -1,0 +1,22 @@
+#sticky-nav {
+    position: fixed;
+    right: 2em;
+    bottom: 2em;
+    z-index: 100;
+}
+
+.sticky-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sticky-img img {
+    height: 5em;
+    width: auto;
+}
+
+#lawtalk {
+    height: 5.5em;
+    width: auto;
+}

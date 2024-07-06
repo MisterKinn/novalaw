@@ -49,6 +49,11 @@
     border-radius: 10px;
 }
 
+.consult-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
 .consult-button p {
     font-size: 1.75em;
     font-weight: bold;

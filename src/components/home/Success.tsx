@@ -20,7 +20,9 @@ function Success() {
                                 <p>구성원 더 알아보기 {">"}</p>
                             </div>
                         </a>
-                        <div className="margin"></div>
+
+                        <div className="margin" />
+
                         <a
                             href="#"
                             target="_blank"

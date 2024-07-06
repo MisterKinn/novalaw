@@ -21,6 +21,17 @@ function Home() {
                             의뢰인의 든든한 법률 파트너,
                         </h2>
                         <h1 className="title">노바법률사무소입니다.</h1>
+
+                        <a
+                            href="#"
+                            target="_blank"
+                            title="CEO 인사말 보러가기"
+                            className="greeting-button"
+                        >
+                            <div>
+                                <p>CEO 인사말 보러가기 {">"}</p>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </header>

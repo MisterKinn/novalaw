@@ -49,3 +49,32 @@
     border-top: 2.5px white solid;
     color: #ccc;
 }
+
+.greeting-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2.5em;
+    text-decoration: none;
+}
+
+.greeting-button div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+    width: 20em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.greeting-button div:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.greeting-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}

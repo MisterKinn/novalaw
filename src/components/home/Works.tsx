@@ -18,6 +18,18 @@ function Works() {
                     <br />
                     의뢰인의 편에서 솔루션을 제시하는 노바법률사무소입니다.
                 </h3>
+
+                <a
+                    href="#"
+                    target="_blank"
+                    title="업무분야 더 알아보기"
+                    className="works-button"
+                >
+                    <div>
+                        <p>업무분야 더 알아보기 {">"}</p>
+                    </div>
+                </a>
+
                 <div className="container" data-aos="fade-up">
                     <div className="card-container">
                         <div>

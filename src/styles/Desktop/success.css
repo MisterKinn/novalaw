@@ -15,6 +15,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 5em;
     padding: 3em;
     background-color: #1c1c1c;
     z-index: 1;
@@ -48,6 +49,11 @@
     width: 20em;
     background-color: #4051ff;
     border-radius: 10px;
+}
+
+.learn-more:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
 }
 
 .learn-more p {

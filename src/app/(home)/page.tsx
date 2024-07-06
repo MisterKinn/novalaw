@@ -6,8 +6,8 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 
 import NavBar from "@/components/home/NavBar";
+import StickyNav from "@/components/home/StickyNav";
 import Home from "@/components/home/Home";
-import Greeting from "@/components/home/Greeting";
 import Works from "@/components/home/Works";
 import Success from "@/components/home/Success";
 import Media from "@/components/home/Media";
@@ -48,6 +48,7 @@ function NovaLaw() {
         return (
             <div id="page">
                 <NavBar />
+                <StickyNav />
                 <Home />
                 <Works />
                 <Success />
