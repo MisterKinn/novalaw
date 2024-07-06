@@ -5,10 +5,10 @@ import { useMediaQuery } from "react-responsive";
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
-import "@/styles/desktop/media.css";
-import "@/styles/desktop/navbar.css";
-import "@/styles/desktop/stickynav.css";
-import "@/styles/desktop/footer.css";
+import "@/styles/Desktop/media.css";
+import "@/styles/Desktop/navbar.css";
+import "@/styles/Desktop/stickynav.css";
+import "@/styles/Desktop/footer.css";
 
 import NavBar from "@/components/home/NavBar";
 import StickyNav from "@/components/home/StickyNav";
