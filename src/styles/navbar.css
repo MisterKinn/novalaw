@@ -6,19 +6,7 @@
     width: 100%;
     z-index: 100;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-#mobile-nav-bar {
-    position: fixed;
-    top: 1em;
-    left: 0;
-    height: 75px;
-    width: 100%;
-    z-index: 100;
-    display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
@@ -26,56 +14,27 @@
     display: flex;
     align-items: center;
     column-gap: 10px;
-    text-decoration: none;
-}
-
-#mobile-logo {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    margin-right: 5em;
     text-decoration: none;
 }
 
 .logo-img {
-    margin-left: 2em;
     height: 40px;
     width: auto;
-}
-
-.mobile-logo-img {
-    margin-left: 0;
-    height: 40px;
-    width: auto;
-}
-
-.logo-text {
-    font-size: 25px;
-    color: white;
-}
-
-.mobile-logo-text {
-    font-size: 16px;
-    color: white;
 }
 
 .topnav {
     overflow: hidden;
-    background-color: #1c1c1c;
 }
 
 .topnav a {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 20px 16px;
+    padding: 30px;
     text-decoration: none;
     height: 100%;
-    font-size: 17px;
-}
-
-.mobile-nav a {
-    height: 0.5em;
-    width: 3em;
+    font-size: 22.5px;
 }
 
 .topnav a:hover {

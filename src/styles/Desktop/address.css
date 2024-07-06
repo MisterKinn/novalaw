@@ -1,0 +1,25 @@
+.address-title {
+    margin-top: 2em;
+    margin-left: 2em;
+    font-size: 5em;
+    color: #131d7d;
+}
+
+.address-subtitle {
+    margin-top: -1.5em;
+    margin-left: 5em;
+    font-size: 2em;
+    color: #a0a0a0;
+}
+
+.map-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.map-container iframe {
+    margin-top: 5em;
+    height: 40em;
+    width: 70em;
+}

@@ -10,7 +10,9 @@ import Home from "@/components/home/Home";
 import Greeting from "@/components/home/Greeting";
 import Works from "@/components/home/Works";
 import Success from "@/components/home/Success";
-import Recruit from "@/components/home/Recruit";
+import Media from "@/components/home/Media";
+import Address from "@/components/home/Address";
+import Consult from "@/components/home/Consult";
 import Footer from "@/components/home/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
@@ -47,10 +49,11 @@ function NovaLaw() {
             <div id="page">
                 <NavBar />
                 <Home />
-                <Greeting />
                 <Works />
                 <Success />
-                <Recruit />
+                <Media />
+                <Address />
+                <Consult />
                 <Footer />
             </div>
         );

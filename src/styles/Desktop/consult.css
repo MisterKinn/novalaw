@@ -1,0 +1,62 @@
+#consult {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-top: 10em;
+}
+
+.consult-bg {
+    height: 40em;
+    width: 122em;
+    filter: brightness(0.8);
+}
+
+.consult-container {
+    position: absolute;
+    margin-left: 15em;
+}
+
+.consult-title {
+    font-size: 4em;
+    color: white;
+}
+
+.consult-subtitle {
+    margin-top: -1.5em;
+    font-size: 2em;
+    color: #a0a0a0;
+}
+
+.consult-buttons {
+    display: flex;
+    justify-content: center;
+    margin-left: -2.5em;
+}
+
+.consult-buttons a {
+    text-decoration: none;
+}
+
+.consult-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 5em;
+    width: 25em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.consult-button p {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: white;
+}
+
+.consult-button img {
+    margin-left: 0.75em;
+    height: 4em;
+    width: auto;
+}

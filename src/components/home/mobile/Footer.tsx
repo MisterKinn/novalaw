@@ -34,12 +34,12 @@ function Footer() {
                     <strong>
                         인천시 연수구 컨벤시아대로 165
                         <br />
-                        포스코타워-송도 26층 2625호
+                        포스코타워-송도 26층 2609호
                     </strong>
                     <br />
                     이메일: <strong>nova@novalaw.kr</strong>
                     <br />
-                    전화: <strong>032-212-4047</strong>
+                    전화: <strong>010-2697-4947</strong>
                     <br />
                     FAX: <strong>032-232-7047</strong>
                     <br />

@@ -1,0 +1,123 @@
+#success {
+    margin-top: 31em;
+    background-color: #1c1c1c;
+}
+
+.success-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.success-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+    background-color: #1c1c1c;
+    z-index: 1;
+}
+
+.success-title {
+    padding-top: 4em;
+    padding-bottom: 4em;
+    margin-left: 2em;
+    font-size: 3.5em;
+    color: white;
+}
+
+.success-button {
+    display: flex;
+    justify-content: center;
+    margin-top: -12.5em;
+    margin-left: 7em;
+    margin-bottom: 10em;
+}
+
+.success-button a {
+    text-decoration: none;
+}
+
+.learn-more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+    width: 20em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.learn-more p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #1c1c1c;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    margin-right: -40em;
+    animation: moveLeft 5s ease-in-out infinite;
+}
+
+.card-container3 {
+    margin: 2em;
+    margin-left: -1em;
+    height: 32.5em;
+    width: 26em;
+    background-color: white;
+    border: 5px solid #d9d9d9;
+}
+
+.nova-logo {
+    margin-left: 3em;
+    margin-top: -1.5em;
+    height: 50px;
+    width: auto;
+}
+
+.success-card-title {
+    margin: 1em;
+    font-size: 1.7em;
+    color: #141d7d;
+}
+
+.success-card-text {
+    margin: 1em;
+    text-align: left;
+    font-size: 1.25em;
+    color: #6e7083;
+}
+
+.success-parts {
+    margin: 1.5em;
+    margin-bottom: 0.5em;
+    padding-right: 12em;
+}
+
+.success-card-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 1em;
+    margin-top: -0.1em;
+    border-top: 1px gray solid;
+}
+
+.success-card-bottom p {
+    font-size: 1em;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+@keyframes moveLeft {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-79vw);
+    }
+}

@@ -1,3 +1,5 @@
+import "@/styles/Desktop/greeting.css";
+
 function Greeting() {
     return (
         <div id="greeting">

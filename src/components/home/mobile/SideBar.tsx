@@ -22,14 +22,13 @@ function Sidebar() {
                 <a href="../#works">업무 소개</a>
                 <a href="/members">구성원</a>
                 <a href="/success">승소사례</a>
-                <a href="/appreciation">감사인사</a>
                 <a href="/media">미디어 소개</a>
                 <a href="/location">오시는 길</a>
                 <h3 className="bottom-border">Contact Us</h3>
                 <p className="sidebar-info">
                     Mail: <strong>nova@novalaw.kr</strong>
                     <br />
-                    Tel: <strong>032-212-4047</strong>
+                    Tel: <strong>010-2697-4947</strong>
                     <br />
                     Fax: <strong>032-232-7047</strong>
                 </p>
@@ -37,7 +36,7 @@ function Sidebar() {
                 <p className="sidebar-info">
                     인천 연수구 컨벤시아대로
                     <br />
-                    165 2625호
+                    165 2609호
                     <br />
                     (포스코타워, 26층)
                 </p>
