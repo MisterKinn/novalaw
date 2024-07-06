@@ -25,7 +25,7 @@ function Works() {
                     title="업무분야 더 알아보기"
                     className="works-button"
                 >
-                    <div>
+                    <div data-aos="fade-up">
                         <p>업무분야 더 알아보기 {">"}</p>
                     </div>
                 </a>
