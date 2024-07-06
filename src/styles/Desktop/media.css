@@ -18,9 +18,17 @@
     filter: brightness(0.7);
 }
 
+.full-bright {
+    filter: brightness(1);
+}
+
 .media-container {
     position: absolute;
     margin-top: 3em;
+}
+
+.margin-top {
+    margin: 5em;
 }
 
 .media-title {
@@ -32,6 +40,10 @@
     margin-top: -1em;
     font-size: 1.75em;
     color: #a0a0a0;
+}
+
+#black {
+    color: black;
 }
 
 .media-link {
@@ -55,6 +67,14 @@
 .media-button:hover {
     background-color: #7e1e1e;
     transition: 0.2s;
+}
+
+.wide-width {
+    width: 28em;
+}
+
+.wide-width p {
+    margin-left: 0.5em;
 }
 
 .media-button p {

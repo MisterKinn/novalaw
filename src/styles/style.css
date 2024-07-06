@@ -3,6 +3,10 @@ nextjs-portal {
 }
 
 #page {
+    overflow-x: hidden;
+}
+
+#media {
     overflow: hidden;
 }
 

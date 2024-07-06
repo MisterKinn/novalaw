@@ -14,7 +14,9 @@ function Footer() {
     return (
         <div id="footer">
             <div className="footer-data">
-                <img src="img/nova_logo_black.png" alt="노바법률사무소" />
+                <a href="../#">
+                    <img src="img/nova_logo_black.png" alt="노바법률사무소" />
+                </a>
 
                 <a href="/terms" target="_blank" title="이용약관">
                     <h3>이용약관</h3>

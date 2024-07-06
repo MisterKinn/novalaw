@@ -16,7 +16,11 @@ function Consult() {
                 </h3>
 
                 <div className="consult-buttons">
-                    <a href="#" target="_blank" title="후기 더 알아보기">
+                    <a
+                        href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
+                        target="_blank"
+                        title="후기 더 알아보기"
+                    >
                         <div className="consult-button">
                             <p>노바법률사무소 로톡</p>
                             <img
@@ -26,7 +30,11 @@ function Consult() {
                         </div>
                     </a>
 
-                    <a href="#" target="_blank" title="후기 더 알아보기">
+                    <a
+                        href="https://pf.kakao.com/_CXxhwG"
+                        target="_blank"
+                        title="후기 더 알아보기"
+                    >
                         <div className="consult-button">
                             <p>노바법률사무소 채널톡</p>
                             <img
