@@ -7,7 +7,7 @@ function Address() {
                 <h2 className="address-title">
                     노바법률사무소
                     <br />
-                    위치 확인
+                    오시는 길
                 </h2>
                 <h3 className="address-subtitle">
                     인천광역시 연수구 컨벤시아대로 165 (송도동) 2609호

@@ -15,19 +15,19 @@ function Success() {
                         다양한 분야에서 쌓아냈습니다.
                     </h1>
                     <div className="success-button">
-                        <a href="#" target="_blank" title="후기 더 알아보기">
+                        <a href="#" target="_blank" title="구성원 더 알아보기">
                             <div className="learn-more">
-                                <p>후기 더 알아보기 {">"}</p>
+                                <p>구성원 더 알아보기 {">"}</p>
                             </div>
                         </a>
                         <div className="margin"></div>
                         <a
                             href="#"
                             target="_blank"
-                            title="법률사례 더 알아보기"
+                            title="승소사례 더 알아보기"
                         >
                             <div className="learn-more">
-                                <p>법률사례 더 알아보기 {">"}</p>
+                                <p>승소사례 더 알아보기 {">"}</p>
                             </div>
                         </a>
                     </div>
