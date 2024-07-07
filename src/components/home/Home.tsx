@@ -23,13 +23,13 @@ function Home() {
                         <h1 className="title">노바법률사무소입니다.</h1>
 
                         <a
-                            href="#"
+                            href="/speciality"
                             target="_blank"
                             title="CEO 인사말 보러가기"
                             className="greeting-button"
                         >
                             <div>
-                                <p>CEO 인사말 보러가기 {">"}</p>
+                                <p>왜 노바법률사무소일까요?</p>
                             </div>
                         </a>
                     </div>
