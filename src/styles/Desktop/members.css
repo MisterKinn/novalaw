@@ -21,7 +21,7 @@
 
 .members-bg {
     height: 40em;
-    width: 122em;
+    width: 100vw;
     filter: brightness(0.8);
 }
 

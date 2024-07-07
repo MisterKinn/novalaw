@@ -1,4 +1,4 @@
-import "@/styles/Desktop/works.css";
+import "@/styles/Desktop/work.css";
 
 function Works() {
     return (
@@ -20,7 +20,7 @@ function Works() {
                 </h3>
 
                 <a
-                    href="#"
+                    href="/works"
                     target="_blank"
                     title="업무분야 더 알아보기"
                     className="works-button"

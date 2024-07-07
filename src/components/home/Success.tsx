@@ -15,7 +15,11 @@ function Success() {
                         다양한 분야에서 쌓아냈습니다.
                     </h1>
                     <div className="success-button">
-                        <a href="#" target="_blank" title="구성원 더 알아보기">
+                        <a
+                            href="/members"
+                            target="_blank"
+                            title="구성원 더 알아보기"
+                        >
                             <div className="learn-more">
                                 <p>구성원 더 알아보기 {">"}</p>
                             </div>

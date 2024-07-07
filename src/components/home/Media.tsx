@@ -19,7 +19,7 @@ function Media() {
                     </h3>
 
                     <a
-                        href="#"
+                        href="/media"
                         target="_blank"
                         title="미디어 소개 보러가기"
                         className="media-link"

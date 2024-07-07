@@ -7,7 +7,7 @@ function Intro() {
                 className="members-bg"
             />
 
-            <div className="members-container" id="center" data-aos="fade-up">
+            <div className="members-container" data-aos="fade-up">
                 <h2 className="members-title">구성원 소개</h2>
                 <h3 className="members-subtitle">
                     <span className="white">전문적인 구성원</span>들로 이루어진{" "}

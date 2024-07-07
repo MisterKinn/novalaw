@@ -1,116 +1,90 @@
-#works {
+#intro {
     height: 100vh;
     width: 100%;
     top: 0;
-    text-align: center;
     display: flex;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
     position: relative;
+    overflow-x: hidden;
 }
 
 .works-bg {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 55em;
-    height: 100vh;
+    height: 40em;
     width: 100vw;
-    filter: brightness(0.6);
+    filter: brightness(0.8);
 }
 
-.works-component {
+.works-container {
     position: absolute;
-    margin-top: -15em;
+    margin-top: 10em;
 }
 
 .works-title {
+    margin-top: 3em;
     text-align: center;
-    margin-top: 5em;
-    font-size: 5em;
-    color: #131d7d;
-}
-
-.works-subtitle {
-    text-align: center;
-    margin-top: -1.5em;
     font-size: 2em;
     color: #a0a0a0;
 }
 
-.works-button {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin-top: 2.5em;
-    text-decoration: none;
+.works-subtitle {
+    margin-top: -0.25em;
+    text-align: center;
+    font-size: 3.5em;
+    color: #a0a0a0;
 }
 
-.works-button div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 5em;
-    width: 20em;
-    background-color: #4051ff;
-    border-radius: 10px;
-}
-
-.works-button div:hover {
-    background-color: #131d7d;
-    transition: 0.2s;
-}
-
-.works-button p {
-    font-size: 1.5em;
-    font-weight: bold;
+.white {
     color: white;
 }
 
-.container {
+#works {
     display: flex;
-    flex-direction: row;
-    margin-top: 7.5em;
+    flex-direction: column;
+    align-items: center;
+}
+
+.work-title {
+    margin: 1em;
+    margin-top: -3em;
+    padding-left: 12em;
+    padding-right: 12em;
+    padding-bottom: 0.25em;
+    font-size: 2.75em;
+    color: #141d7d;
+    border-bottom: 2px #bdc0dc solid;
 }
 
 .card-container {
-    margin: 2em;
-    height: 20em;
-    width: 27.5em;
-    background-color: #141528;
-    border: 5px solid white;
-}
-
-.card-container2 {
-    margin: 2em;
-    margin-top: -1.5em;
-    height: 20em;
-    width: 43.5em;
-    background-color: #141528;
-    border: 5px solid white;
-}
-
-.card-img {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: space-between;
-    margin-top: -5em;
-    height: 200px;
+    margin: 1.25em;
+    height: 12.5em;
+    width: 80em;
+    background-color: #f9f9f9;
+}
+
+.card-container img {
+    margin: 2em;
+    margin-left: 3em;
+    margin-right: 4em;
+    height: 8em;
     width: auto;
 }
 
 .card-title {
     margin-top: 0.5em;
-    text-align: center;
     font-size: 3em;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 
-.card-text {
+.card-subtitle {
     margin-top: 0.25em;
-    text-align: center;
     font-size: 1.5em;
-    color: #a0a0a0;
+    color: #626262;
+}
+
+.margin {
+    margin: 2.5em;
 }
