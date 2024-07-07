@@ -1,15 +1,18 @@
 "use client";
 import React, { useEffect } from "react";
 import { useMediaQuery } from "react-responsive";
+
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
+import "@/styles/Desktop/members.css";
 
 import NavBar from "@/components/home/NavBar";
 import StickyNav from "@/components/home/StickyNav";
-
-import DesktopPage from "@/app/members/desktop/page";
-import MobilePage from "@/app/members/mobile/page";
+import Intro from "@/components/members/desktop/Intro";
+import Ceo from "@/components/members/desktop/Ceo";
+import Employees from "@/components/members/desktop/Employees";
+import Footer from "@/components/home/Footer";
 
 function Members() {
     useEffect(() => {
@@ -21,17 +24,16 @@ function Members() {
     const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
     if (isMobile) {
-        return (
-            <div id="page">
-                <MobilePage />
-            </div>
-        );
+        return <div id="page"></div>;
     } else {
         return (
-            <div id="page">
+            <div>
                 <NavBar />
                 <StickyNav />
-                <DesktopPage />
+                <Intro />
+                <Ceo />
+                <Employees />
+                <Footer />
             </div>
         );
     }

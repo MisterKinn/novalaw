@@ -1,0 +1,150 @@
+#intro {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow-x: hidden;
+}
+
+#ceo {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+.members-bg {
+    height: 40em;
+    width: 122em;
+    filter: brightness(0.8);
+}
+
+.members-container {
+    position: absolute;
+    margin-top: 10em;
+}
+
+.members-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 2em;
+    color: #a0a0a0;
+}
+
+.members-subtitle {
+    margin-top: -0.25em;
+    text-align: center;
+    font-size: 3.5em;
+    color: #a0a0a0;
+}
+
+.white {
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ceo-container {
+    height: 30em;
+    width: 69em;
+    padding: 2em;
+    padding-right: 0;
+    border: 2px gray solid;
+}
+
+.employees-container {
+    height: 19.3em;
+    width: 43em;
+    margin: 1em;
+    padding: 2em;
+    padding-right: 0;
+    border: 2px gray solid;
+}
+
+.top0 {
+    margin-top: -15em;
+}
+
+.card-title {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    text-align: left;
+    position: absolute;
+    margin-left: 0.75em;
+    height: 4em;
+    border-bottom: 5px #131d7d solid;
+}
+
+.card-title h1 {
+    margin-top: -0.1em;
+    font-size: 3.5em;
+}
+
+.card-title h2 {
+    margin-left: 0.25em;
+    font-size: 1.75em;
+    font-weight: normal;
+}
+
+.introduce {
+    margin-top: 3.5em;
+    margin-left: 0.5em;
+    text-align: left;
+    font-size: 1.75em;
+    font-weight: bold;
+    color: #131d7d;
+}
+
+.career-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.career-text {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.career-text2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4em;
+    margin-left: 0.75em;
+    font-size: 1.4em;
+}
+
+.career-text div {
+    padding-right: 1em;
+    font-size: 1.25em;
+}
+
+.ceo-img {
+    margin-top: -13.5em;
+    height: 35em;
+    width: auto;
+}
+
+.employees-img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.margin {
+    margin: 2.5em;
+}
