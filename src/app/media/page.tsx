@@ -12,6 +12,7 @@ import "@/styles/Desktop/footer.css";
 
 import NavBar from "@/components/home/NavBar";
 import StickyNav from "@/components/home/StickyNav";
+import Intro from "@/components/media/desktop/Intro";
 import Donho from "@/components/media/desktop/Donho";
 import Nova from "@/components/media/desktop/Nova";
 import Broadcast from "@/components/media/desktop/Broadcast";
@@ -34,6 +35,7 @@ function Media() {
             <div id="page">
                 <NavBar />
                 <StickyNav />
+                <Intro />
                 <Donho />
                 <Nova />
                 <Broadcast />

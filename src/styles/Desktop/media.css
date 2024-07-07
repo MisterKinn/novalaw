@@ -9,6 +9,25 @@
     position: relative;
 }
 
+.intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: #131d7d;
+}
+
+.intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+
+.blue {
+    color: #3252ff;
+}
+
 .media-bg {
     display: flex;
     flex-direction: column;

@@ -5,6 +5,9 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 
+import NavBar from "@/components/home/NavBar";
+import StickyNav from "@/components/home/StickyNav";
+
 import DesktopPage from "@/app/members/desktop/page";
 import MobilePage from "@/app/members/mobile/page";
 
@@ -26,6 +29,8 @@ function Members() {
     } else {
         return (
             <div id="page">
+                <NavBar />
+                <StickyNav />
                 <DesktopPage />
             </div>
         );
