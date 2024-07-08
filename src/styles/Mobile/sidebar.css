@@ -42,7 +42,7 @@
     cursor: pointer;
     position: fixed;
     padding: 10px 15px;
-    height: 3.5em;
+    height: 3.25em;
     width: auto;
     border: none;
 }
@@ -52,7 +52,7 @@
     left: 0;
     position: fixed;
     margin: 1.25em;
-    height: 2.75em;
+    height: 2.25em;
     width: auto;
     z-index: 0;
 }
