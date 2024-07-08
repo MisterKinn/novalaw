@@ -1,3 +1,5 @@
+import "@/styles/Mobile/home.css";
+
 function Home() {
     return (
         <div>

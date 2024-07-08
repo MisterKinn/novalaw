@@ -5,47 +5,60 @@ import "@/styles/sidebar.css";
 function Sidebar() {
     return (
         <div className="sidebar">
-            <button className="openbtn" onClick={openMenu}>
-                ☰ 메뉴 열기
-            </button>
-
-            <a className="closebtn" onClick={closeMenu}>
-                <img
-                    src="img/close.png"
-                    alt="Close Menu"
-                    className="close-img"
-                />
-            </a>
+            <img
+                src="img/openbtn.png"
+                alt="메뉴 열기"
+                className="openbtn"
+                onClick={openMenu}
+            />
 
             <div className="sidebar-content">
-                <a href="../#greeting">인사말</a>
-                <a href="../#works">업무 소개</a>
-                <a href="/members">구성원</a>
-                <a href="/success">승소사례</a>
-                <a href="/media">미디어 소개</a>
-                <a href="/location">오시는 길</a>
-                <h3 className="bottom-border">Contact Us</h3>
-                <p className="sidebar-info">
-                    Mail: <strong>nova@novalaw.kr</strong>
-                    <br />
-                    Tel: <strong>010-2697-4947</strong>
-                    <br />
-                    Fax: <strong>032-232-7047</strong>
-                </p>
-                <h3 className="bottom-border">Address</h3>
-                <p className="sidebar-info">
-                    인천 연수구 컨벤시아대로
-                    <br />
-                    165 2609호
-                    <br />
-                    (포스코타워, 26층)
-                </p>
-                <a
-                    href="mailto:nova@novalaw.kr"
-                    target="_blank"
-                    title="상담 신청하기"
-                >
-                    <button className="join sidebar-join">상담 신청하기</button>
+                <a href="../">
+                    <img
+                        src="img/nova_logo_black.png"
+                        alt="노바법률사무소"
+                        className="nova-logo"
+                    />
+                </a>
+
+                <a className="closebtn" onClick={closeMenu}>
+                    <img
+                        src="img/close.png"
+                        alt="Close Menu"
+                        className="close-img"
+                    />
+                </a>
+
+                <a href="../speciality" title="노바의 특별함">
+                    노바의 특별함
+                </a>
+
+                <a href="../#works" title="업무분야">
+                    업무분야
+                </a>
+
+                <a href="../members" title="구성원">
+                    구성원
+                </a>
+
+                <a href="../success" title="승소사례">
+                    승소사례
+                </a>
+
+                <a href="../feedback" title="고객후기">
+                    고객후기
+                </a>
+
+                <a href="../media" title="미디어 소개">
+                    미디어 소개
+                </a>
+
+                <a href="../#address" title="오시는 길">
+                    오시는 길
+                </a>
+
+                <a href="../#consult" title="상담문의">
+                    상담문의
                 </a>
             </div>
         </div>

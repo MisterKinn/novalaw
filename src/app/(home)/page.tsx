@@ -5,15 +5,15 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 
-import NavBar from "@/components/home/NavBar";
-import StickyNav from "@/components/home/StickyNav";
-import Home from "@/components/home/Home";
-import Works from "@/components/home/Works";
-import Success from "@/components/home/Success";
-import Media from "@/components/home/Media";
-import Address from "@/components/home/Address";
-import Consult from "@/components/home/Consult";
-import Footer from "@/components/home/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Home from "@/components/home/desktop/Home";
+import Works from "@/components/home/desktop/Works";
+import Success from "@/components/home/desktop/Success";
+import Media from "@/components/home/desktop/Media";
+import Address from "@/components/home/desktop/Address";
+import Consult from "@/components/home/desktop/Consult";
+import Footer from "@/components/home/desktop/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
 import MobileHome from "@/components/home/mobile/Home";
@@ -24,7 +24,6 @@ import MobileRecruit from "@/components/home/mobile/Recruit";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
-    // https://www.figma.com/design/52ZjhLWJOew75KHCDhPZFj/%EB%85%B8%EB%B0%94-%EA%B3%B5%EC%9C%A0-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=43-1493&t=IleNNh9iRMFIuFQZ-0
     useEffect(() => {
         AOS.init({
             duration: 1000,
