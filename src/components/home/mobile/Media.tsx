@@ -4,7 +4,7 @@ function Media() {
     return (
         <div id="mobile-media">
             <img
-                src="img/media-bg.png"
+                src="img/media-bg-mobile.png"
                 alt="미디어 소개"
                 className="mobile-media-bg"
             />
