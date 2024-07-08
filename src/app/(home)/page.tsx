@@ -24,6 +24,7 @@ import MobileRecruit from "@/components/home/mobile/Recruit";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
+    // https://www.figma.com/design/52ZjhLWJOew75KHCDhPZFj/%EB%85%B8%EB%B0%94-%EA%B3%B5%EC%9C%A0-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=43-1493&t=IleNNh9iRMFIuFQZ-0
     useEffect(() => {
         AOS.init({
             duration: 1000,

@@ -21,7 +21,6 @@ function Works() {
 
                 <a
                     href="/works"
-                    target="_blank"
                     title="업무분야 더 알아보기"
                     className="works-button"
                 >

@@ -1,0 +1,92 @@
+.intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: #131d7d;
+}
+
+.intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+
+.blue {
+    color: #3252ff;
+}
+
+.success-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.success-list a {
+    float: left;
+    text-align: center;
+    padding: 30px;
+    height: 100%;
+    font-size: 22.5px;
+    color: gray;
+    background-color: #f9f9f9;
+    text-decoration: none;
+}
+
+.success-list a:hover {
+    color: black;
+    transition: 0.3s;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.card-container {
+    margin: 1em;
+    margin-bottom: -2.5em;
+}
+
+.card-container h3 {
+    font-weight: normal;
+    color: #a0a0a0;
+}
+
+.card-container h2 {
+    font-size: 1.5em;
+    color: black;
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -1em;
+}
+
+.img-container img {
+    height: 2em;
+    width: auto;
+}
+
+.img-container h4 {
+    font-size: 1.25em;
+    color: #3252ff;
+}
+
+.margin0 {
+    margin-top: -2.75em;
+}
+
+.margin {
+    margin: 7.5em;
+}

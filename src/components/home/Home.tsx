@@ -24,12 +24,11 @@ function Home() {
 
                         <a
                             href="/speciality"
-                            target="_blank"
                             title="CEO 인사말 보러가기"
                             className="greeting-button"
                         >
                             <div>
-                                <p>왜 노바법률사무소일까요?</p>
+                                <p>노바의 특별함 보러가기 {">"}</p>
                             </div>
                         </a>
                     </div>

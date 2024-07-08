@@ -10,7 +10,7 @@
 }
 
 .speciality-bg {
-    height: 40em;
+    height: auto;
     width: 100vw;
     filter: brightness(0.8);
 }
@@ -100,6 +100,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 5em;
 }
 
 .system-container h3 {
@@ -122,5 +123,162 @@
 
 .system-container img {
     height: 40em;
+    width: auto;
+}
+
+.feedback-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+
+.feedback-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2.5em;
+    text-decoration: none;
+}
+
+.feedback-button div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+    width: 20em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.feedback-button div:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.feedback-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 7.5em;
+}
+
+.card-container {
+    margin: 1.5em;
+    margin-top: 5em;
+    height: 32.5em;
+    width: 26em;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #a0a0a0;
+}
+
+.nova-logo {
+    margin-left: 3em;
+    margin-top: -1.5em;
+    height: 50px;
+    width: auto;
+}
+
+.card-title {
+    margin: 1em;
+    font-size: 1.7em;
+    color: #141d7d;
+}
+
+.card-text {
+    margin: 1em;
+    text-align: left;
+    font-size: 1.25em;
+    color: #6e7083;
+}
+
+.card-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 1em;
+    border-top: 1px gray solid;
+}
+
+.card-bottom p {
+    font-size: 1em;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+#consult {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+.consult-bg {
+    height: 40em;
+    width: 122em;
+    filter: brightness(0.8);
+}
+
+.consult-container {
+    position: absolute;
+}
+
+.consult-title {
+    text-align: center;
+    font-size: 2em;
+    color: #a0a0a0;
+}
+
+.consult-subtitle {
+    text-align: center;
+    margin-top: -0.1em;
+    font-size: 3em;
+    color: white;
+}
+
+.consult-buttons {
+    display: flex;
+    justify-content: center;
+    margin-left: -2.5em;
+}
+
+.consult-buttons a {
+    text-decoration: none;
+}
+
+.consult-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 5em;
+    width: 25em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.consult-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.consult-button p {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: white;
+}
+
+.consult-button img {
+    margin-left: 0.75em;
+    height: 4em;
     width: auto;
 }

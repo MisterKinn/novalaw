@@ -5,18 +5,15 @@ import { useMediaQuery } from "react-responsive";
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
-import "@/styles/Desktop/speciality.css";
+import "@/styles/Desktop/feedback.css";
 
 import NavBar from "@/components/home/NavBar";
 import StickyNav from "@/components/home/StickyNav";
-import Intro from "@/components/speciality/desktop/Intro";
-import Greeting from "@/components/speciality/desktop/Greeting";
-import System from "@/components/speciality/desktop/System";
-import Feedback from "@/components/speciality/desktop/Feedback";
-import Consult from "@/components/speciality/desktop/Consult";
+import Intro from "@/components/feedback/desktop/Intro";
+import Thanks from "@/components/feedback/desktop/Thanks";
 import Footer from "@/components/home/Footer";
 
-function Speicality() {
+function Feedback() {
     useEffect(() => {
         AOS.init({
             duration: 1000,
@@ -33,14 +30,11 @@ function Speicality() {
                 <NavBar />
                 <StickyNav />
                 <Intro />
-                <Greeting />
-                <System />
-                <Feedback />
-                <Consult />
+                <Thanks />
                 <Footer />
             </div>
         );
     }
 }
 
-export default Speicality;
+export default Feedback;

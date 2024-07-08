@@ -1,0 +1,96 @@
+.intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: #131d7d;
+}
+
+.intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+
+.blue {
+    color: #3252ff;
+}
+
+.success-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.success-list a {
+    float: left;
+    text-align: center;
+    padding: 30px;
+    height: 100%;
+    font-size: 22.5px;
+    color: gray;
+    background-color: #f9f9f9;
+    text-decoration: none;
+}
+
+.success-list a:hover {
+    color: black;
+    transition: 0.3s;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 7.5em;
+}
+
+.card-container {
+    margin: 1.5em;
+    margin-top: 5em;
+    margin-bottom: -6em;
+    height: 32.5em;
+    width: 26em;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #a0a0a0;
+}
+
+.nova-logo {
+    margin-left: 3em;
+    margin-top: -1.5em;
+    height: 50px;
+    width: auto;
+}
+
+.card-title {
+    margin: 1em;
+    font-size: 1.7em;
+    color: #141d7d;
+}
+
+.card-text {
+    margin: 1em;
+    text-align: left;
+    font-size: 1.25em;
+    color: #6e7083;
+}
+
+.card-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 1em;
+    border-top: 1px gray solid;
+}
+
+.card-bottom p {
+    font-size: 1em;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+.margin {
+    margin: 7.5em;
+}

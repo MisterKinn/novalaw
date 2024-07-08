@@ -29,7 +29,7 @@ function NavBar() {
                         승소사례
                     </a>
 
-                    <a href="../success" title="고객후기">
+                    <a href="../feedback" title="고객후기">
                         고객후기
                     </a>
 
