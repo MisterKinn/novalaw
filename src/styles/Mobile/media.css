@@ -1,0 +1,127 @@
+#mobile-mobile-media {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.mobile-intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: #131d7d;
+}
+
+.mobile-intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 3em;
+    color: black;
+}
+
+.mobile-blue {
+    color: #3252ff;
+}
+
+.mobile-media-bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+    filter: brightness(0.7);
+}
+
+.mobile-full-bright {
+    filter: brightness(1);
+}
+
+.mobile-media-container {
+    position: absolute;
+    margin-top: 3em;
+}
+
+.margin-top {
+    margin: 5em;
+}
+
+.mobile-media-title {
+    font-size: 4em;
+    color: white;
+}
+
+.mobile-media-subtitle {
+    margin-top: -1em;
+    font-size: 1.75em;
+    color: #a0a0a0;
+}
+
+#black {
+    color: black;
+}
+
+.mobile-media-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2.5em;
+    text-decoration: none;
+}
+
+.mobile-media-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+    width: 20em;
+    background-color: #d80000;
+    border-radius: 10px;
+}
+
+.mobile-media-button:hover {
+    background-color: #7e1e1e;
+    transition: 0.2s;
+}
+
+.wide-width {
+    width: 28em;
+}
+
+.wide-width p {
+    margin-left: 0.5em;
+}
+
+.mobile-media-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+.video-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.video-container img {
+    margin: 2em;
+    height: 15em;
+    width: auto;
+}
+
+.video-container a {
+    text-decoration: none;
+}
+
+.video-container p {
+    margin-top: -0.5em;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+}
