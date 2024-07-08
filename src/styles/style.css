@@ -20,8 +20,10 @@ body {
     scroll-behavior: smooth;
 }
 
-.blank {
-    margin-top: 150px;
+.black {
+    margin-bottom: -1em;
+    font-weight: bold;
+    color: black;
 }
 
 .mobile-title {
@@ -223,7 +225,7 @@ body {
 }
 
 .margin {
-    margin: 20px;
+    margin: 7.5em;
 }
 
 .terms-text {
@@ -231,7 +233,7 @@ body {
     margin-left: 7.5em;
     margin-right: 7.5em;
     font-size: 20px;
-    color: #c3c3c6;
+    color: gray;
 }
 
 .mobile-terms-text {

@@ -18,13 +18,13 @@ function Footer() {
                     <img src="img/nova_logo_black.png" alt="노바법률사무소" />
                 </a>
 
-                <a href="/terms" target="_blank" title="이용약관">
+                <a href="/terms" title="이용약관">
                     <h3>이용약관</h3>
                 </a>
 
                 <div />
 
-                <a href="/policy" target="_blank" title="개인정보 처리방침">
+                <a href="/policy" title="개인정보 처리방침">
                     <h3>개인정보 처리방침</h3>
                 </a>
             </div>

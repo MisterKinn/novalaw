@@ -8,7 +8,11 @@ import "@/styles/style.css";
 import DesktopPage from "@/app/terms/desktop/page";
 import MobilePage from "@/app/terms/mobile/page";
 
-function Members() {
+import NavBar from "@/components/home/NavBar";
+import StickyNav from "@/components/home/StickyNav";
+import Footer from "@/components/home/Footer";
+
+function Terms() {
     useEffect(() => {
         AOS.init({
             duration: 1000,
@@ -26,10 +30,13 @@ function Members() {
     } else {
         return (
             <div id="page">
+                <NavBar />
+                <StickyNav />
                 <DesktopPage />
+                <Footer />
             </div>
         );
     }
 }
 
-export default Members;
+export default Terms;

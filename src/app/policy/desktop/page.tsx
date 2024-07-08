@@ -1,17 +1,12 @@
-import NavBar from "@/components/home/NavBar";
-import Footer from "@/components/home/Footer";
-
 function Terms() {
     return (
         <div>
-            <NavBar />
-
             <h1 className="member-title" data-aos="fade-up">
                 개인정보 처리방침
             </h1>
 
             <div className="terms-text" data-aos="fade-up">
-                <div className="white">
+                <div className="black">
                     1. 개인정보 처리방침의 목적 노바법률사무소(이하 '회사')는
                     정보주체의 자유와 권리 보호를 위해 「개인정보 보호법」 및
                     관련 법령을 준수하여 적법하게 개인정보를 처리하고 안전하게
@@ -24,7 +19,7 @@ function Terms() {
                 개인정보 처리방침을 수립·공개합니다.
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     2. 개인정보의 처리 목적 및 법적 근거 회사는 법적 근거에 따라
                     다음의 목적을 위하여 개인정보를 처리합니다.
                 </div>
@@ -37,7 +32,7 @@ function Terms() {
                 따른 법령에 특별한 규정이 있는 경우)
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     3. 처리하는 개인정보 항목 회사는 다음의 개인정보 항목을
                     처리하고 있습니다.
                 </div>
@@ -45,7 +40,7 @@ function Terms() {
                 <br />* 선택항목: 주소, 생년월일
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     4. 개인정보의 처리 및 보유 기간 회사는 법령에 따른 개인정보
                     보유·이용기간 또는 정보주체로부터 수집한 개인정보
                     보유·이용기간 내에서 개인정보를 처리·보유합니다.
@@ -53,7 +48,7 @@ function Terms() {
                 <br />* 법률 상담 및 서비스 제공: 상담 종료 후 3년
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     5. 개인정보의 파기 절차 및 방법 회사는 원칙적으로 개인정보
                     처리 목적이 달성된 경우에는 지체없이 해당 개인정보를
                     파기합니다.
@@ -68,7 +63,7 @@ function Terms() {
                 개인정보는 분쇄기로 분쇄하거나 소각을 통해 파기합니다.
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     6. 정보주체의 권리·의무 및 그 행사방법 정보주체는 회사에
                     대해 언제든지 다음과 같은 권리를 행사할 수 있습니다.
                 </div>
@@ -78,7 +73,7 @@ function Terms() {
                 <br />* 처리정지 요구
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     7. 개인정보의 제3자 제공에 관한 사항 회사는 정보주체의
                     개인정보를 제3자에게 제공하지 않습니다.
                 </div>
@@ -87,7 +82,7 @@ function Terms() {
                 제3자에게 제공할 수 있습니다.
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     8. 개인정보의 안전성 확보 조치 회사는 개인정보의 안전성
                     확보를 위해 다음과 같은 조치를 취하고 있습니다.
                 </div>
@@ -96,13 +91,13 @@ function Terms() {
                 보안프로그램 설치
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     9. 개인정보 자동 수집 장치의 설치·운영 및 그 거부에 관한
                     사항 회사는 쿠키를 사용하지 않습니다.
                 </div>
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     10. 개인정보 보호책임자 회사는 개인정보 처리에 관한 업무를
                     총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의
                     불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보
@@ -112,7 +107,7 @@ function Terms() {
                 <br />* 연락처: 032-212-4047, nova@novalaw.kr
                 <br />
                 <br />
-                <div className="white">
+                <div className="black">
                     11. 개인정보 처리방침의 변경 이 개인정보 처리방침은
                     시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가,
                     삭제 및 정정이 있을 시에는 변경사항의 시행 전까지 공지사항을
@@ -121,8 +116,7 @@ function Terms() {
                 <br />이 개인정보 처리방침은 2024년 6월 1일부터 적용됩니다.
             </div>
 
-            <div className="blank"></div>
-            <Footer />
+            <div className="margin"></div>
         </div>
     );
 }
