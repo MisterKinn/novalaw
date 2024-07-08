@@ -8,9 +8,9 @@ import "@/styles/style.css";
 import DesktopPage from "@/app/policy/desktop/page";
 import MobilePage from "@/app/policy/mobile/page";
 
-import NavBar from "@/components/home/NavBar";
-import StickyNav from "@/components/home/StickyNav";
-import Footer from "@/components/home/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Footer from "@/components/home/desktop/Footer";
 
 function Policy() {
     useEffect(() => {

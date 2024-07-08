@@ -17,10 +17,8 @@ import Footer from "@/components/home/desktop/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
 import MobileHome from "@/components/home/mobile/Home";
-import MobileGreeting from "@/components/home/mobile/Greeting";
 import MobileWorks from "@/components/home/mobile/Works";
 import MobileSuccess from "@/components/home/mobile/Success";
-import MobileRecruit from "@/components/home/mobile/Recruit";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
@@ -37,10 +35,8 @@ function NovaLaw() {
             <div id="page">
                 <SideBar />
                 <MobileHome />
-                <MobileGreeting />
                 <MobileWorks />
                 <MobileSuccess />
-                <MobileRecruit />
                 <MobileFooter />
             </div>
         );

@@ -7,11 +7,11 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Desktop/successes.css";
 
-import NavBar from "@/components/home/NavBar";
-import StickyNav from "@/components/home/StickyNav";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
 import Intro from "@/components/success/desktop/Intro";
 import Cases from "@/components/success/desktop/Cases";
-import Footer from "@/components/home/Footer";
+import Footer from "@/components/home/desktop/Footer";
 
 function Success() {
     useEffect(() => {

@@ -1,0 +1,82 @@
+.header {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.mobile-header-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    width: 100vw;
+    filter: brightness(0.4);
+}
+
+.column-center {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5em;
+}
+
+.text-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header-icon {
+    height: 3em;
+    width: auto;
+}
+
+.mobile-title {
+    margin: 0.5em;
+    margin-left: -2em;
+    margin-right: -2em;
+    font-size: 2.75em;
+    color: white;
+}
+
+.mobile-sub-title {
+    margin-bottom: -0.75em;
+    padding-top: 0.5em;
+    font-size: 1.5em;
+    border-top: 2px white solid;
+    color: #ccc;
+}
+
+.mobile-greeting-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3em;
+    text-decoration: none;
+}
+
+.mobile-greeting-button div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    width: 17.5em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-greeting-button div:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-greeting-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}

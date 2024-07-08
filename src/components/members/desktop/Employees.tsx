@@ -20,6 +20,11 @@ function Employees() {
                             <br />
                             연세대학교 법학전문대학원 졸업(석사){" "}
                         </div>
+                        <img
+                            src="img/kim-minseong.png"
+                            alt="김민성 고문변호사"
+                            className="employees-img kms"
+                        />
                     </div>
                 </div>
 

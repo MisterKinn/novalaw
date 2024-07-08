@@ -7,14 +7,14 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Desktop/speciality.css";
 
-import NavBar from "@/components/home/NavBar";
-import StickyNav from "@/components/home/StickyNav";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
 import Intro from "@/components/speciality/desktop/Intro";
 import Greeting from "@/components/speciality/desktop/Greeting";
 import System from "@/components/speciality/desktop/System";
 import Feedback from "@/components/speciality/desktop/Feedback";
 import Consult from "@/components/speciality/desktop/Consult";
-import Footer from "@/components/home/Footer";
+import Footer from "@/components/home/desktop/Footer";
 
 function Speicality() {
     useEffect(() => {

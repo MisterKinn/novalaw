@@ -22,10 +22,10 @@
 }
 
 .success-title {
+    margin-left: 2em;
     padding-top: 4em;
     padding-bottom: 4em;
-    margin-left: 2em;
-    font-size: 3.5em;
+    font-size: 3.25em;
     color: white;
 }
 
@@ -39,6 +39,10 @@
 
 .success-button a {
     text-decoration: none;
+}
+
+.small-margin {
+    margin-right: 1em;
 }
 
 .learn-more {

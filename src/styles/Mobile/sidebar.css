@@ -2,7 +2,7 @@
     height: 100%;
     width: 0px;
     position: fixed;
-    z-index: 1;
+    z-index: 2;
     top: 0;
     right: 0;
     background-color: white;
@@ -24,8 +24,16 @@
     background-color: #f1f1f1;
 }
 
-.sidebar-content {
-    display: none;
+.menu-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    height: 5em;
+    width: 100vw;
+    background-color: white;
 }
 
 .openbtn {
@@ -39,6 +47,20 @@
     border: none;
 }
 
+.menu-logo {
+    top: 0;
+    left: 0;
+    position: fixed;
+    margin: 1.25em;
+    height: 2.75em;
+    width: auto;
+    z-index: 0;
+}
+
+.sidebar-content {
+    display: none;
+}
+
 .close-img {
     position: absolute;
     top: 15px;
@@ -49,7 +71,7 @@
     color: grey;
 }
 
-.nova-logo {
+.sidebar-logo {
     margin-left: -0.3em;
     margin-bottom: -1em;
     height: 1.5em;

@@ -6,7 +6,7 @@ function Home() {
             <header className="header">
                 <img
                     src="img/posco.png"
-                    alt="GMSH RoadMap"
+                    alt="노바법률사무소"
                     className="header-img"
                 />
 

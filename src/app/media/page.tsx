@@ -10,13 +10,13 @@ import "@/styles/Desktop/navbar.css";
 import "@/styles/Desktop/stickynav.css";
 import "@/styles/Desktop/footer.css";
 
-import NavBar from "@/components/home/NavBar";
-import StickyNav from "@/components/home/StickyNav";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
 import Intro from "@/components/media/desktop/Intro";
 import Donho from "@/components/media/desktop/Donho";
 import Nova from "@/components/media/desktop/Nova";
 import Broadcast from "@/components/media/desktop/Broadcast";
-import Footer from "@/components/home/Footer";
+import Footer from "@/components/home/desktop/Footer";
 // import MobilePage from "@/app/media/mobile/page";
 
 function Media() {

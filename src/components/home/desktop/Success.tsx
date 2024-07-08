@@ -21,7 +21,7 @@ function Success() {
                             </div>
                         </a>
 
-                        <div className="margin" />
+                        <div className="small-margin" />
 
                         <a href="/success" title="승소사례 더 알아보기">
                             <div className="learn-more">
