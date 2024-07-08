@@ -1,0 +1,50 @@
+#mobile-success {
+    margin-top: 75em;
+    background-color: #1c1c1c;
+}
+
+.mobile-success-title {
+    padding-top: 3em;
+    font-size: 2em;
+    color: white;
+}
+
+.mobile-success-button {
+    display: flex;
+    justify-content: center;
+    margin-top: -3em;
+    margin-bottom: 10em;
+}
+
+.mobile-success-button a {
+    text-decoration: none;
+}
+
+.small-margin {
+    margin-right: 1em;
+}
+
+.mobile-learn-more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    width: 12em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-learn-more:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-learn-more p {
+    font-size: 1.25em;
+    font-weight: bold;
+    color: white;
+}
+
+.mobile-margin {
+    margin: -5em;
+}
