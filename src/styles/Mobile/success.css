@@ -1,11 +1,12 @@
 #mobile-success {
-    margin-top: 75em;
+    margin-top: 60em;
     background-color: #1c1c1c;
+    overflow: hidden;
 }
 
 .mobile-success-title {
     padding-top: 3em;
-    font-size: 2em;
+    font-size: 1.75em;
     color: white;
 }
 
@@ -29,7 +30,7 @@
     justify-content: center;
     align-items: center;
     height: 4em;
-    width: 12em;
+    width: 11em;
     background-color: #4051ff;
     border-radius: 10px;
 }
@@ -40,7 +41,7 @@
 }
 
 .mobile-learn-more p {
-    font-size: 1.25em;
+    font-size: 1.1em;
     font-weight: bold;
     color: white;
 }
