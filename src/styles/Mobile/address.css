@@ -1,0 +1,25 @@
+.mobile-address-title {
+    margin-top: 1em;
+    margin-left: 1em;
+    font-size: 3em;
+    color: #131d7d;
+}
+
+.mobile-address-subtitle {
+    margin-top: -1.5em;
+    margin-left: 2em;
+    font-size: 1.5em;
+    color: #a0a0a0;
+}
+
+.mobile-map-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mobile-map-container iframe {
+    margin-top: 1em;
+    height: 15em;
+    width: auto;
+}

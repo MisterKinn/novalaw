@@ -1,0 +1,70 @@
+#mobile-consult {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-top: 10em;
+}
+
+.mobile-consult-bg {
+    height: 55vh;
+    width: auto;
+}
+
+.mobile-consult-container {
+    position: absolute;
+}
+
+.mobile-consult-title {
+    text-align: center;
+    font-size: 3em;
+    width: 100vw;
+    color: white;
+}
+
+.mobile-consult-subtitle {
+    text-align: center;
+    margin-top: -1.5em;
+    font-size: 1.5em;
+    width: 100vw;
+    color: #a0a0a0;
+}
+
+.mobile-consult-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-consult-buttons a {
+    text-decoration: none;
+}
+
+.mobile-consult-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5em;
+    height: 5em;
+    width: 22em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-consult-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-consult-button p {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: white;
+}
+
+.mobile-consult-button img {
+    margin-left: 0.75em;
+    height: 4em;
+    width: auto;
+}

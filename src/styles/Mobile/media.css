@@ -52,13 +52,14 @@
 }
 
 .mobile-media-title {
-    font-size: 4em;
+    font-size: 3em;
     color: white;
 }
 
 .mobile-media-subtitle {
     margin-top: -1em;
-    font-size: 1.75em;
+    margin-bottom: -0.75em;
+    font-size: 1.25em;
     color: #a0a0a0;
 }
 
@@ -78,8 +79,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 5em;
-    width: 20em;
+    height: 4.5em;
+    width: 17.5em;
     background-color: #d80000;
     border-radius: 10px;
 }
@@ -103,26 +104,26 @@
     color: white;
 }
 
-.video-container {
+.mobile-video-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 3em;
 }
 
-.video-container img {
-    margin: 2em;
-    height: 15em;
+.mobile-video-container img {
+    margin: 0.5em;
+    height: 6.5em;
     width: auto;
 }
 
-.video-container a {
+.mobile-video-container a {
     text-decoration: none;
 }
 
-.video-container p {
+.mobile-video-container p {
     margin-top: -0.5em;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
     color: white;
 }

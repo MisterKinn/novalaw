@@ -20,6 +20,8 @@ import MobileHome from "@/components/home/mobile/Home";
 import MobileWorks from "@/components/home/mobile/Works";
 import MobileSuccess from "@/components/home/mobile/Success";
 import MobileMedia from "@/components/home/mobile/Media";
+import MobileAddress from "@/components/home/mobile/Address";
+import MobileConsult from "@/components/home/mobile/Consult";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
@@ -39,6 +41,8 @@ function NovaLaw() {
                 <MobileWorks />
                 <MobileSuccess />
                 <MobileMedia />
+                <MobileAddress />
+                <MobileConsult />
                 <MobileFooter />
             </div>
         );
