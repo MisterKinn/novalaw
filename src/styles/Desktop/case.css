@@ -1,0 +1,146 @@
+#case {
+    margin: 5em;
+}
+
+.case-intro-title {
+    margin-top: 5em;
+    color: #141d7d;
+}
+
+.case-intro-subtitle {
+    margin-top: -0.25em;
+    font-size: 2.75em;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 5em;
+}
+
+.info-container img {
+    height: 15em;
+    width: auto;
+}
+
+.info-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2em;
+}
+
+.info-text h2 {
+    font-size: 2.5em;
+}
+
+.info-text h3 {
+    margin-top: -1em;
+    font-size: 1.5em;
+}
+
+.info-text h4 {
+    display: inline;
+    margin-right: 1em;
+}
+
+.blue {
+    color: #4051ff;
+}
+
+.case-title {
+    margin: 1em;
+    margin-top: 3.5em;
+    padding-bottom: 0.25em;
+    text-align: center;
+    font-size: 2.25em;
+    color: #141d7d;
+    border-bottom: 2px #bdc0dc solid;
+}
+
+.reason-text {
+    margin-left: 2em;
+    text-align: left;
+    font-size: 1.5em;
+    color: black;
+}
+
+.rescue-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.rescue-card {
+    margin: 1.5em;
+    height: 10em;
+    width: 25em;
+    background-color: #fbfbff;
+    border: 2px black solid;
+}
+
+.rescue-card img {
+    margin-top: -2em;
+    margin-left: 19em;
+}
+
+.rescue-card p {
+    margin-top: 0.25em;
+    color: #141d7d;
+}
+
+.result-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.result-container img {
+    position: relative;
+}
+
+.result-container p {
+    margin-top: 4em;
+    position: absolute;
+    font-size: 1.75em;
+    color: black;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-left: -2.5em;
+}
+
+.button-container a {
+    text-decoration: none;
+}
+
+.case-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 5em;
+    width: 25em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.case-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.case-button p {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: white;
+}
+
+.case-button img {
+    margin-left: 0.75em;
+    height: 4em;
+    width: auto;
+}

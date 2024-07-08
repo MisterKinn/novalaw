@@ -5,14 +5,14 @@ import { useMediaQuery } from "react-responsive";
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
-import "@/styles/Desktop/successes.css";
+import "@/styles/Desktop/case.css";
 
 import NavBar from "@/components/home/desktop/NavBar";
 import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/success/desktop/Intro";
+import Case1 from "@/components/case/desktop/Case1";
 import Footer from "@/components/home/desktop/Footer";
 
-function Case1() {
+function Case() {
     useEffect(() => {
         AOS.init({
             duration: 1000,
@@ -28,11 +28,11 @@ function Case1() {
             <div>
                 <NavBar />
                 <StickyNav />
-                <Intro />
+                <Case1 />
                 <Footer />
             </div>
         );
     }
 }
 
-export default Case1;
+export default Case;
