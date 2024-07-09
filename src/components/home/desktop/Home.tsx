@@ -25,7 +25,6 @@ function Home() {
                             alt=""
                             className="popup-img"
                         />
-                        <span className="popup-blank" />
                         <img
                             src="img/popup2.png"
                             alt=""

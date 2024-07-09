@@ -46,10 +46,6 @@
     width: auto;
 }
 
-.popup-blank {
-    margin: 1em;
-}
-
 .column-center {
     display: flex;
     align-items: center;
