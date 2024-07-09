@@ -74,10 +74,15 @@
 
 .rescue-card {
     margin: 1.5em;
-    height: 10em;
+    height: 12.5em;
     width: 25em;
     background-color: #fbfbff;
     border: 2px black solid;
+}
+
+.wide-card {
+    height: 14em;
+    width: 25em;
 }
 
 .rescue-card img {
@@ -86,8 +91,13 @@
 }
 
 .rescue-card p {
+    text-align: center;
     margin-top: 0.25em;
     color: #141d7d;
+}
+
+.more-margin {
+    padding-top: 0.5em;
 }
 
 .result-container {

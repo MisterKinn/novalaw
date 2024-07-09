@@ -2,7 +2,7 @@ function Cases() {
     return (
         <div>
             <div className="container" data-aos="fade-up">
-                <a href="">
+                <a href="../case1">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -20,7 +20,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case2">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -38,7 +38,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case3">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -56,7 +56,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case4">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -75,7 +75,7 @@ function Cases() {
             </div>
 
             <div className="container" data-aos="fade-up">
-                <a href="">
+                <a href="../case5">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -92,7 +92,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case6">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -111,7 +111,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case7">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -129,7 +129,7 @@ function Cases() {
                     </div>
                 </a>
 
-                <a href="">
+                <a href="../case8">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
@@ -151,7 +151,7 @@ function Cases() {
             </div>
 
             <div className="container" data-aos="fade-up">
-                <a href="">
+                <a href="../case9">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />
                         <h3>형사</h3>
