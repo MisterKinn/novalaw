@@ -16,7 +16,7 @@ function Home() {
                         <img
                             src="img/close-img.png"
                             alt=""
-                            className="close-img"
+                            className="popup-close-img"
                             onClick={closePopup}
                         />
 
