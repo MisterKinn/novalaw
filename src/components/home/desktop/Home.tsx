@@ -1,4 +1,5 @@
 import "@/styles/Desktop/home.css";
+import { closePopup } from "@/app/closePopup";
 
 function Home() {
     return (
@@ -9,6 +10,29 @@ function Home() {
                     alt="노바법률사무소"
                     className="header-img"
                 />
+
+                <div className="popup-container">
+                    <div className="popup-element">
+                        <img
+                            src="img/close-img.png"
+                            alt=""
+                            className="close-img"
+                            onClick={closePopup}
+                        />
+
+                        <img
+                            src="img/popup1.png"
+                            alt=""
+                            className="popup-img"
+                        />
+                        <span className="popup-blank" />
+                        <img
+                            src="img/popup2.png"
+                            alt=""
+                            className="popup-img"
+                        />
+                    </div>
+                </div>
 
                 <div className="text-container">
                     <div data-aos="fade-up">

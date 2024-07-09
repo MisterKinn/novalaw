@@ -107,7 +107,7 @@ function Case6() {
             </div>
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card wide-card">
-                    <img src="img/case-5.png" alt="노바법률사무소의 조력 5" />
+                    <img src="img/case-7.png" alt="노바법률사무소의 조력 7" />
                     <p>
                         피해자가 의뢰인과 평소 애정관계를
                         <br />
