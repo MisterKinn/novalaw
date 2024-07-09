@@ -18,7 +18,7 @@ function Nova() {
                         의뢰인의 편에서 솔루션을 제시하는 노바법률사무소입니다.
                     </h3>
                     <a
-                        href="https://www.youtube.com/@%EC%9D%B4%EB%8F%88%ED%98%B8%EB%B3%80%ED%98%B8%EC%82%AC"
+                        href="https://www.youtube.com/@nova_law"
                         target="_blank"
                         title="노바법률사무소 YouTube"
                         className="media-link"
@@ -35,20 +35,32 @@ function Nova() {
                 <div className="video-container" data-aos="fade-up">
                     <div>
                         <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p id="black">YouTube 제목</p>
+                            <img src="img/media-nova-1.jpg" alt="" />
+                            <p id="black">
+                                [SBS 모닝와이드 날]
+                                <br />
+                                신림동 출근길 특수강간
+                            </p>
                         </a>
                     </div>
                     <div>
                         <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p id="black">YouTube 제목</p>
+                            <img src="img/media-nova-2.jpg" alt="" />
+                            <p id="black">
+                                [SBS 모닝와이드 날]
+                                <br />
+                                주차시비 살인
+                            </p>
                         </a>
                     </div>
                     <div>
                         <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p id="black">YouTube 제목</p>
+                            <img src="img/media-nova-3.jpg" alt="" />
+                            <p id="black">
+                                [SBS 모닝와이드 빅데이터]
+                                <br />
+                                고속도로 사고대처 방법
+                            </p>
                         </a>
                     </div>
                 </div>

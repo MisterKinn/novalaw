@@ -18,7 +18,7 @@
 
 .intro-subtitle {
     margin-top: -0.25em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     text-align: center;
     font-size: 3em;
     color: black;
@@ -26,6 +26,13 @@
 
 .blue {
     color: #3252ff;
+}
+
+.media-explain {
+    text-align: center;
+    margin-top: -0.5em;
+    font-size: 1.75em;
+    color: #a0a0a0;
 }
 
 .media-bg {
