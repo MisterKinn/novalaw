@@ -55,6 +55,10 @@
     color: #4051ff;
 }
 
+.mobile-small-info {
+    font-size: 0.79em;
+}
+
 .mobile-case-title {
     margin: 1em;
     margin-top: 3.5em;
@@ -88,6 +92,11 @@
     border: 2px black solid;
 }
 
+.mobile-card7 {
+    height: 12em;
+    width: 18em;
+}
+
 .mobile-wide-card {
     height: 7em;
     width: 25em;
@@ -103,7 +112,7 @@
 .mobile-rescue-card p {
     text-align: center;
     margin-top: 0.25em;
-    font-size: 1.15em;
+    font-size: 1.13em;
     color: #141d7d;
 }
 

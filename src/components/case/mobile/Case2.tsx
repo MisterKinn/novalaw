@@ -2,11 +2,13 @@ function Case2() {
     return (
         <div id="mobile-case">
             <div data-aos="fade-up">
-                <img
-                    src="img/back-mobile.png"
-                    alt="돌아가기"
-                    className="mobile-back"
-                />
+                <a href="../success" title="돌아가기">
+                    <img
+                        src="img/back-mobile.png"
+                        alt="돌아가기"
+                        className="mobile-back"
+                    />
+                </a>
                 <h2 className="mobile-case-intro-title">형사</h2>
                 <h1 className="mobile-case-intro-subtitle">
                     구속영장을 발부받았을
