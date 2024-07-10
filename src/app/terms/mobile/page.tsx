@@ -1,5 +1,5 @@
-import SideBar from "@/components/home/mobile/SideBar";
-import Footer from "@/components/home/mobile/Footer";
+import SideBar from "@/app/components/home/mobile/SideBar";
+import Footer from "@/app/components/home/mobile/Footer";
 
 function Terms() {
     return (

@@ -6,12 +6,18 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Desktop/works.css";
+import "@/styles/Mobile/works.css";
 
-import NavBar from "@/components/home/desktop/NavBar";
-import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/works/desktop/Intro";
-import Work from "@/components/works/desktop/Works";
-import Footer from "@/components/home/desktop/Footer";
+import NavBar from "@/app/components/home/desktop/NavBar";
+import StickyNav from "@/app/components/home/desktop/StickyNav";
+import Intro from "@/app/components/works/desktop/Intro";
+import Work from "@/app/components/works/desktop/Works";
+import Footer from "@/app/components/home/desktop/Footer";
+
+import SideBar from "@/app/components/home/mobile/SideBar";
+import MobileIntro from "@/app/components/works/mobile/Intro";
+import MobileWork from "@/app/components/works/mobile/Works";
+import MobileFooter from "@/app/components/home/mobile/Footer";
 
 function Works() {
     useEffect(() => {
@@ -23,7 +29,14 @@ function Works() {
     const isMobile = useMediaQuery({ query: "(max-width: 800px)" });
 
     if (isMobile) {
-        return <div id="page"></div>;
+        return (
+            <div id="page">
+                <SideBar />
+                <MobileIntro />
+                <MobileWork />
+                <MobileFooter />
+            </div>
+        );
     } else {
         return (
             <div id="page">

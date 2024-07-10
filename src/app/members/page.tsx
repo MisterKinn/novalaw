@@ -8,18 +8,18 @@ import "@/styles/style.css";
 import "@/styles/Desktop/members.css";
 import "@/styles/Mobile/members.css";
 
-import NavBar from "@/components/home/desktop/NavBar";
-import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/members/desktop/Intro";
-import Ceo from "@/components/members/desktop/Ceo";
-import Employees from "@/components/members/desktop/Employees";
-import Footer from "@/components/home/desktop/Footer";
+import NavBar from "@/app/components/home/desktop/NavBar";
+import StickyNav from "@/app/components/home/desktop/StickyNav";
+import Intro from "@/app/components/members/desktop/Intro";
+import Ceo from "@/app/components/members/desktop/Ceo";
+import Employees from "@/app/components/members/desktop/Employees";
+import Footer from "@/app/components/home/desktop/Footer";
 
-import SideBar from "@/components/home/mobile/SideBar";
-import MobileIntro from "@/components/members/mobile/Intro";
-import MobileCeo from "@/components/members/mobile/Ceo";
-import MobileEmployees from "@/components/members/mobile/Employees";
-import MobileFooter from "@/components/home/mobile/Footer";
+import SideBar from "@/app/components/home/mobile/SideBar";
+import MobileIntro from "@/app/components/members/mobile/Intro";
+import MobileCeo from "@/app/components/members/mobile/Ceo";
+import MobileEmployees from "@/app/components/members/mobile/Employees";
+import MobileFooter from "@/app/components/home/mobile/Footer";
 
 function Members() {
     useEffect(() => {

@@ -1,0 +1,86 @@
+#mobile-intro {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.mobile-works-bg {
+    height: 40em;
+    width: 100vw;
+    filter: brightness(0.8);
+}
+
+.mobile-works-container {
+    position: absolute;
+    margin-top: 10em;
+}
+
+.mobile-works-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 1.5em;
+    color: #a0a0a0;
+}
+
+.mobile-works-subtitle {
+    margin-top: -0.25em;
+    text-align: center;
+    font-size: 2.1em;
+    color: #a0a0a0;
+}
+
+.mobile-white {
+    color: white;
+}
+
+#mobile-works {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mobile-work-title {
+    margin: 1em;
+    margin-top: -3em;
+    padding-bottom: 0.25em;
+    font-size: 2.75em;
+    color: #141d7d;
+    border-bottom: 4px #bdc0dc solid;
+}
+
+.mobile-card-container {
+    display: flex;
+    flex-direction: row;
+    margin: 1.25em;
+    height: 10em;
+    width: 22.5em;
+    background-color: #f9f9f9;
+}
+
+.mobile-card-container img {
+    margin: 2em;
+    height: 5em;
+    width: auto;
+}
+
+.mobile-card-title {
+    margin-top: 0.5em;
+    font-size: 1.75em;
+    font-weight: bold;
+    color: black;
+}
+
+.mobile-card-subtitle {
+    margin-top: 0.25em;
+    font-size: 1em;
+    color: #626262;
+}
+
+.mobile-margin {
+    margin: 2.5em;
+}

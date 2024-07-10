@@ -7,14 +7,14 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Desktop/speciality.css";
 
-import NavBar from "@/components/home/desktop/NavBar";
-import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/speciality/desktop/Intro";
-import Greeting from "@/components/speciality/desktop/Greeting";
-import System from "@/components/speciality/desktop/System";
-import Feedback from "@/components/speciality/desktop/Feedback";
-import Consult from "@/components/speciality/desktop/Consult";
-import Footer from "@/components/home/desktop/Footer";
+import NavBar from "@/app/components/home/desktop/NavBar";
+import StickyNav from "@/app/components/home/desktop/StickyNav";
+import Intro from "@/app/components/speciality/desktop/Intro";
+import Greeting from "@/app/components/speciality/desktop/Greeting";
+import System from "@/app/components/speciality/desktop/System";
+import Feedback from "@/app/components/speciality/desktop/Feedback";
+import Consult from "@/app/components/speciality/desktop/Consult";
+import Footer from "@/app/components/home/desktop/Footer";
 
 function Speicality() {
     useEffect(() => {
@@ -29,7 +29,7 @@ function Speicality() {
         return <div id="page"></div>;
     } else {
         return (
-            <div>
+            <div id="page">
                 <NavBar />
                 <StickyNav />
                 <Intro />

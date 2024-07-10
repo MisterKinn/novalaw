@@ -7,17 +7,18 @@ function Feedback() {
                 노바법률사무소의 솔루션을 만나보세요.
             </h2>
             <a
-                href="../#"
+                href="../feedback"
                 target="_blank"
                 title="고객후기 전체보기"
                 className="feedback-button"
+                data-aos="fade-up"
             >
                 <div>
                     <p>고객후기 전체보기 {">"}</p>
                 </div>
             </a>
 
-            <div className="container">
+            <div className="container" data-aos="fade-up">
                 <div className="card-container">
                     <img
                         src="img/success-logo.png"

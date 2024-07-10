@@ -7,11 +7,11 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Desktop/feedback.css";
 
-import NavBar from "@/components/home/desktop/NavBar";
-import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/feedback/desktop/Intro";
-import Thanks from "@/components/feedback/desktop/Thanks";
-import Footer from "@/components/home/desktop/Footer";
+import NavBar from "@/app/components/home/desktop/NavBar";
+import StickyNav from "@/app/components/home/desktop/StickyNav";
+import Intro from "@/app/components/feedback/desktop/Intro";
+import Thanks from "@/app/components/feedback/desktop/Thanks";
+import Footer from "@/app/components/home/desktop/Footer";
 
 function Feedback() {
     useEffect(() => {
