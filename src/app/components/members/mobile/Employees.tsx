@@ -2,10 +2,39 @@ function Employees() {
     return (
         <div>
             <div className="mobile-container" data-aos="fade-up">
+                <div className="mobile-container" data-aos="fade-up">
+                    <div className="mobile-career-container">
+                        <div className="mobile-card-title">
+                            <h1>김태리</h1>
+                            <h2>파트너 변호사</h2>
+                        </div>
+                        <div className="mobile-career-container">
+                            <img
+                                src="img/kim-taeri.png"
+                                alt="김태리 파트너 변호사"
+                                className="mobile-employees-img"
+                            />
+                            <div className="mobile-career-text">
+                                서울대학교 법과대학 (법학사, 우등졸업)
+                                <br />
+                                고려대학교 법학전문대학원 (법학전문석사)
+                                <br />
+                                제3회 변호사시험 합격
+                                <br />
+                                Y&K 법률사무소 변호사 법무법인 전문 변호사
+                                <br />
+                                법무법인(유한) 주원 변호사
+                                <br />
+                                <br />ㅤ
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div className="mobile-card-container">
                     <div className="mobile-card-title">
                         <h1>김민성</h1>
-                        <h2>고문변호사</h2>
+                        <h2>자문변호사</h2>
                     </div>
                 </div>
 
@@ -16,7 +45,7 @@ function Employees() {
                         className="mobile-employees-img"
                     />
                     <div className="mobile-career-text">
-                        現 노바법률사무소 고문변호사
+                        現 노바법률사무소 자문변호사
                         <br />
                         現 엠디엠플러스 준법지원팀장
                         <br />
@@ -25,38 +54,6 @@ function Employees() {
                         서울대학교 법학부 졸업(학사)
                         <br />
                         연세대학교 법학전문대학원 졸업(석사){" "}
-                    </div>
-                </div>
-            </div>
-
-            <div className="mobile-container" data-aos="fade-up">
-                <div className="mobile-card-container">
-                    <div className="mobile-card-title">
-                        <h1>서예은</h1>
-                        <h2>자문회계사</h2>
-                    </div>
-                </div>
-
-                <div className="mobile-career-container">
-                    <img
-                        src="img/seo-yeeun.png"
-                        alt="서예은 자문회계사"
-                        className="mobile-employees-img"
-                    />
-                    <div className="mobile-career-text">
-                        現 노바법률사무소 자문회계사
-                        <br />
-                        現 회계법인 마일스톤 회계사
-                        <br />
-                        前 김&장 법률사무소 회계사
-                        <br />
-                        前 KPMG 삼정회계법인 세무자문본부
-                        <br />
-                        前 Deloitte 안전회계법인 회계감사본부
-                        <br />
-                        2012년 공인회계사 합격
-                        <br />
-                        성균관대학교 경제학과 졸업
                     </div>
                 </div>
             </div>
@@ -133,6 +130,38 @@ function Employees() {
             </div>
 
             <div className="mobile-container" data-aos="fade-up">
+                <div className="mobile-card-container">
+                    <div className="mobile-card-title">
+                        <h1>서예은</h1>
+                        <h2>자문회계사</h2>
+                    </div>
+                </div>
+
+                <div className="mobile-career-container">
+                    <img
+                        src="img/seo-yeeun.png"
+                        alt="서예은 자문회계사"
+                        className="mobile-employees-img"
+                    />
+                    <div className="mobile-career-text">
+                        現 노바법률사무소 자문회계사
+                        <br />
+                        現 회계법인 마일스톤 회계사
+                        <br />
+                        前 김&장 법률사무소 회계사
+                        <br />
+                        前 KPMG 삼정회계법인 세무자문본부
+                        <br />
+                        前 Deloitte 안전회계법인 회계감사본부
+                        <br />
+                        2012년 공인회계사 합격
+                        <br />
+                        성균관대학교 경제학과 졸업
+                    </div>
+                </div>
+            </div>
+
+            <div className="mobile-container" data-aos="fade-up">
                 <div className="mobile-career-container">
                     <div className="mobile-card-title">
                         <h1>오영석</h1>
@@ -163,38 +192,6 @@ function Employees() {
                             국제성모병원 수련의 수료
                             <br />
                             관동대학교 의과대학 졸업
-                        </div>
-                    </div>
-                </div>
-
-                <div className="mobile-container" data-aos="fade-up">
-                    <div className="mobile-career-container">
-                        <div className="mobile-card-title">
-                            <h1>김태리</h1>
-                            <h2>자문변호사</h2>
-                        </div>
-                        <div className="mobile-career-container">
-                            <img
-                                src="img/kim-taeri.png"
-                                alt="김태리 자문변호사"
-                                className="mobile-employees-img"
-                            />
-                            <div className="mobile-career-text">
-                                서울대학교 법과대학 (법학사, 우등졸업)
-                                <br />
-                                고려대학교 법학전문대학원 (법학전문석사)
-                                <br />
-                                제 3회 변호사시험 합격
-                                <br />
-                                Y&K 법률사무소 변호사
-                                <br />
-                                법무법인 전문 변호사
-                                <br />
-                                법무법인(유한) 전원 변호사
-                                <br />
-                                <br />
-                                <br />ㅤ
-                            </div>
                         </div>
                     </div>
                 </div>

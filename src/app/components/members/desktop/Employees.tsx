@@ -4,13 +4,43 @@ function Employees() {
             <div className="container" data-aos="fade-up">
                 <div className="employees-container top0">
                     <div className="card-title">
-                        <h1>김민성</h1>
-                        <h2>고문변호사</h2>
+                        <h1>김태리</h1>
+                        <h2>파트너 변호사</h2>
                     </div>
 
                     <div className="career-container">
                         <div className="career-text2">
-                            現 노바법률사무소 고문변호사
+                            서울대학교 법과대학 (법학사, 우등졸업)
+                            <br />
+                            고려대학교 법학전문대학원 (법학전문석사)
+                            <br />
+                            제3회 변호사시험 합격
+                            <br />
+                            Y&K 법률사무소 변호사 법무법인 전문 변호사
+                            <br />
+                            법무법인(유한) 주원 변호사
+                            <br />
+                            <br />
+                            <br />
+                            <br />ㅤ
+                        </div>
+                        <img
+                            src="img/kim-taeri.png"
+                            alt="김태리 파트너 변호사"
+                            className="employees-img"
+                        />
+                    </div>
+                </div>
+
+                <div className="employees-container top0">
+                    <div className="card-title">
+                        <h1>김민성</h1>
+                        <h2>자문변호사</h2>
+                    </div>
+
+                    <div className="career-container">
+                        <div className="career-text2">
+                            現 노바법률사무소 자문변호사
                             <br />
                             現 엠디엠플러스 준법지원팀장
                             <br />
@@ -27,34 +57,70 @@ function Employees() {
                         />
                     </div>
                 </div>
+            </div>
 
-                <div className="employees-container top0">
+            <div className="container" data-aos="fade-up">
+                <div className="employees-container">
                     <div className="card-title">
-                        <h1>서예은</h1>
-                        <h2>자문회계사</h2>
+                        <h1>김혜진</h1>
+                        <h2>자문세무사</h2>
                     </div>
 
                     <div className="career-container">
                         <div className="career-text2">
-                            現 노바법률사무소 자문회계사
+                            現 노바법률사무소 자문세무사
                             <br />
-                            現 회계법인 마일스톤 회계사
+                            現 회계법인 더봄 홍대점 부대표 회계사
                             <br />
-                            前 김&장 법률사무소 회계사
+                            前 롯데쇼핑 백화점사업 본부
                             <br />
-                            前 KPMG 삼정회계법인 세무자문본부
+                            경영기획팀 / 점포 영업총괄팀
                             <br />
-                            前 Deloitte 안전회계법인 회계감사본부
+                            [저서] 대리님 세무 신고 이렇게 하는 게 맞아요?
                             <br />
-                            2012년 공인회계사 합격
+                            더존에듀캠 강사 - 신입사원을 위한 세무 강의
+                            <br />
+                            2017년 54기 세무사 합격
                             <br />
                             성균관대학교 경제학과 졸업
-                            <br />
                             <br />ㅤ
                         </div>
                         <img
-                            src="img/seo-yeeun.png"
-                            alt="서예은 자문회계사"
+                            src="img/kim-haejin.png"
+                            alt="김혜진 자문세무사"
+                            className="employees-img"
+                        />
+                    </div>
+                </div>
+                <div className="employees-container">
+                    <div className="card-title">
+                        <h1>김동권</h1>
+                        <h2>자문노무사</h2>
+                    </div>
+
+                    <div className="career-container">
+                        <div className="career-text2">
+                            現 노바법률사무소 자문노무사
+                            <br />
+                            現 노무법인 리담 광화문 본사 노무사
+                            <br />
+                            前 중소기업벤처기업부 비즈니스지원단 현장클리닉
+                            <br />
+                            前 고용노동부 일터혁신 컨설턴트
+                            <br />
+                            前 공인노무사회 노동시간 단축 전문 컨설턴트
+                            <br />
+                            前 대한민국 공군 군수사령부 인사장교
+                            <br />
+                            前 현대차그룹 현대엔지니어링 사내노무사
+                            <br />
+                            경북대학교 사범대학
+                            <br />
+                            고려대학교 경영대학원(석사)
+                        </div>
+                        <img
+                            src="img/kim-donggwon.png"
+                            alt="김동권 자문노무사"
                             className="employees-img"
                         />
                     </div>
@@ -63,73 +129,36 @@ function Employees() {
                 <div className="container" data-aos="fade-up">
                     <div className="employees-container">
                         <div className="card-title">
-                            <h1>김혜진</h1>
-                            <h2>자문세무사</h2>
+                            <h1>서예은</h1>
+                            <h2>자문회계사</h2>
                         </div>
 
                         <div className="career-container">
                             <div className="career-text2">
-                                現 노바법률사무소 자문세무사
+                                現 노바법률사무소 자문회계사
                                 <br />
-                                現 회계법인 더봄 홍대점 부대표 회계사
+                                現 회계법인 마일스톤 회계사
                                 <br />
-                                前 롯데쇼핑 백화점사업 본부
+                                前 김&장 법률사무소 회계사
                                 <br />
-                                경영기획팀 / 점포 영업총괄팀
+                                前 KPMG 삼정회계법인 세무자문본부
                                 <br />
-                                [저서] 대리님 세무 신고 이렇게 하는 게 맞아요?
+                                前 Deloitte 안전회계법인 회계감사본부
                                 <br />
-                                더존에듀캠 강사 - 신입사원을 위한 세무 강의
-                                <br />
-                                2017년 54기 세무사 합격
+                                2012년 공인회계사 합격
                                 <br />
                                 성균관대학교 경제학과 졸업
+                                <br />
                                 <br />ㅤ
                             </div>
                             <img
-                                src="img/kim-haejin.png"
-                                alt="김혜진 자문세무사"
+                                src="img/seo-yeeun.png"
+                                alt="서예은 자문회계사"
                                 className="employees-img"
                             />
                         </div>
                     </div>
 
-                    <div className="employees-container">
-                        <div className="card-title">
-                            <h1>김동권</h1>
-                            <h2>자문노무사</h2>
-                        </div>
-
-                        <div className="career-container">
-                            <div className="career-text2">
-                                現 노바법률사무소 자문노무사
-                                <br />
-                                現 노무법인 리담 광화문 본사 노무사
-                                <br />
-                                前 중소기업벤처기업부 비즈니스지원단 현장클리닉
-                                <br />
-                                前 고용노동부 일터혁신 컨설턴트
-                                <br />
-                                前 공인노무사회 노동시간 단축 전문 컨설턴트
-                                <br />
-                                前 대한민국 공군 군수사령부 인사장교
-                                <br />
-                                前 현대차그룹 현대엔지니어링 사내노무사
-                                <br />
-                                경북대학교 사범대학
-                                <br />
-                                고려대학교 경영대학원(석사)
-                            </div>
-                            <img
-                                src="img/kim-donggwon.png"
-                                alt="김동권 자문노무사"
-                                className="employees-img"
-                            />
-                        </div>
-                    </div>
-                </div>
-
-                <div className="container" data-aos="fade-up">
                     <div className="employees-container">
                         <div className="card-title">
                             <h1>오영석</h1>
@@ -159,37 +188,6 @@ function Employees() {
                             <img
                                 src="img/50seok.png"
                                 alt="오영석 자문의"
-                                className="employees-img"
-                            />
-                        </div>
-                    </div>
-
-                    <div className="employees-container">
-                        <div className="card-title">
-                            <h1>김태리</h1>
-                            <h2>자문변호사</h2>
-                        </div>
-
-                        <div className="career-container">
-                            <div className="career-text2">
-                                서울대학교 법과대학 (법학사, 우등졸업)
-                                <br />
-                                고려대학교 법학전문대학원 (법학전문석사)
-                                <br />
-                                제 3회 변호사시험 합격
-                                <br />
-                                Y&K 법률사무소 변호사
-                                <br />
-                                법무법인 전문 변호사
-                                <br />
-                                법무법인(유한) 전원 변호사
-                                <br />
-                                <br />
-                                <br />ㅤ
-                            </div>
-                            <img
-                                src="img/kim-taeri.png"
-                                alt="김태리 자문변호사"
                                 className="employees-img"
                             />
                         </div>
