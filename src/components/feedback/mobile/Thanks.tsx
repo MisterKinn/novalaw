@@ -57,7 +57,6 @@ function Thanks() {
                         <br />
                         <br />
                         <br />
-                        <br />
                     </p>
 
                     <div className="mobile-card-bottom">
@@ -88,7 +87,6 @@ function Thanks() {
                         너무 좋았습니다.
                         <br />
                         사건진행하기로 했고 앞으로도 잘 부탁드립니다!
-                        <br />
                         <br />
                         <br />
                     </p>
@@ -125,7 +123,6 @@ function Thanks() {
                         바로 찾아뵙겠습니다.
                         <br />
                         항상 건강하십시오!
-                        <br />
                         <br />
                         <br />
                     </p>
@@ -200,7 +197,6 @@ function Thanks() {
                         변호사님 덕분에 편안한 일상으로 돌아가고
                         <br />
                         있습니다. 감사드립니다.
-                        <br />
                         <br />
                         <br />
                     </p>
