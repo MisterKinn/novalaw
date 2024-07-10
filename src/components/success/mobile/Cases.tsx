@@ -32,7 +32,7 @@ function Cases() {
                             <h2>
                                 구속 영장을 발부받았을
                                 <br />
-                                때의 대처법ㅤㅤㅤㅤㅤㅤ
+                                때의 대처법ㅤㅤㅤㅤㅤㅤㅤ
                                 <br />
                                 <br />
                                 <br />
@@ -97,10 +97,11 @@ function Cases() {
                             <h2>
                                 스토킹 처벌법
                                 <br />
-                                고소대리 사건ㅤㅤㅤㅤㅤ
+                                고소대리 사건ㅤㅤㅤㅤㅤㅤㅤㅤ
                                 <br />
                                 <br />
                                 <br />
+                                ㅤㅤㅤㅤㅤㅤ
                             </h2>
                             <div className="mobile-img-container">
                                 <img src="img/hammer.png" alt="판결 내용" />
@@ -145,6 +146,7 @@ function Cases() {
                                 못한 사례ㅤㅤㅤㅤㅤㅤㅤ
                                 <br />
                                 <br />
+                                ㅤㅤㅤ
                             </h2>
                             <div className="mobile-img-container">
                                 <img src="img/hammer.png" alt="판결 내용" />
@@ -168,7 +170,7 @@ function Cases() {
                                 <br />
                                 감액과 3심 기각판결을
                                 <br />
-                                이끈 사례
+                                이끈 사례ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
                             </h2>
                             <div className="mobile-img-container margin0">
                                 <img src="img/hammer.png" alt="판결 내용" />
