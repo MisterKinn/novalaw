@@ -5,7 +5,6 @@ import { useMediaQuery } from "react-responsive";
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
-import "@/styles/mobile/sidebar.css";
 import "@/styles/Desktop/successes.css";
 import "@/styles/Mobile/successes.css";
 
