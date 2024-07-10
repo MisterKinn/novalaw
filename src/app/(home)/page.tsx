@@ -5,24 +5,24 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 
-import NavBar from "@/app/components/home/desktop/NavBar";
-import StickyNav from "@/app/components/home/desktop/StickyNav";
-import Home from "@/app/components/home/desktop/Home";
-import Works from "@/app/components/home/desktop/Works";
-import Success from "@/app/components/home/desktop/Success";
-import Media from "@/app/components/home/desktop/Media";
-import Address from "@/app/components/home/desktop/Address";
-import Consult from "@/app/components/home/desktop/Consult";
-import Footer from "@/app/components/home/desktop/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Home from "@/components/home/desktop/Home";
+import Works from "@/components/home/desktop/Works";
+import Success from "@/components/home/desktop/Success";
+import Media from "@/components/home/desktop/Media";
+import Address from "@/components/home/desktop/Address";
+import Consult from "@/components/home/desktop/Consult";
+import Footer from "@/components/home/desktop/Footer";
 
-import SideBar from "@/app/components/home/mobile/SideBar";
-import MobileHome from "@/app/components/home/mobile/Home";
-import MobileWorks from "@/app/components/home/mobile/Works";
-import MobileSuccess from "@/app/components/home/mobile/Success";
-import MobileMedia from "@/app/components/home/mobile/Media";
-import MobileAddress from "@/app/components/home/mobile/Address";
-import MobileConsult from "@/app/components/home/mobile/Consult";
-import MobileFooter from "@/app/components/home/mobile/Footer";
+import SideBar from "@/components/home/mobile/SideBar";
+import MobileHome from "@/components/home/mobile/Home";
+import MobileWorks from "@/components/home/mobile/Works";
+import MobileSuccess from "@/components/home/mobile/Success";
+import MobileMedia from "@/components/home/mobile/Media";
+import MobileAddress from "@/components/home/mobile/Address";
+import MobileConsult from "@/components/home/mobile/Consult";
+import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
     useEffect(() => {

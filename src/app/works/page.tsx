@@ -8,16 +8,16 @@ import "@/styles/style.css";
 import "@/styles/Desktop/works.css";
 import "@/styles/Mobile/works.css";
 
-import NavBar from "@/app/components/home/desktop/NavBar";
-import StickyNav from "@/app/components/home/desktop/StickyNav";
-import Intro from "@/app/components/works/desktop/Intro";
-import Work from "@/app/components/works/desktop/Works";
-import Footer from "@/app/components/home/desktop/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Intro from "@/components/works/desktop/Intro";
+import Work from "@/components/works/desktop/Works";
+import Footer from "@/components/home/desktop/Footer";
 
-import SideBar from "@/app/components/home/mobile/SideBar";
-import MobileIntro from "@/app/components/works/mobile/Intro";
-import MobileWork from "@/app/components/works/mobile/Works";
-import MobileFooter from "@/app/components/home/mobile/Footer";
+import SideBar from "@/components/home/mobile/SideBar";
+import MobileIntro from "@/components/works/mobile/Intro";
+import MobileWork from "@/components/works/mobile/Works";
+import MobileFooter from "@/components/home/mobile/Footer";
 
 function Works() {
     useEffect(() => {

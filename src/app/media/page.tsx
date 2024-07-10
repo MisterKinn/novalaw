@@ -11,20 +11,20 @@ import "@/styles/Desktop/navbar.css";
 import "@/styles/Desktop/stickynav.css";
 import "@/styles/Desktop/footer.css";
 
-import NavBar from "@/app/components/home/desktop/NavBar";
-import StickyNav from "@/app/components/home/desktop/StickyNav";
-import Intro from "@/app/components/media/desktop/Intro";
-import Donho from "@/app/components/media/desktop/Donho";
-import Nova from "@/app/components/media/desktop/Nova";
-import Broadcast from "@/app/components/media/desktop/Broadcast";
-import Footer from "@/app/components/home/desktop/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Intro from "@/components/media/desktop/Intro";
+import Donho from "@/components/media/desktop/Donho";
+import Nova from "@/components/media/desktop/Nova";
+import Broadcast from "@/components/media/desktop/Broadcast";
+import Footer from "@/components/home/desktop/Footer";
 
-import SideBar from "@/app/components/home/mobile/SideBar";
-import MobileIntro from "@/app/components/media/mobile/Intro";
-import MobileDonho from "@/app/components/media/mobile/Donho";
-import MoblieNova from "@/app/components/media/mobile/Nova";
-import MoblieBroadcast from "@/app/components/media/mobile/Broadcast";
-import MobileFooter from "@/app/components/home/mobile/Footer";
+import SideBar from "@/components/home/mobile/SideBar";
+import MobileIntro from "@/components/media/mobile/Intro";
+import MobileDonho from "@/components/media/mobile/Donho";
+import MoblieNova from "@/components/media/mobile/Nova";
+import MoblieBroadcast from "@/components/media/mobile/Broadcast";
+import MobileFooter from "@/components/home/mobile/Footer";
 
 function Media() {
     useEffect(() => {

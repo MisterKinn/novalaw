@@ -8,9 +8,9 @@ import "@/styles/style.css";
 import DesktopPage from "@/app/terms/desktop/page";
 import MobilePage from "@/app/terms/mobile/page";
 
-import NavBar from "@/app/components/home/desktop/NavBar";
-import StickyNav from "@/app/components/home/desktop/StickyNav";
-import Footer from "@/app/components/home/desktop/Footer";
+import NavBar from "@/components/home/desktop/NavBar";
+import StickyNav from "@/components/home/desktop/StickyNav";
+import Footer from "@/components/home/desktop/Footer";
 
 function Terms() {
     useEffect(() => {
