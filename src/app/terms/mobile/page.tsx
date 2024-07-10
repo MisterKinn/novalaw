@@ -11,7 +11,7 @@ function Terms() {
             </h1>
 
             <div className="mobile-terms-text" data-aos="fade-up">
-                <span className="white">제 1조(목적)</span>
+                <span className="black">제 1조(목적)</span>
                 <br />
                 노바법률사무소 홈페이지 이용약관 제 1조(목적) 이 약관은
                 노바법률사무소(이하 "회사"라 함)가 운영하는 홈페이지(이하
@@ -21,7 +21,7 @@ function Terms() {
                 이용자의 권리·의무 및 책임사항을 규정함을 목적으로 합니다.
                 <br />
                 <br />
-                <span className="white">제 2조(정의)</span>
+                <span className="black">제 2조(정의)</span>
                 <br />
                 ① “홈페이지”이란 회사가 재화 또는 용역(이하 “재화 등” 이라 함)을
                 이용자에게 제공하기 위하여
@@ -33,7 +33,7 @@ function Terms() {
                 제공하는 서비스를 받는 자를 말합니다.
                 <br />
                 <br />
-                <span className="white">
+                <span className="black">
                     제 3조 (약관 등의 명시와 설명 및 개정)
                 </span>
                 <br />
@@ -89,7 +89,7 @@ function Terms() {
                 및 관계법령 또는 상관례에 따릅니다.
                 <br />
                 <br />
-                <span className="white">제 4조(서비스의 제공 및 변경)</span>
+                <span className="black">제 4조(서비스의 제공 및 변경)</span>
                 <br />
                 ① “회사”는 다음과 같은 업무를 수행합니다.
                 <br />
@@ -98,14 +98,14 @@ function Terms() {
                 2. 기타 “회사”가 정하는 업무
                 <br />
                 <br />
-                <span className="white">제 5조(서비스의 중단)</span>
+                <span className="black">제 5조(서비스의 중단)</span>
                 <br />
                 ① “회사”는 컴퓨터 등 정보통신설비의 보수점검·교체 및 고장,
                 통신의 두절 등의 사유가 발생한 경우에는 서비스의 제공을
                 일시적으로 중단할 수 있습니다.
                 <br />
                 <br />
-                <span className="white">제 6조(개인정보보호)</span>
+                <span className="black">제 6조(개인정보보호)</span>
                 <br />
                 ① “회사”는 이용자의 개인정보 수집시 서비스제공을 위하여 필요한
                 범위에서 최소한의 개인정보를 수집합니다.
@@ -157,7 +157,7 @@ function Terms() {
                 제한하거나 거절하지 않습니다.
                 <br />
                 <br />
-                <span className="white">제 7조(“회“의 의무)</span>
+                <span className="black">제 7조(“회“의 의무)</span>
                 <br />
                 ① “회사”는 법령과 이 약관이 금지하거나 공서양속에 반하는 행위를
                 하지 않으며 이 약관이 정하는 바에 따라 지속적이고,
@@ -177,7 +177,7 @@ function Terms() {
                 발송하지 않습니다.
                 <br />
                 <br />
-                <span className="white">제 8조(이용자의 의무)</span>
+                <span className="black">제 8조(이용자의 의무)</span>
                 <br />
                 이용자는 다음 행위를 하여서는 안 됩니다.
                 <br />
@@ -198,7 +198,7 @@ function Terms() {
                 정보를 홈페이지에 공개 또는 게시하는 행위
                 <br />
                 <br />
-                <span className="white">제 9조(저작권의 귀속 및 이용제한)</span>
+                <span className="black">제 9조(저작권의 귀속 및 이용제한)</span>
                 <br />
                 ① “회사“가 작성한 저작물에 대한 저작권 기타 지적재산권은
                 ”회사“에 귀속합니다.
@@ -213,7 +213,7 @@ function Terms() {
                 당해 이용자에게 통보하여야 합니다.
                 <br />
                 <br />
-                <span className="white">제 10조(분쟁해결)</span>
+                <span className="black">제 10조(분쟁해결)</span>
                 <br />
                 ① “회사”는 이용자가 제기하는 정당한 의견이나 불만을 반영하고 그
                 피해를 보상처리하기 위하여 피해보상처리기구를 설치·운영합니다.
