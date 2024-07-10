@@ -1,0 +1,129 @@
+#mobile-intro {
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-bottom: -7.5em;
+    overflow-x: hidden;
+}
+
+#mobile-ceo {
+    width: 100vw;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+.mobile-members-bg {
+    height: 40em;
+    width: 100vw;
+    filter: brightness(0.8);
+}
+
+.mobile-container {
+    margin-top: 3.5em;
+}
+
+.mobile-members-container {
+    position: absolute;
+    margin-top: 10em;
+}
+
+.mobile-members-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 1.25em;
+    color: #a0a0a0;
+}
+
+.mobile-members-subtitle {
+    margin-top: -0.25em;
+    text-align: center;
+    font-size: 1.75em;
+    color: #a0a0a0;
+}
+
+.mobile-white {
+    color: white;
+}
+
+.mobile-top0 {
+    margin-top: -15em;
+}
+
+.mobile-card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mobile-card-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    height: 4em;
+    width: 17.5em;
+    border-bottom: 5px #131d7d solid;
+}
+
+.mobile-card-title h1 {
+    margin-top: -0.1em;
+    font-size: 3.5em;
+}
+
+.mobile-card-title h2 {
+    margin-left: 0.25em;
+    font-size: 1.75em;
+    font-weight: normal;
+}
+
+.mobile-introduce {
+    margin-top: 1em;
+    margin-bottom: 0.75em;
+    text-align: center;
+    font-size: 1.75em;
+    font-weight: bold;
+    color: #131d7d;
+}
+
+.mobile-career-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.mobile-career-text {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.mobile-ceo-img {
+    height: 27.5em;
+    width: auto;
+}
+
+.mobile-employees-img {
+    margin-top: 1em;
+    height: 22.5em;
+    width: auto;
+}
+
+.mobile-kms {
+    margin-bottom: -7.1em;
+    height: 20em;
+    width: auto;
+}
+
+.mobile-margin {
+    margin: 2.5em;
+}
