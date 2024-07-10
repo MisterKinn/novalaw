@@ -1,0 +1,167 @@
+#mobile-case {
+    margin: 2em;
+}
+
+.mobile-back {
+    margin-top: 5em;
+}
+
+.mobile-case-intro-title {
+    margin-top: 0.75em;
+    color: #141d7d;
+}
+
+.mobile-case-intro-subtitle {
+    margin-top: -0.25em;
+    font-size: 1.75em;
+    width: 100vw;
+}
+
+.mobile-info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5em;
+}
+
+.mobile-info-container img {
+    height: 10em;
+    width: auto;
+}
+
+.mobile-info-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -1em;
+}
+
+.mobile-info-text h2 {
+    font-size: 2.25em;
+}
+
+.mobile-info-text h3 {
+    margin-top: -1em;
+    font-size: 1.25em;
+}
+
+.mobile-info-text h4 {
+    display: inline;
+    margin-right: 1em;
+}
+
+.mobile-blue {
+    color: #4051ff;
+}
+
+.mobile-case-title {
+    margin: 1em;
+    margin-top: 3.5em;
+    margin-left: -0.01em;
+    margin-right: -0.01em;
+    padding-bottom: 0.25em;
+    text-align: center;
+    font-size: 1.45em;
+    color: #141d7d;
+    border-bottom: 2px #bdc0dc solid;
+}
+
+.mobile-reason-text {
+    text-align: center;
+    font-size: 1em;
+    color: black;
+}
+
+.mobile-rescue-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-rescue-card {
+    margin: 1.5em;
+    height: 9em;
+    width: 18em;
+    background-color: #fbfbff;
+    border: 2px black solid;
+}
+
+.mobile-wide-card {
+    height: 7em;
+    width: 25em;
+}
+
+.mobile-rescue-card img {
+    margin-top: -2em;
+    margin-left: 15em;
+    height: 3.75em;
+    width: auto;
+}
+
+.mobile-rescue-card p {
+    text-align: center;
+    margin-top: 0.25em;
+    font-size: 1.15em;
+    color: #141d7d;
+}
+
+.mobile-more-margin {
+    padding-top: 0.5em;
+}
+
+.mobile-result-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mobile-result-container img {
+    position: relative;
+    height: 32.5em;
+    width: auto;
+}
+
+.mobile-result-container p {
+    margin-top: 9em;
+    position: absolute;
+    font-size: 1.1em;
+    color: black;
+}
+
+.mobile-button-container {
+    margin-left: -1em;
+}
+
+.mobile-button-container a {
+    text-decoration: none;
+}
+
+.mobile-case-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 4em;
+    width: 20em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-case-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-case-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+.mobile-case-button img {
+    margin-left: 0.75em;
+    height: 3em;
+    width: auto;
+}
