@@ -11,7 +11,7 @@ function Home() {
                     className="header-img"
                 />
 
-                <div className="popup-container">
+                {/* <div className="popup-container">
                     <div className="popup-element">
                         <img
                             src="img/close-img.png"
@@ -31,7 +31,7 @@ function Home() {
                             className="popup-img"
                         />
                     </div>
-                </div>
+                </div> */}
 
                 <div className="text-container">
                     <div data-aos="fade-up">

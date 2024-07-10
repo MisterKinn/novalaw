@@ -8,7 +8,6 @@ function Feedback() {
             </h2>
             <a
                 href="../feedback"
-                target="_blank"
                 title="고객후기 전체보기"
                 className="feedback-button"
                 data-aos="fade-up"

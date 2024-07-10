@@ -185,6 +185,7 @@ function Case5() {
                     href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
                     target="_blank"
                     title="후기 더 알아보기"
+                    data-aos="fade-up"
                 >
                     <div className="case-button">
                         <p>노바법률사무소 로톡</p>
@@ -199,6 +200,7 @@ function Case5() {
                     href="https://pf.kakao.com/_CXxhwG"
                     target="_blank"
                     title="후기 더 알아보기"
+                    data-aos="fade-up"
                 >
                     <div className="case-button">
                         <p>노바법률사무소 채널톡</p>
