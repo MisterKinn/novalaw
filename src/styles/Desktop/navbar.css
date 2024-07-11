@@ -42,3 +42,9 @@
     color: #131d7d;
     transition: 0.2s;
 }
+
+@media (max-width: 1500px) {
+    .topnav a {
+        font-size: 17.5px;
+    }
+}
