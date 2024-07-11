@@ -17,14 +17,12 @@ import StickyNav from "@/components/home/desktop/StickyNav";
 import Intro from "@/components/media/desktop/Intro";
 import Donho from "@/components/media/desktop/Donho";
 import Nova from "@/components/media/desktop/Nova";
-import Broadcast from "@/components/media/desktop/Broadcast";
 import Footer from "@/components/home/desktop/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
 import MobileIntro from "@/components/media/mobile/Intro";
 import MobileDonho from "@/components/media/mobile/Donho";
 import MoblieNova from "@/components/media/mobile/Nova";
-import MoblieBroadcast from "@/components/media/mobile/Broadcast";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function Media() {
@@ -43,7 +41,6 @@ function Media() {
                 <MobileIntro />
                 <MobileDonho />
                 <MoblieNova />
-                <MoblieBroadcast />
                 <MobileFooter />
             </div>
         );
@@ -55,7 +52,6 @@ function Media() {
                 <Intro />
                 <Donho />
                 <Nova />
-                <Broadcast />
                 <Footer />
             </div>
         );

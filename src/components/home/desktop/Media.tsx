@@ -34,23 +34,45 @@ function Media() {
 
                 <div className="video-container" data-aos="fade-up">
                     <div>
-                        <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p>YouTube 제목</p>
+                        <a
+                            href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
+                            target="_blank"
+                            title="무급법률담당관"
+                        >
+                            <img
+                                src="img/media-donho-1.jpg"
+                                alt="무급법률담당관"
+                            />
+                            <p>무급법률담당관</p>
                         </a>
                     </div>
 
                     <div>
-                        <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p>YouTube 제목</p>
+                        <a
+                            href="https://www.youtube.com/watch?v=kS6pdJkLPio&t=392s"
+                            target="_blank"
+                            title="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
+                        >
+                            <img
+                                src="img/media-donho-2.jpg"
+                                alt="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
+                            />
+                            <p>
+                                '오타지적' 고등학생 고소 불송치 결정!
+                                <br />
+                                경찰조사 서류 읽어보기
+                            </p>
                         </a>
                     </div>
 
                     <div>
-                        <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p>YouTube 제목</p>
+                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
+                            <img src="img/media-nova-1.jpg" alt="" />
+                            <p>
+                                [SBS 모닝와이드 날]
+                                <br />
+                                신림동 출근길 특수강간
+                            </p>
                         </a>
                     </div>
                 </div>

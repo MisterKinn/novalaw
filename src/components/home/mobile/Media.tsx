@@ -33,16 +33,27 @@ function Media() {
 
                 <div className="mobile-video-container" data-aos="fade-up">
                     <div>
-                        <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p>YouTube 제목</p>
+                        <a
+                            href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
+                            target="_blank"
+                            title="무급법률담당관"
+                        >
+                            <img
+                                src="img/media-donho-1.jpg"
+                                alt="무급법률담당관"
+                            />
+                            <p>무급법률담당관</p>
                         </a>
                     </div>
 
                     <div>
-                        <a href="#">
-                            <img src="img/youtube.jpg" alt="" />
-                            <p>YouTube 제목</p>
+                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
+                            <img src="img/media-nova-1.jpg" alt="" />
+                            <p>
+                                [SBS 모닝와이드 날]
+                                <br />
+                                신림동 출근길 특수강간
+                            </p>
                         </a>
                     </div>
                 </div>

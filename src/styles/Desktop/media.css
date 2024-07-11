@@ -113,7 +113,6 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 3em;
 }
 
 .video-container img {
