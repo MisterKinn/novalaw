@@ -1,0 +1,229 @@
+#page {
+    overflow-x: hidden;
+}
+
+#mobile-intro {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.mobile-speciality-bg {
+    height: auto;
+    width: 100vw;
+    filter: brightness(0.8);
+}
+
+.mobile-speciality-container {
+    position: absolute;
+    margin-top: 10em;
+}
+
+.mobile-speciality-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 1.5em;
+    color: #a0a0a0;
+}
+
+.mobile-speciality-subtitle {
+    margin-top: -0.25em;
+    text-align: center;
+    font-size: 2.25em;
+    color: white;
+}
+
+.mobile-greeting-title {
+    margin: 2em;
+    margin-top: -5em;
+    padding-bottom: 0.25em;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: #141d7d;
+    border-bottom: 2px #bdc0dc solid;
+}
+
+.mobile-greeting-container img {
+    height: 25em;
+    width: auto;
+}
+
+.mobile-greeting-container p {
+    margin: 1em;
+    text-align: center;
+    font-size: 1em;
+    color: black;
+}
+
+.mobile-greeting-container div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mobile-greeting-container h2 {
+    margin-top: 2.5em;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.mobile-greeting-container h1 {
+    margin-top: 1em;
+    margin-left: 0.25em;
+    font-size: 1.75em;
+}
+
+.mobile-point {
+    margin-top: 2em;
+    height: auto;
+    width: 100vw;
+}
+
+.mobile-margin {
+    margin: 15em;
+}
+
+.mobile-system-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5em;
+}
+
+.mobile-system-container h3 {
+    margin: 0;
+    text-align: center;
+    font-size: 3em;
+    color: #4051ff;
+}
+
+.mobile-system-container h4 {
+    margin-top: 0.5em;
+    margin-left: -2em;
+    margin-right: -2em;
+    text-align: center;
+    font-size: 1.4em;
+    color: black;
+}
+
+.mobile-blue {
+    color: blue;
+}
+
+.mobile-system-container img {
+    height: 17.5em;
+    width: auto;
+}
+
+.mobile-feedback-title {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+.mobile-feedback-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.mobile-feedback-button div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    width: 17.5em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-feedback-button div:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-feedback-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+#mobile-consult {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+.mobile-consult-bg {
+    height: 40em;
+    width: 122em;
+    filter: brightness(0.8);
+}
+
+.mobile-consult-container {
+    position: absolute;
+}
+
+.mobile-consult-title {
+    text-align: center;
+    font-size: 1.5em;
+    color: #a0a0a0;
+}
+
+.mobile-consult-subtitle {
+    text-align: center;
+    margin-top: -0.1em;
+    font-size: 2em;
+    color: white;
+}
+
+.mobile-consult-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-consult-buttons a {
+    text-decoration: none;
+}
+
+.mobile-consult-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 4em;
+    width: 20em;
+    background-color: #4051ff;
+    border-radius: 10px;
+}
+
+.mobile-consult-button:hover {
+    background-color: #131d7d;
+    transition: 0.2s;
+}
+
+.mobile-consult-button p {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+.mobile-consult-button img {
+    margin-left: 0.75em;
+    height: 3em;
+    width: auto;
+}
