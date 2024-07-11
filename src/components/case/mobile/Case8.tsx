@@ -70,7 +70,7 @@ function Case8() {
                     </p>
                 </div>
 
-                <div className="mobile-rescue-card">
+                <div className="mobile-rescue-card mobile-4line">
                     <img src="img/case-2.png" alt="노바법률사무소의 조력 2" />
                     <p className="mobile-more-margin">
                         도박사이트 운영으로 얻은 수익을

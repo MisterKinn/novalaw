@@ -47,7 +47,7 @@ function Home() {
 
                         <a
                             href="/speciality"
-                            title="CEO 인사말 보러가기"
+                            title="노바의 특별함 보러가기"
                             className="greeting-button"
                         >
                             <div>

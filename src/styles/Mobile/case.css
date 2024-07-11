@@ -120,6 +120,10 @@
     padding-top: 0.5em;
 }
 
+.mobile-4line {
+    height: 11em;
+}
+
 .mobile-result-container {
     display: flex;
     flex-direction: row;

@@ -7,8 +7,8 @@
 }
 
 .consult-bg {
-    height: 40em;
-    width: 122em;
+    height: auto;
+    width: 100vw;
     filter: brightness(0.8);
 }
 

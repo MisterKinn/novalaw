@@ -119,7 +119,7 @@ function Case9() {
                     </p>
                 </div>
 
-                <div className="mobile-rescue-card">
+                <div className="mobile-rescue-card mobile-4line">
                     <img src="img/case-6.png" alt="노바법률사무소의 조력 6" />
                     <p className="mobile-more-margin">
                         검사가 형법상 추징을 주장하였으나,

@@ -92,6 +92,7 @@ function Employees() {
                         />
                     </div>
                 </div>
+
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>김동권</h1>
