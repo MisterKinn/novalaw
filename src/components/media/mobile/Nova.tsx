@@ -35,7 +35,10 @@ function Nova() {
 
                 <div className="mobile-video-container" data-aos="fade-up">
                     <div>
-                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
+                        <a
+                            href="https://www.youtube.com/watch?v=AWw_55EvzcQ"
+                            target="_blank"
+                        >
                             <img src="img/media-nova-1.jpg" alt="" />
                             <p id="black">
                                 [SBS 모닝와이드 날]
@@ -45,7 +48,10 @@ function Nova() {
                         </a>
                     </div>
                     <div>
-                        <a href="https://www.youtube.com/watch?v=5EpLqMeR-Xs">
+                        <a
+                            href="https://www.youtube.com/watch?v=5EpLqMeR-Xs"
+                            target="_blank"
+                        >
                             <img src="img/media-nova-2.jpg" alt="" />
                             <p id="black">
                                 [SBS 모닝와이드 날]

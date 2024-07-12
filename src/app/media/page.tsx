@@ -24,6 +24,7 @@ import SideBar from "@/components/home/mobile/SideBar";
 import MobileIntro from "@/components/media/mobile/Intro";
 import MobileDonho from "@/components/media/mobile/Donho";
 import MoblieNova from "@/components/media/mobile/Nova";
+import MobileBroadcast from "@/components/media/mobile/Broadcast";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function Media() {
@@ -42,6 +43,7 @@ function Media() {
                 <MobileIntro />
                 <MobileDonho />
                 <MoblieNova />
+                <MobileBroadcast />
                 <MobileFooter />
             </div>
         );
