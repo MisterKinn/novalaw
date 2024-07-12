@@ -19,7 +19,10 @@ function Nova() {
 
                 <div className="video-container" data-aos="fade-up">
                     <div>
-                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
+                        <a
+                            href="https://www.youtube.com/watch?v=AWw_55EvzcQ"
+                            target="_blank"
+                        >
                             <img
                                 src="img/media-broadcast-1.jpg"
                                 alt="SBS 저녁 인터뷰 - '공중협박죄' 신설에 관여"
@@ -33,7 +36,10 @@ function Nova() {
                     </div>
 
                     <div>
-                        <a href="https://www.youtube.com/watch?v=5EpLqMeR-Xs">
+                        <a
+                            href="https://www.youtube.com/watch?v=5EpLqMeR-Xs"
+                            target="_blank"
+                        >
                             <img
                                 src="img/media-broadcast-2.jpg"
                                 alt="[이돈호 변호사 진행] '공황장애' 산재사건에서 승소"
@@ -47,7 +53,10 @@ function Nova() {
                     </div>
 
                     <div>
-                        <a href="https://www.youtube.com/watch?v=4lI6e37Q7ks">
+                        <a
+                            href="https://www.youtube.com/watch?v=4lI6e37Q7ks"
+                            target="_blank"
+                        >
                             <img
                                 src="img/media-broadcast-3.jpg"
                                 alt="[이돈호 변호사 진행] 구속영장을 기각시킨 사례"

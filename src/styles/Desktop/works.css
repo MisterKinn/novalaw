@@ -31,6 +31,7 @@
     margin-top: -0.25em;
     text-align: center;
     font-size: 3.5em;
+    line-height: 1.4em;
     color: #a0a0a0;
 }
 
@@ -81,8 +82,9 @@
 }
 
 .card-subtitle {
-    margin-top: 0.25em;
+    margin-top: 0.5em;
     font-size: 1.5em;
+    line-height: 1.4em;
     color: #626262;
 }
 

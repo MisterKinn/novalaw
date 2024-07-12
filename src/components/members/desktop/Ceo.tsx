@@ -38,7 +38,7 @@ function Ceo() {
                                 現 토탈스트렝스 자문변호사
                                 <br />現 대형케이티펙 자문변호사
                             </div>
-                            <div>
+                            <div className="career2">
                                 現 미지향식품 자문변호사
                                 <br />
                                 前 법무법인 AK 파트너변호사

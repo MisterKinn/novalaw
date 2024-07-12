@@ -1,6 +1,6 @@
 function Cases() {
     return (
-        <div>
+        <div id="cases">
             <div className="container" data-aos="fade-up">
                 <a href="../case1">
                     <div className="card-container">

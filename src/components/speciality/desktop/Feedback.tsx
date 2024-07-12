@@ -38,7 +38,6 @@ function Feedback() {
                         <br />
                         <br />
                         <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">

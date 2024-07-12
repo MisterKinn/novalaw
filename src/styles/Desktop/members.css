@@ -41,6 +41,7 @@
     margin-top: -0.25em;
     text-align: center;
     font-size: 3.5em;
+    line-height: 1.3em;
     color: #a0a0a0;
 }
 
@@ -56,8 +57,8 @@
 }
 
 .ceo-container {
-    height: 32em;
-    width: 67.4em;
+    height: 33em;
+    width: 69em;
     padding: 2em;
     padding-right: 0;
     border: 1px gray solid;
@@ -116,7 +117,7 @@
 .career-text {
     display: flex;
     flex-direction: row;
-    margin-top: 1em;
+    margin-top: 2.5em;
     margin-left: 1em;
     margin-right: 4.75em;
     line-height: 1.9em;
@@ -132,13 +133,18 @@
 }
 
 .career-text div {
-    padding-right: 1em;
     font-size: 1.1em;
+}
+
+.career2 {
+    padding-left: 1.25em;
+    padding-right: 0.75em;
 }
 
 .ceo-img {
     margin-top: -14.75em;
-    height: 36.5em;
+    margin-left: 0.8em;
+    height: 37.5em;
     width: auto;
 }
 
