@@ -23,12 +23,8 @@ function Nova() {
                         title="노바법률사무소 YouTube"
                         className="mobile-media-link"
                     >
-                        <div className="mobile-media-button mobile-wide-width">
-                            <img
-                                src="img/media-youtube.png"
-                                alt="노바법률사무소 YouTube"
-                            />
-                            <p>노바법률사무소 YouTube 보러가기 {">"}</p>
+                        <div className="mobile-media-button">
+                            <p>YouTube 보러가기 {">"}</p>
                         </div>
                     </a>
                 </div>
