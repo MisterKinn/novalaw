@@ -32,13 +32,19 @@
     transform: translate(-50%, -50%);
 }
 
-.header-icon {
+.mobile-header-icon {
     height: 3em;
     width: auto;
+    margin-top: -12.5em;
+    margin-bottom: -0.75em;
+    padding: 1.25em;
+    padding-left: 7.5em;
+    padding-right: 7.5em;
+    border-bottom: 2px white solid;
 }
 
 .mobile-title {
-    margin: 0.5em;
+    margin: 0.75em;
     margin-left: -2em;
     margin-right: -2em;
     font-size: 2.25em;
@@ -49,7 +55,6 @@
     margin-bottom: -0.75em;
     padding-top: 0.5em;
     font-size: 1.25em;
-    border-top: 2px white solid;
     color: #ccc;
 }
 

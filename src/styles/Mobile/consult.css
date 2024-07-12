@@ -46,8 +46,8 @@
     justify-content: center;
     align-items: center;
     margin: 0.5em;
-    height: 5em;
-    width: 22em;
+    height: 4em;
+    width: 18em;
     background-color: #4051ff;
     border-radius: 10px;
 }
@@ -58,13 +58,13 @@
 }
 
 .mobile-consult-button p {
-    font-size: 1.75em;
+    font-size: 1.35em;
     font-weight: bold;
     color: white;
 }
 
 .mobile-consult-button img {
-    margin-left: 0.75em;
-    height: 4em;
+    margin-left: 0.5em;
+    height: 3em;
     width: auto;
 }

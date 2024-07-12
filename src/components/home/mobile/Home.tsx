@@ -15,7 +15,7 @@ function Home() {
                         <img
                             src="img/novalaw-icon.png"
                             alt="Nova Logo"
-                            className="header-icon"
+                            className="mobile-header-icon"
                         />
                         <h2 className="mobile-sub-title">
                             의뢰인의 든든한 법률 파트너,

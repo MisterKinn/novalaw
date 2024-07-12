@@ -16,9 +16,7 @@ function Works() {
                 <h3 className="mobile-works-subtitle" data-aos="fade-up">
                     풍부한 사건처리 데이터와 노하우를 바탕으로
                     <br />
-                    의뢰인의 편에서 솔루션을 제시하는
-                    <br />
-                    노바법률사무소입니다.
+                    의뢰인의 편에서 솔루션을 제시하는 노바법률사무소입니다.
                 </h3>
 
                 <a
@@ -31,8 +29,8 @@ function Works() {
                     </div>
                 </a>
 
-                <div className="mobile-container" data-aos="fade-up">
-                    <div className="mobile-card-container">
+                <div className="mobile-container">
+                    <div className="mobile-card-container" data-aos="fade-up">
                         <div>
                             <div className="mobile-card-img">
                                 <img
@@ -50,7 +48,7 @@ function Works() {
                         </div>
                     </div>
 
-                    <div className="mobile-card-container">
+                    <div className="mobile-card-container" data-aos="fade-up">
                         <div>
                             <div className="mobile-card-img">
                                 <img
@@ -68,7 +66,7 @@ function Works() {
                         </div>
                     </div>
 
-                    <div className="mobile-card-container">
+                    <div className="mobile-card-container" data-aos="fade-up">
                         <div>
                             <div className="mobile-card-img">
                                 <img
@@ -86,7 +84,7 @@ function Works() {
                         </div>
                     </div>
 
-                    <div className="mobile-card-container">
+                    <div className="mobile-card-container" data-aos="fade-up">
                         <div>
                             <div className="mobile-card-img">
                                 <img
@@ -104,7 +102,7 @@ function Works() {
                         </div>
                     </div>
 
-                    <div className="mobile-card-container">
+                    <div className="mobile-card-container" data-aos="fade-up">
                         <div>
                             <div className="mobile-card-img">
                                 <img

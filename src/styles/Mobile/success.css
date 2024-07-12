@@ -14,7 +14,6 @@
     display: flex;
     justify-content: center;
     margin-top: -3em;
-    margin-bottom: 10em;
 }
 
 .mobile-success-button a {
@@ -48,4 +47,75 @@
 
 .mobile-margin {
     margin: -2em;
+}
+
+.mobile-cards {
+    display: flex;
+    flex-direction: row;
+    margin-right: -40em;
+    padding-top: 2em;
+    animation: moveLeft 5s ease-in-out infinite;
+}
+
+.mobile-card-container3 {
+    margin: 2em;
+    margin-left: -1em;
+    height: 27.5em;
+    width: 22.5em;
+    background-color: white;
+    border: 5px solid #d9d9d9;
+}
+
+.mobile-nova-logo {
+    margin-left: 3em;
+    margin-top: -1.5em;
+    height: 50px;
+    width: auto;
+}
+
+.mobile-success-card-title {
+    margin: 1em;
+    font-size: 1.5em;
+    color: #141d7d;
+}
+
+.mobile-success-card-text {
+    margin: 1em;
+    text-align: left;
+    font-size: 1em;
+    color: #6e7083;
+}
+
+.mobile-success-parts {
+    margin: 1.5em;
+    margin-bottom: 0.5em;
+    padding-right: 12em;
+}
+
+.mobile-success-card-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 1em;
+    margin-top: -0.1em;
+    border-top: 1px gray solid;
+}
+
+.mobile-success-card-bottom p {
+    font-size: 1em;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+.mobile-bottom {
+    margin-bottom: 7.5em;
+}
+
+@keyframes moveLeft {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-300vw);
+    }
 }
