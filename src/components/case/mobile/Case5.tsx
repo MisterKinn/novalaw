@@ -124,7 +124,7 @@ function Case5() {
             <div className="mobile-rescue-container" data-aos="fade-up">
                 <div className="mobile-rescue-card">
                     <img src="img/case-5.png" alt="노바법률사무소의 조력 5" />
-                    <p>
+                    <p className="mobile-more-margin">
                         의뢰인이 가해자와
                         <br />
                         같은 동네에서 생활하기에 피해자가

@@ -117,12 +117,9 @@
     color: #141d7d;
 }
 
+.mobile-4line,
 .mobile-more-margin {
-    padding-top: 0.5em;
-}
-
-.mobile-4line {
-    height: 11em;
+    height: 13em;
 }
 
 .mobile-result-container {
