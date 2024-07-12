@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect } from "react";
 import { useMediaQuery } from "react-responsive";
+import { Analytics } from "@vercel/analytics/react";
 import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
@@ -37,6 +38,7 @@ function NovaLaw() {
     if (isMobile) {
         return (
             <div id="page">
+                <Analytics />
                 <SideBar />
                 <MobileHome />
                 <MobileWorks />
@@ -50,6 +52,7 @@ function NovaLaw() {
     } else {
         return (
             <div id="page">
+                <Analytics />
                 <NavBar />
                 <StickyNav />
                 <Home />
