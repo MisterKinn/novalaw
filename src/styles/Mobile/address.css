@@ -1,14 +1,14 @@
 .mobile-address-title {
     margin-top: 3em;
-    margin-left: 1em;
-    font-size: 3em;
+    text-align: center;
+    font-size: 2.5em;
     color: #131d7d;
 }
 
 .mobile-address-subtitle {
     margin-top: -1.5em;
-    margin-left: 2em;
-    font-size: 1.5em;
+    text-align: center;
+    font-size: 1em;
     color: #a0a0a0;
 }
 
