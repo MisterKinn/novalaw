@@ -4,7 +4,7 @@ import "@/styles/Mobile/sidebar.css";
 
 function Sidebar() {
     return (
-        <div>
+        <div id="sidebar">
             <div className="menu-container">
                 <a href="../">
                     <img

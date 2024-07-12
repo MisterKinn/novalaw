@@ -55,6 +55,7 @@ function NovaLaw() {
                 <Analytics />
                 <NavBar />
                 <StickyNav />
+                <SideBar />
                 <Home />
                 <Works />
                 <Success />
