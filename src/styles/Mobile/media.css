@@ -142,8 +142,10 @@
 }
 
 .mobile-video-container p {
-    margin-top: -0.5em;
-    font-size: 1.25em;
-    font-weight: bold;
+    margin: 1em;
+    margin-top: 0.5em;
+    text-align: left;
+    font-size: 0.75em;
+    font-weight: normal;
     color: white;
 }

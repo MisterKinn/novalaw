@@ -34,25 +34,36 @@ function Media() {
                 <div className="mobile-video-container" data-aos="fade-up">
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
+                            href="https://www.youtube.com/watch?v=lZ_CZ5H3Vd8"
                             target="_blank"
-                            title="무급법률담당관"
+                            title='"결혼하고 싶습니다!!" 개업 변호사의 결혼정보회사 방문기'
                         >
                             <img
                                 src="img/media-donho-1.jpg"
-                                alt="무급법률담당관"
+                                alt='"결혼하고 싶습니다!!" 개업 변호사의 결혼정보회사 방문기'
                             />
-                            <p>무급법률담당관</p>
+                            <p>
+                                "결혼하고 싶습니다!!"
+                                <br />
+                                개업 변호사의 결혼정보회사 방문기
+                            </p>
                         </a>
                     </div>
 
                     <div>
-                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
-                            <img src="img/media-nova-1.jpg" alt="" />
+                        <a
+                            href="https://www.youtube.com/watch?v=iLT4XV6XCgE"
+                            target="_blank"
+                            title="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
+                        >
+                            <img
+                                src="img/media-donho-3.jpg"
+                                alt="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
+                            />
                             <p>
-                                [SBS 모닝와이드 날]
+                                캐스트유의 그 '지평좌',
                                 <br />
-                                신림동 출근길 특수강간
+                                모셔서 이야기 나눠봤습니다
                             </p>
                         </a>
                     </div>
