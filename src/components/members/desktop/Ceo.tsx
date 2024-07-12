@@ -9,9 +9,11 @@ function Ceo() {
                     </div>
 
                     <div className="introduce">
-                        국선변호인 경력
+                        총합 700만 유튜버 자문
                         <br />
-                        노바법률사무소 대표변호사
+                        인플루언서 자문/고소 대리 전문
+                        <br />
+                        2024년 형사 특정 변호사 선정
                     </div>
 
                     <div className="career-container">
@@ -51,9 +53,7 @@ function Ceo() {
                                 <br />
                                 학교폭력예방상담사
                                 <br />
-                                성균관대학고 법학과(학사)
-                                <br />
-                                성균관대학교 법학전문대학원(석사)
+                                경북대학교 법학전문대학원(석사)
                             </div>
                         </div>
 

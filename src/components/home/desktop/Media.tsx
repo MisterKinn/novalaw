@@ -17,9 +17,6 @@ function Media() {
                         <br />
                         여러 미디어에 소개된 노바법률사무소를 살펴보세요.
                     </h3>
-                    <h4 className="media-explain">
-                        썸네일 클릭 시 영상으로 이동합니다.
-                    </h4>
 
                     <a
                         href="/media"
@@ -35,12 +32,30 @@ function Media() {
                 <div className="video-container" data-aos="fade-up">
                     <div>
                         <a
+                            href="https://www.youtube.com/watch?v=lZ_CZ5H3Vd8"
+                            target="_blank"
+                            title='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                        >
+                            <img
+                                src="img/media-donho-1.jpg"
+                                alt='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                            />
+                            <p>
+                                "결혼하고 싶습니다...!!"
+                                <br />
+                                개업 변호사의 결혼정보회사 방문기
+                            </p>
+                        </a>
+                    </div>
+
+                    <div>
+                        <a
                             href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
                             target="_blank"
                             title="무급법률담당관"
                         >
                             <img
-                                src="img/media-donho-1.jpg"
+                                src="img/media-donho-2.jpg"
                                 alt="무급법률담당관"
                             />
                             <p>무급법률담당관</p>
@@ -49,29 +64,18 @@ function Media() {
 
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=kS6pdJkLPio&t=392s"
+                            href="https://www.youtube.com/watch?v=iLT4XV6XCgE"
                             target="_blank"
-                            title="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
+                            title="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
                         >
                             <img
-                                src="img/media-donho-2.jpg"
-                                alt="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
+                                src="img/media-donho-3.jpg"
+                                alt="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
                             />
                             <p>
-                                '오타지적' 고등학생 고소 불송치 결정!
+                                캐스트유의 그 '지평좌',
                                 <br />
-                                경찰조사 서류 읽어보기
-                            </p>
-                        </a>
-                    </div>
-
-                    <div>
-                        <a href="https://www.youtube.com/watch?v=AWw_55EvzcQ">
-                            <img src="img/media-nova-1.jpg" alt="" />
-                            <p>
-                                [SBS 모닝와이드 날]
-                                <br />
-                                신림동 출근길 특수강간
+                                모셔서 이야기 나눠봤습니다
                             </p>
                         </a>
                     </div>

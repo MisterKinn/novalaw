@@ -1,9 +1,13 @@
 #case {
-    margin: 5em;
+    margin: 12.5em;
+}
+
+.back {
+    height: 2.5em;
 }
 
 .case-intro-title {
-    margin-top: 5em;
+    margin-top: 1em;
     color: #141d7d;
 }
 
@@ -50,17 +54,16 @@
 }
 
 .case-title {
-    margin: 1em;
     margin-top: 3.5em;
+    margin-bottom: 2em;
     padding-bottom: 0.25em;
-    text-align: center;
+    text-align: left;
     font-size: 2.25em;
     color: #141d7d;
     border-bottom: 2px #bdc0dc solid;
 }
 
 .reason-text {
-    margin-left: 2em;
     text-align: left;
     font-size: 1.5em;
     color: black;
@@ -75,24 +78,26 @@
 .rescue-card {
     margin: 1.5em;
     height: 12.5em;
-    width: 25em;
+    width: 27.5em;
     background-color: #fbfbff;
     border: 2px black solid;
 }
 
 .wide-card {
     height: 14em;
-    width: 25em;
+    width: 27.5em;
 }
 
 .rescue-card img {
     margin-top: -2em;
-    margin-left: 19em;
+    margin-left: 22.5em;
+    height: 4em;
 }
 
 .rescue-card p {
     text-align: center;
-    margin-top: 0.25em;
+    margin-top: 1em;
+    font-size: 1.4em;
     color: #141d7d;
 }
 
@@ -113,8 +118,7 @@
 .result-container p {
     margin-top: 4em;
     position: absolute;
-    font-size: 1.75em;
-    color: black;
+    color: #131528;
 }
 
 .button-container {

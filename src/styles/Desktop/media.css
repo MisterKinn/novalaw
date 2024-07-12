@@ -28,18 +28,11 @@
     color: #3252ff;
 }
 
-.media-explain {
-    text-align: center;
-    margin-top: -0.5em;
-    font-size: 1.75em;
-    color: #a0a0a0;
-}
-
 .media-bg {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
+    height: auto;
     width: 100vw;
     filter: brightness(0.7);
 }
@@ -96,7 +89,7 @@
 }
 
 .wide-width {
-    width: 28em;
+    width: 28.5em;
 }
 
 .wide-width p {
@@ -104,7 +97,7 @@
 }
 
 .media-button p {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: bold;
     color: white;
 }

@@ -9,7 +9,7 @@
 .consult-bg {
     height: auto;
     width: 100vw;
-    filter: brightness(0.8);
+    filter: brightness(1);
 }
 
 .consult-container {
@@ -23,15 +23,15 @@
 }
 
 .consult-subtitle {
-    margin-top: -1.5em;
-    font-size: 2em;
+    margin-top: -1.25em;
+    font-size: 1.75em;
     color: #a0a0a0;
 }
 
 .consult-buttons {
     display: flex;
     justify-content: center;
-    margin-left: -2.5em;
+    width: 75vw;
 }
 
 .consult-buttons a {
@@ -43,8 +43,8 @@
     justify-content: center;
     align-items: center;
     margin: 1em;
-    height: 5em;
-    width: 25em;
+    height: 7em;
+    width: 30em;
     background-color: #4051ff;
     border-radius: 10px;
 }
@@ -55,13 +55,13 @@
 }
 
 .consult-button p {
-    font-size: 1.75em;
+    font-size: 2em;
     font-weight: bold;
     color: white;
 }
 
 .consult-button img {
     margin-left: 0.75em;
-    height: 4em;
+    height: 3.5em;
     width: auto;
 }

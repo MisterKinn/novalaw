@@ -6,7 +6,6 @@
 .success-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -17,6 +16,9 @@
     align-items: center;
     margin-top: 5em;
     padding: 3em;
+    padding-left: 8em;
+    padding-right: 10em;
+    width: 100vw;
     background-color: #1c1c1c;
     z-index: 1;
 }
@@ -25,16 +27,17 @@
     margin-left: 2em;
     padding-top: 4em;
     padding-bottom: 4em;
-    font-size: 3.25em;
+    font-size: 2.25em;
     color: white;
 }
 
 .success-button {
     display: flex;
     justify-content: center;
-    margin-top: -12.5em;
-    margin-left: 7em;
+    margin-top: -7.5em;
+    margin-left: 3em;
     margin-bottom: 10em;
+    padding-left: 3em;
 }
 
 .success-button a {
@@ -49,8 +52,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 5em;
-    width: 20em;
+    height: 4em;
+    width: 14em;
     background-color: #4051ff;
     border-radius: 10px;
 }
@@ -70,6 +73,7 @@
     display: flex;
     flex-direction: row;
     margin-right: -40em;
+    padding-top: 2em;
     animation: moveLeft 5s ease-in-out infinite;
 }
 

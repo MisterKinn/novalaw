@@ -7,9 +7,6 @@ function Intro() {
                 <br />
                 노바법률사무소를 살펴보세요.
             </h1>
-            <h4 className="media-explain">
-                썸네일 클릭 시 영상으로 이동합니다.
-            </h4>
         </div>
     );
 }

@@ -60,16 +60,16 @@
     width: 69em;
     padding: 2em;
     padding-right: 0;
-    border: 2px gray solid;
+    border: 1px gray solid;
 }
 
 .employees-container {
-    height: 19.3em;
-    width: 43em;
+    height: 21em;
+    width: 32.5em;
     margin: 1em;
     padding: 2em;
     padding-right: 0;
-    border: 2px gray solid;
+    border: 1px gray solid;
 }
 
 .top0 {
@@ -84,7 +84,7 @@
     position: absolute;
     margin-left: 0.75em;
     height: 4em;
-    border-bottom: 5px #131d7d solid;
+    border-bottom: 2.5px #131d7d solid;
 }
 
 .card-title h1 {
@@ -118,23 +118,25 @@
     flex-direction: row;
     margin-top: 1em;
     margin-left: 1em;
+    margin-right: 4.75em;
 }
 
 .career-text2 {
     display: flex;
     flex-direction: row;
-    margin-top: 4em;
+    margin-top: 5em;
     margin-left: 0.75em;
-    font-size: 1.4em;
+    font-size: 1em;
 }
 
 .career-text div {
     padding-right: 1em;
-    font-size: 1.25em;
+    font-size: 1.1em;
 }
 
 .ceo-img {
-    margin-top: -13.5em;
+    margin-top: -15.75em;
+    margin-right: -5em;
     height: 35em;
     width: auto;
 }
@@ -142,13 +144,8 @@
 .employees-img {
     position: absolute;
     right: 0;
-    bottom: 0;
-}
-
-.kms {
-    margin-bottom: -7.1em;
-    height: 20em;
-    width: auto;
+    padding-top: 5.5em;
+    height: 17.5em;
 }
 
 .margin {

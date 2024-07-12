@@ -32,7 +32,26 @@ function Donho() {
                         </div>
                     </a>
                 </div>
+
                 <div className="video-container" data-aos="fade-up">
+                    <div>
+                        <a
+                            href="https://www.youtube.com/watch?v=lZ_CZ5H3Vd8"
+                            target="_blank"
+                            title='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                        >
+                            <img
+                                src="img/media-donho-1.jpg"
+                                alt='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                            />
+                            <p>
+                                "결혼하고 싶습니다...!!"
+                                <br />
+                                개업 변호사의 결혼정보회사 방문기
+                            </p>
+                        </a>
+                    </div>
+
                     <div>
                         <a
                             href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
@@ -40,43 +59,27 @@ function Donho() {
                             title="무급법률담당관"
                         >
                             <img
-                                src="img/media-donho-1.jpg"
+                                src="img/media-donho-2.jpg"
                                 alt="무급법률담당관"
                             />
                             <p>무급법률담당관</p>
                         </a>
                     </div>
+
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=kS6pdJkLPio&t=392s"
+                            href="https://www.youtube.com/watch?v=iLT4XV6XCgE"
                             target="_blank"
-                            title="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
-                        >
-                            <img
-                                src="img/media-donho-2.jpg"
-                                alt="'오타지적' 고등학생 고소 불송치 결정! | 경찰조사 서류 읽어보기"
-                            />
-                            <p>
-                                '오타지적' 고등학생 고소 불송치 결정!
-                                <br />
-                                경찰조사 서류 읽어보기
-                            </p>
-                        </a>
-                    </div>
-                    <div>
-                        <a
-                            href="https://www.youtube.com/watch?v=5v5z2j4Ftvw"
-                            target="_blank"
-                            title="변호사가 말하는 자청의 사기죄 성립 가능성!"
+                            title="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
                         >
                             <img
                                 src="img/media-donho-3.jpg"
-                                alt="변호사가 말하는 자청의 사기죄 성립 가능성!"
+                                alt="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
                             />
                             <p>
-                                변호사가 말하는 자청의
+                                캐스트유의 그 '지평좌',
                                 <br />
-                                사기죄 성립 가능성!
+                                모셔서 이야기 나눠봤습니다
                             </p>
                         </a>
                     </div>

@@ -150,7 +150,7 @@ function Cases() {
                 </a>
             </div>
 
-            <div className="container" data-aos="fade-up">
+            <div className="container2" data-aos="fade-up">
                 <a href="../case9">
                     <div className="card-container">
                         <img src="img/cases-img.png" alt="" />

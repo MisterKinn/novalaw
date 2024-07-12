@@ -2,6 +2,13 @@ function Case6() {
     return (
         <div id="case">
             <div data-aos="fade-up">
+                <a href="../success" title="돌아가기">
+                    <img
+                        src="img/back-mobile.png"
+                        alt="돌아가기"
+                        className="back"
+                    />
+                </a>
                 <h2 className="case-intro-title">형사</h2>
                 <h1 className="case-intro-subtitle">
                     1심에서 징역형이 선고된 피고인의
@@ -27,6 +34,7 @@ function Case6() {
                 상해, 재물손괴, 협박, 명예훼손으로
                 <br />
                 1심에서 징역 1년의 실형을 선고받은 의뢰인은
+                <br />
                 <br />
                 항소심 재판을 위해 이돈호 변호사를 찾아왔습니다.
                 <br />
@@ -109,13 +117,13 @@ function Case6() {
                 <div className="rescue-card wide-card">
                     <img src="img/case-7.png" alt="노바법률사무소의 조력 7" />
                     <p>
-                        피해자가 의뢰인과 평소 애정관계를
+                        피해자가 의뢰인과 평소 애정 관계를 가지고
                         <br />
-                        가지고 성관계를 하였다는 점에서
+                        성관계를 하였다는 점에서 의뢰인이
                         <br />
-                        의뢰인의 범행 동기 및
+                        범행을 하게 된 경위나
                         <br />
-                        피해자의 신고 경위에 대해 밝혀
+                        동기 및 피해자의 신고 경위에 대해 밝혀
                         <br />
                         재판부에 양형부당을 설득함
                     </p>

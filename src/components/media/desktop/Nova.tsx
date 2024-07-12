@@ -13,9 +13,8 @@ function Nova() {
                         노바법률사무소 YouTube
                     </h2>
                     <h3 className="media-subtitle">
-                        풍부한 사건처리 데이터와 노하우를 바탕으로
-                        <br />
-                        의뢰인의 편에서 솔루션을 제시하는 노바법률사무소입니다.
+                        다양한 미디어에서 소개된 노바법률사무소의 모습들을
+                        알아보세요.
                     </h3>
                     <a
                         href="https://www.youtube.com/@nova_law"

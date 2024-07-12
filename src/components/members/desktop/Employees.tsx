@@ -16,7 +16,9 @@ function Employees() {
                             <br />
                             제3회 변호사시험 합격
                             <br />
-                            Y&K 법률사무소 변호사 법무법인 전문 변호사
+                            Y&K 법률사무소 변호사
+                            <br />
+                            법무법인 전문 변호사
                             <br />
                             법무법인(유한) 주원 변호사
                             <br />
@@ -42,8 +44,6 @@ function Employees() {
                         <div className="career-text2">
                             現 노바법률사무소 자문변호사
                             <br />
-                            現 엠디엠플러스 준법지원팀장
-                            <br />
                             前 GS건설 국내법무팀 변호사
                             <br />
                             서울대학교 법학부 졸업(학사)
@@ -53,7 +53,75 @@ function Employees() {
                         <img
                             src="img/kim-minseong.png"
                             alt="김민성 고문변호사"
-                            className="employees-img kms"
+                            className="employees-img"
+                        />
+                    </div>
+                </div>
+            </div>
+
+            <div className="container" data-aos="fade-up">
+                <div className="employees-container">
+                    <div className="card-title">
+                        <h1>서예은</h1>
+                        <h2>자문회계사</h2>
+                    </div>
+
+                    <div className="career-container">
+                        <div className="career-text2">
+                            現 노바법률사무소 자문회계사
+                            <br />
+                            現 회계법인 마일스톤 회계사
+                            <br />
+                            前 김&장 법률사무소 회계사
+                            <br />
+                            前 KPMG 삼정회계법인 세무자문본부
+                            <br />
+                            前 Deloitte 안전회계법인 회계감사본부
+                            <br />
+                            2012년 공인회계사 합격
+                            <br />
+                            성균관대학교 경제학과 졸업
+                            <br />
+                            <br />ㅤ
+                        </div>
+                        <img
+                            src="img/seo-yeeun.png"
+                            alt="서예은 자문회계사"
+                            className="employees-img"
+                        />
+                    </div>
+                </div>
+
+                <div className="employees-container">
+                    <div className="card-title">
+                        <h1>김동권</h1>
+                        <h2>자문노무사</h2>
+                    </div>
+
+                    <div className="career-container">
+                        <div className="career-text2">
+                            現 노바법률사무소 자문노무사
+                            <br />
+                            現 노무법인 리담 광화문 본사 노무사
+                            <br />
+                            前 중소기업벤처기업부 비즈니스지원단 현장클리닉
+                            <br />
+                            前 고용노동부 일터혁신 컨설턴트
+                            <br />
+                            前 공인노무사회 노동시간 단축 전문 컨설턴트
+                            <br />
+                            前 대한민국 공군 군수사령부 인사장교
+                            <br />
+                            前 현대차그룹 현대엔지니어링 사내노무사
+                            <br />
+                            경북대학교 사범대학
+                            <br />
+                            고려대학교 경영대학원(석사)
+                        </div>
+                        <img
+                            src="img/kim-donggwon.png"
+                            alt="김동권 자문노무사"
+                            className="employees-img"
                         />
                     </div>
                 </div>
@@ -95,103 +163,35 @@ function Employees() {
 
                 <div className="employees-container">
                     <div className="card-title">
-                        <h1>김동권</h1>
-                        <h2>자문노무사</h2>
+                        <h1>오영석</h1>
+                        <h2>자문의</h2>
                     </div>
 
                     <div className="career-container">
                         <div className="career-text2">
-                            現 노바법률사무소 자문노무사
+                            現 노바법률사무소 자문의
                             <br />
-                            現 노무법인 리담 광화문 본사 노무사
+                            現 오늘도 365의원 원장
                             <br />
-                            前 중소기업벤처기업부 비즈니스지원단 현장클리닉
+                            前 한양대학교의료원 외래교수
                             <br />
-                            前 고용노동부 일터혁신 컨설턴트
+                            前 EM365 영종점 부원장
                             <br />
-                            前 공인노무사회 노동시간 단축 전문 컨설턴트
+                            前 연세메디람의원 호스피스전문센터 진료과장
                             <br />
-                            前 대한민국 공군 군수사령부 인사장교
+                            前 오산한국병원 응급의학과 진료과장
                             <br />
-                            前 현대차그룹 현대엔지니어링 사내노무사
+                            한양대학교 명지병원 권역응급의료센터 전공의
                             <br />
-                            경북대학교 사범대학
+                            국제성모병원 수련의 수료
                             <br />
-                            고려대학교 경영대학원(석사)
+                            관동대학교 의과대학 졸업
                         </div>
                         <img
-                            src="img/kim-donggwon.png"
-                            alt="김동권 자문노무사"
+                            src="img/50seok.png"
+                            alt="오영석 자문의"
                             className="employees-img"
                         />
-                    </div>
-                </div>
-
-                <div className="container" data-aos="fade-up">
-                    <div className="employees-container">
-                        <div className="card-title">
-                            <h1>서예은</h1>
-                            <h2>자문회계사</h2>
-                        </div>
-
-                        <div className="career-container">
-                            <div className="career-text2">
-                                現 노바법률사무소 자문회계사
-                                <br />
-                                現 회계법인 마일스톤 회계사
-                                <br />
-                                前 김&장 법률사무소 회계사
-                                <br />
-                                前 KPMG 삼정회계법인 세무자문본부
-                                <br />
-                                前 Deloitte 안전회계법인 회계감사본부
-                                <br />
-                                2012년 공인회계사 합격
-                                <br />
-                                성균관대학교 경제학과 졸업
-                                <br />
-                                <br />ㅤ
-                            </div>
-                            <img
-                                src="img/seo-yeeun.png"
-                                alt="서예은 자문회계사"
-                                className="employees-img"
-                            />
-                        </div>
-                    </div>
-
-                    <div className="employees-container">
-                        <div className="card-title">
-                            <h1>오영석</h1>
-                            <h2>자문의</h2>
-                        </div>
-
-                        <div className="career-container">
-                            <div className="career-text2">
-                                現 노바법률사무소 자문의
-                                <br />
-                                現 오늘도 365의원 원장
-                                <br />
-                                前 한양대학교의료원 외래교수
-                                <br />
-                                前 EM365 영종점 부원장
-                                <br />
-                                前 연세메디람의원 호스피스전문센터 진료과장
-                                <br />
-                                前 오산한국병원 응급의학과 진료과장
-                                <br />
-                                한양대학교 명지병원 권역응급의료센터 전공의
-                                <br />
-                                국제성모병원 수련의 수료
-                                <br />
-                                관동대학교 의과대학 졸업
-                            </div>
-                            <img
-                                src="img/50seok.png"
-                                alt="오영석 자문의"
-                                className="employees-img"
-                            />
-                        </div>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@ function Intro() {
                 <h2 className="mobile-intro-title">고객후기</h2>
                 <h1 className="mobile-intro-subtitle">
                     의뢰인 여러분의{" "}
-                    <span className="mobile-blue">감사인사</span>
+                    <span className="mobile-blue">감사 인사</span>
                     <br />한 마디가 노바에게{" "}
                     <span className="mobile-blue">큰 힘</span>이 됩니다.
                     <br />

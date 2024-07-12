@@ -19,15 +19,10 @@ function Thanks() {
                         문서로 작성해서 주셨는데 너무 큰 도움이 됐습니다! 완전
                         강추합니다.
                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.06</p>
-                        <p>손해배상</p>
                         <p>의뢰인 ju******</p>
                     </div>
                 </div>
@@ -53,49 +48,11 @@ function Thanks() {
                         추가로 필요한 내용이 있으면 변호사님과 상담받으며 진행할
                         예정입니다.
                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 th******</p>
-                    </div>
-                </div>
-
-                <div className="card-container">
-                    <img
-                        src="img/success-logo.png"
-                        alt="NovaLaw Logo"
-                        className="nova-logo"
-                    />
-                    <h2 className="card-title">너무 만족하는 상담입니다.</h2>
-                    <p className="card-text">
-                        천천히 전부 다 들어주시고 섬세하게 체크해주심 자세하고
-                        친절하셨고 사건의 총 그림을 제빠르게 파악하시는듯
-                        싶었습니다.
-                        <br />
-                        한번씩 뇌정지가 오면 차분히 이야기해주시고, 오히려
-                        시간이 지나도 괜찮다며 잘 이끌어주셨습니다.
-                        <br />
-                        언변도 좋으시고 핵심적인 부분을 딱 이야기해주신 부분도
-                        너무 좋았습니다.
-                        <br />
-                        사건진행하기로 했고 앞으로도 잘 부탁드립니다!
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                    </p>
-
-                    <div className="card-bottom">
-                        <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
-                        <p>의뢰인 db******</p>
                     </div>
                 </div>
             </div>
@@ -127,13 +84,10 @@ function Thanks() {
                         <br />
                         항상 건강하십시오!
                         <br />
-                        <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 db******</p>
                     </div>
                 </div>
@@ -166,16 +120,16 @@ function Thanks() {
                         든든하게 말씀을 해 주시니 편한 마음으로 진행할 수
                         있었습니다. 정말 감사드립니다!
                         <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.06</p>
-                        <p>사이버 명예훼손 / 모욕</p>
                         <p>의뢰인 th******</p>
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="card-container">
                     <img
                         src="img/success-logo.png"
@@ -203,18 +157,14 @@ function Thanks() {
                         <br />
                         있습니다. 감사드립니다.
                         <br />
-                        <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.06</p>
-                        <p>노동 / 인사</p>
                         <p>의뢰인 mi******</p>
                     </div>
                 </div>
-            </div>
-            <div className="container" data-aos="fade-up">
+
                 <div className="card-container">
                     <img
                         src="img/success-logo.png"
@@ -245,13 +195,52 @@ function Thanks() {
                         <br />
                         건지, 상담 마지막에 격려도 해주셨습니다.
                         <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.03</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 p-******</p>
+                    </div>
+                </div>
+            </div>
+
+            <div className="container" data-aos="fade-up">
+                <div className="card-container">
+                    <img
+                        src="img/success-logo.png"
+                        alt="NovaLaw Logo"
+                        className="nova-logo"
+                    />
+                    <h2 className="card-title">
+                        저와 같이 검색하면서 고민하는
+                        <br />
+                        분들이 계시다면 당장
+                        <br />
+                        문의받으세요.
+                    </h2>
+                    <p className="card-text">
+                        제 사건에 대하여 누구보다 잘 인지하고
+                        <br />
+                        계셨습니다.
+                        <br />
+                        상황을 정말 빠르게 이해하셨고, 제가 해야 할
+                        <br />
+                        행동들에 대해서 자세히 안내해주셨습니다.
+                        <br />
+                        구체적인 쟁점과 내용에 대해서 잘 정리하여
+                        <br />
+                        텍스트로 주신 부분에서 또 한 번 감동을 받았고,
+                        <br />
+                        제가 우려하는 부분에 대해서도 최대한 편의를 봐주기 위한
+                        안내를 해주셨습니다.
+                        <br />
+                        강력하게 추천드립니다.
+                        <br />
+                    </p>
+
+                    <div className="card-bottom">
+                        <p>2024.02</p>
+                        <p>의뢰인 db******</p>
                     </div>
                 </div>
 
@@ -286,12 +275,10 @@ function Thanks() {
                         <br />
                         강력하게 추천드립니다.
                         <br />
-                        <br />
                     </p>
 
                     <div className="card-bottom">
                         <p>2024.02</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 db******</p>
                     </div>
                 </div>

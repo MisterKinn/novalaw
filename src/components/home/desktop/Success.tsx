@@ -15,17 +15,17 @@ function Success() {
                         다양한 분야에서 쌓아냈습니다.
                     </h1>
                     <div className="success-button">
-                        <a href="/members" title="구성원 더 알아보기">
+                        <a href="/feedback" title="후기 더 보기">
                             <div className="learn-more">
-                                <p>구성원 더 알아보기 {">"}</p>
+                                <p>후기 더 보기 {">"}</p>
                             </div>
                         </a>
 
                         <div className="small-margin" />
 
-                        <a href="/success" title="승소사례 더 알아보기">
+                        <a href="/success" title="법률사례 더 보기">
                             <div className="learn-more">
-                                <p>승소사례 더 알아보기 {">"}</p>
+                                <p>법률사례 더 보기 {">"}</p>
                             </div>
                         </a>
                     </div>

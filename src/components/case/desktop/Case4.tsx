@@ -2,6 +2,13 @@ function Case4() {
     return (
         <div id="case">
             <div data-aos="fade-up">
+                <a href="../success" title="돌아가기">
+                    <img
+                        src="img/back-mobile.png"
+                        alt="돌아가기"
+                        className="back"
+                    />
+                </a>
                 <h2 className="case-intro-title">형사</h2>
                 <h1 className="case-intro-subtitle">
                     개인정보보호법으로 기소되고
@@ -35,9 +42,8 @@ function Case4() {
             <p className="reason-text" data-aos="fade-up">
                 아파트 관리사무소 소장이었던 의뢰인은
                 <br />
-                입주자 대표회의의 지시에 따라 업무상 알게 된 개인정보를
-                제3자에게 제공한 혐의로
-                <br />
+                입주자 대표회의 지시에 따라 업무상 알게 된 개인정보를 제3자에게
+                제공한 혐의로 <br />
                 1심에서 벌금형을 선고받았습니다.
                 <br />
                 <br />
@@ -67,7 +73,7 @@ function Case4() {
                 <div className="rescue-card">
                     <img src="img/case-2.png" alt="노바법률사무소의 조력 2" />
                     <p>
-                        공동주택관리법 법령에 의거하여
+                        공동주택관리법 법령에 따라
                         <br />
                         아파트입주자대표회의의 결정에 따라
                         <br />
@@ -120,8 +126,8 @@ function Case4() {
                 노바법률사무소는 의뢰인과의 면밀한 상담을 통해 의뢰인이
                 악의적으로 개인정보를 넘긴 것이 아니라는 사실을 파악하였고,
                 <br />
-                공동주택관리법 법령에 의거하여 아파트 입주자대표회의의 결정에
-                따라 위임사무를 진행하였다는 점을 강조하였습니다.
+                공동주택관리법 법령에 따라 아파트 입주자대표회의의 결정에 따라
+                위임사무를 진행하였다는 점을 강조하였습니다.
                 <br />
                 <br />
                 또한, 피해자의 피해가 미비하다는 점과 의뢰인이 범죄를 저지르게
@@ -136,8 +142,8 @@ function Case4() {
                 이는 이돈호 변호사의 풍부한 경험과 노하우를 바탕으로 한 충실한
                 소명 노력으로 이끌어낸 결과로,
                 <br />
-                의뢰인은 이러한 결과에 신뢰와 감동을 느끼며 노바법률사무소에
-                감사함을 표현하였습니다.
+                의뢰인은 이러한 결과에 감동을 하며 노바법률사무소에 감사함을
+                표현하였습니다.
             </p>
 
             <h2 className="case-title" data-aos="fade-up">

@@ -59,13 +59,14 @@
     display: flex;
     flex-direction: row;
     margin: 1.25em;
-    height: 12.5em;
+    height: 15em;
     width: 80em;
     background-color: #f9f9f9;
 }
 
 .card-container img {
     margin: 2em;
+    margin-top: 3.5em;
     margin-left: 3em;
     margin-right: 4em;
     height: 8em;
@@ -73,10 +74,10 @@
 }
 
 .card-title {
-    margin-top: 0.5em;
+    margin-top: 1em;
     font-size: 3em;
     font-weight: bold;
-    color: black;
+    color: #626262;
 }
 
 .card-subtitle {

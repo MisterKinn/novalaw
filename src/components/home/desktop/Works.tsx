@@ -75,7 +75,7 @@ function Works() {
                             </div>
                             <div className="card-title">행정쟁송</div>
                             <div className="card-text">
-                                국가로부터 권리를 침해받았을 경우
+                                국가로부터 권리를 침해받았을 때
                                 <br />
                                 구제받을 수 있도록 조력자가 되어드립니다.
                             </div>
