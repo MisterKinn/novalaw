@@ -36,50 +36,54 @@ function Donho() {
                 <div className="video-container" data-aos="fade-up">
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=lZ_CZ5H3Vd8"
+                            href="https://www.youtube.com/watch?v=1-HbRDsO-PQ"
                             target="_blank"
-                            title='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                            title="이혼 1타 강사(미혼)가 알렝꼬와 꾼맨 사건으로 말아주는 국내법상의 이혼"
                         >
                             <img
                                 src="img/media-donho-1.jpg"
-                                alt='"결혼하고 싶습니다...!!" 개업 변호사의 결혼정보회사 방문기'
+                                alt="이혼 1타 강사(미혼)가 알렝꼬와 꾼맨 사건으로 말아주는 국내법상의 이혼"
                             />
                             <p>
-                                "결혼하고 싶습니다...!!"
+                                이혼 1타 강사(미혼)가 알렝꼬와 꾼맨
                                 <br />
-                                개업 변호사의 결혼정보회사 방문기
+                                사건으로 말아주는 국내법상의 이혼
                             </p>
                         </a>
                     </div>
 
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=o5BiDQ5-FEM"
+                            href="https://www.youtube.com/watch?v=B9WFSPdDdTg"
                             target="_blank"
-                            title="무급법률담당관"
+                            title="김호중이 무죄라고 주장하는 형사 전문 변호사..."
                         >
                             <img
                                 src="img/media-donho-2.jpg"
-                                alt="무급법률담당관"
+                                alt="김호중이 무죄라고 주장하는 형사 전문 변호사..."
                             />
-                            <p>무급법률담당관</p>
+                            <p>
+                                김호중이 무죄라고 주장하는
+                                <br />
+                                형사 전문 변호사...
+                            </p>
                         </a>
                     </div>
 
                     <div>
                         <a
-                            href="https://www.youtube.com/watch?v=iLT4XV6XCgE"
+                            href="https://www.youtube.com/watch?v=Yuo8W5J_qco"
                             target="_blank"
-                            title="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
+                            title="2사단 훈련병 사망 사건이 집행유예 일 수 밖에 없는 이유..."
                         >
                             <img
                                 src="img/media-donho-3.jpg"
-                                alt="캐스트유의 그 '지평좌', 모셔서 이야기 나눠봤습니다"
+                                alt="2사단 훈련병 사망 사건이 집행유예 일 수 밖에 없는 이유..."
                             />
                             <p>
-                                캐스트유의 그 '지평좌',
+                                2사단 훈련병 사망 사건이
                                 <br />
-                                모셔서 이야기 나눠봤습니다
+                                집행유예 일 수 밖에 없는 이유...
                             </p>
                         </a>
                     </div>
