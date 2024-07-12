@@ -13,7 +13,7 @@ function Case8() {
                 <h1 className="case-intro-subtitle">
                     FX마진거래 지점을 설치하여
                     <br />
-                    수억원의 추징금을 판결받았지만
+                    수억 원의 추징금을 판결받았지만
                     <br />
                     2심 감액과 3심 기각판결을 이끈 사례
                 </h1>
