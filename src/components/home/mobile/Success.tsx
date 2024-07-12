@@ -4,12 +4,6 @@ function Success() {
     return (
         <div id="mobile-success">
             <h2 className="mobile-success-title">
-                ㅤ
-                <br />
-                ㅤ
-                <br />
-                ㅤ
-                <br />
                 전문적인 구성원들과
                 <br />
                 여러 건의 승소사례를
