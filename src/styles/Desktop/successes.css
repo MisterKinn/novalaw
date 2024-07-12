@@ -29,6 +29,7 @@
     text-align: center;
     padding: 30px;
     height: 100%;
+    width: 6.75vw;
     font-size: 22.5px;
     color: gray;
     background-color: #f9f9f9;
@@ -62,6 +63,7 @@
 .card-container {
     margin: 1em;
     margin-bottom: -2.5em;
+    font-height: 1.9em;
 }
 
 .card-container h3 {
@@ -70,7 +72,7 @@
 }
 
 .card-container h2 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     color: black;
 }
 
