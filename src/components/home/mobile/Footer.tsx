@@ -33,89 +33,85 @@ function Footer() {
                 <div className="mobile-footer-text">
                     <h3>
                         <span>회사명: 노바법률사무소</span>
-                        <br />
                         <span>대표이사: 이돈호</span>
+                        <span>대표번호: 032-212-4047</span>
                         <br />
                         <span>
-                            주소: 인천시 연수구 컨벤시아대로
-                            <br />
-                            165 포스코타워-송도
-                            <br />
+                            주소: 인천시 연수구 컨벤시아대로 165 포스코타워-송도
                             26층 2609호
                         </span>
                         <br />
                         <span>문의: nova@novalaw.kr</span>
-                        <br />
-                        <span>대표번호: 032-212-4047</span>
-                        <br />
                         <span>FAX: 032-232-7047</span>
                         <br />
                         <span>사업자등록번호: 248-13-02240</span>
                     </h3>
 
+                    <div className="mobile-footer-icon">
+                        <a
+                            href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
+                            target="_blank"
+                            title="이돈호 변호사 로톡"
+                        >
+                            <img
+                                src="img/lawtalk.png"
+                                alt="이돈호 변호사 로톡"
+                            />
+                        </a>
+
+                        <a
+                            href="https://pf.kakao.com/_CXxhwG"
+                            target="_blank"
+                            title="노바법률사무소 카카오톡 플러스친구"
+                        >
+                            <img
+                                src="img/kakaotalk.png"
+                                alt="노바법률사무소 카카오톡 플러스친구"
+                            />
+                        </a>
+
+                        <a
+                            href="https://blog.naver.com/quality7385"
+                            target="_blank"
+                            title="이돈호 변호사 네이버 블로그"
+                        >
+                            <img
+                                src="img/blog.png"
+                                alt="이돈호 변호사 네이버 블로그"
+                            />
+                        </a>
+
+                        <a
+                            href="https://www.instagram.com/lawyer_dono"
+                            target="_blank"
+                            title="이돈호 변호사 인스타그램"
+                        >
+                            <img
+                                src="img/instagram.png"
+                                alt="이돈호 변호사 인스타그램"
+                            />
+                        </a>
+
+                        <a
+                            href="https://www.youtube.com/@%EC%9D%B4%EB%8F%88%ED%98%B8%EB%B3%80%ED%98%B8%EC%82%AC"
+                            target="_blank"
+                            title="이돈호 변호사 YouTube"
+                        >
+                            <img
+                                src="img/youtube.png"
+                                alt="이돈호 변호사 YouTube"
+                            />
+                        </a>
+                    </div>
+
                     <h3>
                         <br />
-                        <span>
+                        <span id="copyright">
                             © <span id="copyright-year" ref={yearRef} />{" "}
-                            <strong>노바법률사무소</strong>.
-                            <br />
-                            All Rights Reserved.
+                            <strong>노바법률사무소</strong>. All Rights
+                            Reserved.
                         </span>
                     </h3>
-                </div>
-
-                <div className="mobile-footer-icon">
-                    <a
-                        href="https://www.lawtalk.co.kr/directory/profile/5517-%EC%9D%B4%EB%8F%88%ED%98%B8"
-                        target="_blank"
-                        title="이돈호 변호사 로톡"
-                    >
-                        <img src="img/lawtalk.png" alt="이돈호 변호사 로톡" />
-                    </a>
-
-                    <a
-                        href="https://pf.kakao.com/_CXxhwG"
-                        target="_blank"
-                        title="노바법률사무소 카카오톡 플러스친구"
-                    >
-                        <img
-                            src="img/kakaotalk.png"
-                            alt="노바법률사무소 카카오톡 플러스친구"
-                        />
-                    </a>
-
-                    <a
-                        href="https://blog.naver.com/quality7385"
-                        target="_blank"
-                        title="이돈호 변호사 네이버 블로그"
-                    >
-                        <img
-                            src="img/blog.png"
-                            alt="이돈호 변호사 네이버 블로그"
-                        />
-                    </a>
-
-                    <a
-                        href="https://www.instagram.com/lawyer_dono"
-                        target="_blank"
-                        title="이돈호 변호사 인스타그램"
-                    >
-                        <img
-                            src="img/instagram.png"
-                            alt="이돈호 변호사 인스타그램"
-                        />
-                    </a>
-
-                    <a
-                        href="https://www.youtube.com/@%EC%9D%B4%EB%8F%88%ED%98%B8%EB%B3%80%ED%98%B8%EC%82%AC"
-                        target="_blank"
-                        title="이돈호 변호사 YouTube"
-                    >
-                        <img
-                            src="img/youtube.png"
-                            alt="이돈호 변호사 YouTube"
-                        />
-                    </a>
                 </div>
             </div>
         </div>

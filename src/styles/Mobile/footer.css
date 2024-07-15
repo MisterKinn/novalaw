@@ -19,7 +19,7 @@
 
 .mobile-footer-data a {
     margin-top: -0.5em;
-    font-size: 1.25em;
+    font-size: 1.15em;
     color: black;
     text-decoration: none;
 }
@@ -38,23 +38,23 @@
 
 .mobile-footer-text {
     margin-top: -5em;
+    margin-left: -1.75em;
+    margin-right: -1.75em;
     margin-bottom: -4em;
     color: #a0a0a0;
 }
 
 .mobile-footer-text span {
-    font-size: 1em;
+    margin: 0.25em;
+    font-size: 0.65em;
     font-weight: normal;
-}
-
-#copyright-year {
-    padding: 0;
 }
 
 .mobile-footer-icon {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin-top: -5em;
 }
 
 .mobile-footer-icon a {
@@ -81,4 +81,17 @@
 .mobile-footer-icon img {
     height: 4em;
     width: auto;
+}
+
+#copyright-year {
+    padding: 0;
+    font-size: 0.95em;
+}
+
+#copyright {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -2em;
+    font-size: 0.95em;
 }
