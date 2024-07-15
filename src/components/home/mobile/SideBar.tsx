@@ -40,7 +40,7 @@ function Sidebar() {
                     <a href="../speciality" title="노바의 특별함">
                         노바의 특별함
                     </a>
-                    <a href="../#works" title="업무분야">
+                    <a href="../works" title="업무분야">
                         업무분야
                     </a>
                     <a href="../members" title="구성원">
