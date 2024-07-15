@@ -1,6 +1,6 @@
 function Intro() {
     return (
-        <div id="intro">
+        <div id="mobile-intro">
             <img
                 src="img/members-bg.png"
                 alt="구성원 소개"
