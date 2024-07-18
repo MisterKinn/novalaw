@@ -27,6 +27,9 @@ import MobileConsult from "@/components/home/mobile/Consult";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function NovaLaw() {
+    console.clear();
+    console.log("Full Source: https://novalaw.kr/source");
+
     useEffect(() => {
         AOS.init({
             duration: 1000,

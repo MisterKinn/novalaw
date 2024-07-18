@@ -2,7 +2,6 @@ import "@/styles/Desktop/home.css";
 import { closePopup } from "@/app/closePopup";
 
 function Home() {
-    console.log("Full Source: https://novalaw.kr/source");
     return (
         <div id="home">
             <header className="header">

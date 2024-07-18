@@ -3,11 +3,6 @@ nextjs-portal {
 }
 
 #page {
-    overflow-x: hidden;
-    overflow: hidden;
-}
-
-#media {
     overflow: hidden;
 }
 
@@ -23,182 +18,11 @@ body {
 .black {
     margin-bottom: -1em;
     font-weight: bold;
-    color: black;
+    color: #131518;
 }
 
-.mobile-title {
-    margin: 0.75em;
-    margin-left: -3em;
-    margin-right: -3em;
-    color: white;
-}
-
-.mobile-sub-title {
-    margin-bottom: -1em;
-    margin-left: -3em;
-    margin-right: -3em;
-    font-size: 1.5em;
-    color: #ccc;
-}
-
-.join,
-.join *,
-.join :after,
-.join :before,
-.join:after,
-.join:before {
-    border: 0 solid;
-    box-sizing: border-box;
-}
-
-.join {
-    -webkit-tap-highlight-color: transparent;
-    -webkit-appearance: button;
-    background-color: #000;
-    background-image: none;
-    color: #fff;
-    cursor: pointer;
-    font-size: 1em;
-    font-weight: 900;
-    height: 4em;
-    width: 12.5em;
-    margin: 0;
-    -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
-    padding: 0;
-    text-transform: uppercase;
-}
-
-.join:disabled {
-    cursor: default;
-}
-
-.join:-moz-focusring {
-    outline: auto;
-}
-
-.join [hidden] {
-    display: none;
-}
-
-.join {
-    border-radius: 99rem;
-    border-width: 2px;
-    overflow: hidden;
-    margin-top: 1em;
-    margin-bottom: 7.5em;
-    padding: 0.8rem 3rem;
-    position: relative;
-    white-space: nowrap;
-}
-
-.sidebar-join {
-    margin-left: -0.5em;
-    padding: 0;
-    height: 3.5em;
-    width: 10em;
-}
-
-.join span {
-    mix-blend-mode: difference;
-    font-size: 125%;
-}
-
-.join:after,
-.join:before {
-    background: linear-gradient(
-        90deg,
-        #fff 25%,
-        transparent 0,
-        transparent 50%,
-        #fff 0,
-        #fff 75%,
-        transparent 0
-    );
-    content: "";
-    inset: 0;
-    position: absolute;
-    transform: translateY(var(--progress, 100%));
-    transition: transform 0.2s ease;
-}
-
-.join:after {
-    --progress: -100%;
-    background: linear-gradient(
-        90deg,
-        transparent 0,
-        transparent 25%,
-        #fff 0,
-        #fff 50%,
-        transparent 0,
-        transparent 75%,
-        #fff 0
-    );
-    z-index: -1;
-}
-
-.join:hover:after,
-.join:hover:before {
-    --progress: 0;
-}
-
-.introduce {
-    text-align: center;
-    margin-top: 5em;
-    font-size: 4em;
-    color: white;
-}
-
-.mobile-introduce {
-    text-align: center;
-    margin-top: 5em;
-    font-size: 3em;
-    color: white;
-}
-
-.member-title {
-    text-align: center;
-    margin-top: 3em;
-    font-size: 3.3em;
-    color: black;
-}
-
-.member-subtitle {
-    text-align: center;
-    margin: 70px;
-    margin-top: -1.25em;
-    font-size: 35px;
-    color: #a0a0a0;
-}
-
-.mobile-member-subtitle {
-    text-align: center;
-    margin-top: -1.25em;
-    margin-left: -3em;
-    margin-right: -3em;
-    font-size: 30px;
-    color: #a0a0a0;
-}
-
-.greeting {
-    display: flex;
-    justify-content: center;
-    text-align: left;
-    margin-top: -1em;
-}
-
-.mobile-greeting-container {
-    text-align: center;
-}
-
-.mobile-greeting-img {
-    margin-top: -5em;
-    height: 30em;
-    width: auto;
-}
-
-.mobile-greeting-text {
-    font-size: 1.25em;
-    font-weight: bold;
+.blank2 {
+    margin: 5em;
 }
 
 .explain {
@@ -214,34 +38,62 @@ body {
     padding-right: 20px;
 }
 
-.mobile-success-title {
-    text-align: center;
-    margin: 70px;
-    margin-top: 250px;
-    margin-left: -3em;
-    margin-right: -3em;
-    font-size: 35px;
-    color: #a0a0a0;
-}
-
 .margin {
     margin: 7.5em;
 }
 
+.back {
+    margin-top: 8em;
+    margin-left: 10em;
+    height: 3em;
+    width: auto;
+}
+
+.mobile-back {
+    margin-top: 7em;
+    margin-left: 1em;
+    height: 2.25em;
+    width: auto;
+}
+
+.terms-title {
+    margin-top: -1em;
+    text-align: center;
+    font-size: 3em;
+    color: #131518;
+}
+
+.mobile-terms-title {
+    margin-top: 0.25em;
+    margin-left: 0.75em;
+    font-size: 2em;
+    color: #131518;
+}
+
 .terms-text {
-    text-align: left;
+    margin-top: 4em;
     margin-left: 7.5em;
     margin-right: 7.5em;
+    padding: 3em;
+    width: 80vw;
+    text-align: left;
     font-size: 20px;
-    color: gray;
+    color: #444444;
+    background-color: #fbfbfb;
+    border: 1px solid gray;
 }
 
 .mobile-terms-text {
+    margin-top: 3em;
+    margin-left: 1.25em;
+    margin-right: 1em;
+    padding: 2em;
+    width: 75vw;
     text-align: left;
-    margin-left: 1.5em;
-    margin-right: 1.5em;
-    font-size: 20px;
-    color: #c3c3c6;
+    font-size: 15px;
+    color: #444444;
+    background-color: #fbfbfb;
+    border: 1px solid gray;
 }
 
 p {
