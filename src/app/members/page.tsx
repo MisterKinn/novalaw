@@ -43,7 +43,7 @@ function Members() {
         );
     } else {
         return (
-            <div>
+            <div id="page">
                 <NavBar />
                 <StickyNav />
                 <Intro />

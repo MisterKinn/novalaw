@@ -37,12 +37,12 @@ function Employees() {
                 <div className="employees-container top0">
                     <div className="card-title">
                         <h1>김민성</h1>
-                        <h2>자문변호사</h2>
+                        <h2>고문변호사</h2>
                     </div>
 
                     <div className="career-container">
                         <div className="career-text2">
-                            現 노바법률사무소 자문변호사
+                            現 노바법률사무소 고문변호사
                             <br />
                             前 GS건설 국내법무팀 변호사
                             <br />
@@ -114,14 +114,14 @@ function Employees() {
                             <br />
                             前 현대차그룹 현대엔지니어링 사내노무사
                             <br />
-                            경북대학교 사범대학
+                            고려대학교 경영대학원 석사과정
                             <br />
-                            고려대학교 경영대학원(석사)
+                            경북대학교 사범대학
                         </div>
                         <img
                             src="img/kim-donggwon.png"
                             alt="김동권 자문노무사"
-                            className="employees-img"
+                            className="kim-donggwon"
                         />
                     </div>
                 </div>
@@ -190,7 +190,7 @@ function Employees() {
                         <img
                             src="img/50seok.png"
                             alt="오영석 자문의"
-                            className="employees-img"
+                            className="oh0seok"
                         />
                     </div>
                 </div>

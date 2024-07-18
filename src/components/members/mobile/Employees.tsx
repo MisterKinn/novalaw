@@ -36,7 +36,7 @@ function Employees() {
                 <div className="mobile-card-container">
                     <div className="mobile-card-title">
                         <h1>김민성</h1>
-                        <h2>자문변호사</h2>
+                        <h2>고문변호사</h2>
                     </div>
                 </div>
 
@@ -47,7 +47,7 @@ function Employees() {
                         className="mobile-employees-img"
                     />
                     <div className="mobile-career-text">
-                        現 노바법률사무소 자문변호사
+                        現 노바법률사무소 고문변호사
                         <br />
                         現 엠디엠플러스 준법지원팀장
                         <br />
@@ -122,9 +122,9 @@ function Employees() {
                                 <br />
                                 前 현대차그룹 현대엔지니어링 사내노무사
                                 <br />
-                                경북대학교 사범대학
+                                고려대학교 경영대학원 석사과정
                                 <br />
-                                고려대학교 경영대학원(석사)
+                                경북대학교 사범대학
                             </div>
                         </div>
                     </div>
