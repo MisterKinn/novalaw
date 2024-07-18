@@ -105,12 +105,14 @@ function Footer() {
                     </div>
 
                     <h3>
-                        <br />
                         <span id="copyright">
                             © <span id="copyright-year" ref={yearRef} />{" "}
                             <strong>노바법률사무소</strong>. All Rights
                             Reserved.
                         </span>
+                        <br />
+                        <br />
+                        <br />
                     </h3>
                 </div>
             </div>

@@ -37,8 +37,8 @@ function Sidebar() {
                             className="close-img"
                         />
                     </a>
-                    <a href="../speciality" title="노바의 특별함">
-                        노바의 특별함
+                    <a href="../speciality" title="노바의 전략">
+                        노바의 전략
                     </a>
                     <a href="../works" title="업무분야">
                         업무분야
