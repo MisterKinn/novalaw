@@ -54,7 +54,6 @@ function Thanks() {
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 th******</p>
                     </div>
                 </div>
