@@ -1,5 +1,6 @@
 #mobile-footer {
-    margin-top: -6em;
+    margin-top: -1em;
+    border-top: 1px gray solid;
 }
 
 #mobile-footer a {
@@ -11,7 +12,7 @@
 
 #mobile-footer img {
     margin-top: -2em;
-    height: 3.5em;
+    height: 3em;
     width: auto;
 }
 
@@ -57,8 +58,10 @@
 .mobile-footer-icon {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     margin: -3em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
 }
 
 .mobile-footer-icon a {

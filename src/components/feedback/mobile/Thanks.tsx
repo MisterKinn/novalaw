@@ -8,6 +8,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">손해배상</h3>
                     <h2 className="mobile-card-title">자상하고 따뜻한 상담</h2>
                     <p className="mobile-card-text">
                         처음에 상담 신청을 할 때 법과 변호사에 대한 딱딱하고
@@ -19,15 +20,10 @@ function Thanks() {
                         문서로 작성해서 주셨는데 너무 큰 도움이 됐습니다! 완전
                         강추합니다.
                         <br />
-                        <br />
-                        <br />
-                        <br />
-                        <br />
                     </p>
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>손해배상</p>
                         <p>의뢰인 ju******</p>
                     </div>
                 </div>
@@ -38,6 +34,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">고소/소송절차</h3>
                     <h2 className="mobile-card-title">
                         꼼꼼하게 내용을
                         <br />
@@ -52,10 +49,6 @@ function Thanks() {
                         조언주신 내용대로 우선 대응을 진행하고, 진행하면서
                         추가로 필요한 내용이 있으면 변호사님과 상담받으며 진행할
                         예정입니다.
-                        <br />
-                        <br />
-                        <br />
-                        <br />
                         <br />
                     </p>
 
@@ -72,6 +65,9 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">
+                        사이버 명예훼손/모욕
+                    </h3>
                     <h2 className="mobile-card-title">
                         너무 만족하는 상담입니다.
                     </h2>
@@ -88,12 +84,10 @@ function Thanks() {
                         <br />
                         사건진행하기로 했고 앞으로도 잘 부탁드립니다!
                         <br />
-                        <br />
                     </p>
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 db******</p>
                     </div>
                 </div>
@@ -104,6 +98,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">노동/인사</h3>
                     <h2 className="mobile-card-title">
                         이돈호 변호사님과의 상담은
                         <br />
@@ -124,12 +119,10 @@ function Thanks() {
                         <br />
                         항상 건강하십시오!
                         <br />
-                        <br />
                     </p>
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 db******</p>
                     </div>
                 </div>
@@ -140,12 +133,15 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">
+                        사이버 명예훼손/모욕
+                    </h3>
                     <h2 className="mobile-card-title">
-                        사건 내용을 꼼꼼히 정리해주시고
+                        합의 진행에 도움을 받고자 방문 드렸습니다.
                         <br />
-                        미리 사전 자료를 준비해주셔서
+                        사건 내용을 꼼꼼히 정리하시고
                         <br />
-                        좋았습니다.
+                        미리 사전 자료를 만들어 주셔서 좋았습니다~!
                     </h2>
                     <p className="mobile-card-text">
                         무엇보다 내용을 꼼꼼히 정리하셔서 제가
@@ -166,7 +162,6 @@ function Thanks() {
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>사이버 명예훼손 / 모욕</p>
                         <p>의뢰인 th******</p>
                     </div>
                 </div>
@@ -177,6 +172,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">노동/인사</h3>
                     <h2 className="mobile-card-title">
                         냉정과 열정 사이 - 이돈호 변호사님
                     </h2>
@@ -196,14 +192,14 @@ function Thanks() {
                         <br />
                         변호사님 덕분에 편안한 일상으로 돌아가고
                         <br />
-                        있습니다. 감사드립니다.
+                        있습니다.
                         <br />
+                        감사드립니다.
                         <br />
                     </p>
 
                     <div className="mobile-card-bottom">
                         <p>2024.06</p>
-                        <p>노동 / 인사</p>
                         <p>의뢰인 mi******</p>
                     </div>
                 </div>
@@ -214,6 +210,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">고소/소송절차</h3>
                     <h2 className="mobile-card-title">
                         현실적인 법률 조언과 마지막에
                         <br />
@@ -242,7 +239,6 @@ function Thanks() {
 
                     <div className="mobile-card-bottom">
                         <p>2024.03</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 p-******</p>
                     </div>
                 </div>
@@ -253,6 +249,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="mobile-nova-logo"
                     />
+                    <h3 className="mobile-card-subtitle">고소/소송절차</h3>
                     <h2 className="mobile-card-title">
                         저와 같이 검색하면서 고민하는
                         <br />
@@ -281,7 +278,6 @@ function Thanks() {
 
                     <div className="mobile-card-bottom">
                         <p>2024.02</p>
-                        <p>고소 / 소송절차</p>
                         <p>의뢰인 db******</p>
                     </div>
                 </div>

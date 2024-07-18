@@ -8,6 +8,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">손해배상</h3>
                     <h2 className="card-title">자상하고 따뜻한 상담</h2>
                     <p className="card-text">
                         처음에 상담 신청을 할 때 법과 변호사에 대한 딱딱하고
@@ -33,6 +34,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">고소/소송절차</h3>
                     <h2 className="card-title">
                         꼼꼼하게 내용을
                         <br />
@@ -64,6 +66,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">고소/소송절차</h3>
                     <h2 className="card-title">
                         이돈호 변호사님과의 상담은
                         <br />
@@ -98,12 +101,13 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">사이버 명예훼손/모욕</h3>
                     <h2 className="card-title">
-                        사건 내용을 꼼꼼히 정리해주시고
+                        합의 진행에 도움을 받고자 방문 드렸습니다.
                         <br />
-                        미리 사전 자료를 준비해주셔서
+                        사건 내용을 꼼꼼히 정리하시고
                         <br />
-                        좋았습니다.
+                        미리 사전 자료를 만들어 주셔서 좋았습니다~!
                     </h2>
                     <p className="card-text">
                         무엇보다 내용을 꼼꼼히 정리하셔서 제가
@@ -136,6 +140,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">노동/인사</h3>
                     <h2 className="card-title">
                         냉정과 열정 사이 - 이돈호 변호사님
                     </h2>
@@ -171,6 +176,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">고소/소송절차</h3>
                     <h2 className="card-title">
                         현실적인 법률 조언과 마지막에
                         <br />
@@ -211,6 +217,7 @@ function Thanks() {
                         alt="NovaLaw Logo"
                         className="nova-logo"
                     />
+                    <h3 className="card-subtitle">고소/소송절차</h3>
                     <h2 className="card-title">
                         저와 같이 검색하면서 고민하는
                         <br />
@@ -244,44 +251,7 @@ function Thanks() {
                     </div>
                 </div>
 
-                <div className="card-container">
-                    <img
-                        src="img/success-logo.png"
-                        alt="NovaLaw Logo"
-                        className="nova-logo"
-                    />
-                    <h2 className="card-title">
-                        저와 같이 검색하면서 고민하는
-                        <br />
-                        분들이 계시다면 당장
-                        <br />
-                        문의받으세요.
-                    </h2>
-                    <p className="card-text">
-                        제 사건에 대하여 누구보다 잘 인지하고
-                        <br />
-                        계셨습니다.
-                        <br />
-                        상황을 정말 빠르게 이해하셨고, 제가 해야 할
-                        <br />
-                        행동들에 대해서 자세히 안내해주셨습니다.
-                        <br />
-                        구체적인 쟁점과 내용에 대해서 잘 정리하여
-                        <br />
-                        텍스트로 주신 부분에서 또 한 번 감동을 받았고,
-                        <br />
-                        제가 우려하는 부분에 대해서도 최대한 편의를 봐주기 위한
-                        안내를 해주셨습니다.
-                        <br />
-                        강력하게 추천드립니다.
-                        <br />
-                    </p>
-
-                    <div className="card-bottom">
-                        <p>2024.02</p>
-                        <p>의뢰인 db******</p>
-                    </div>
-                </div>
+                <div className="card-container2"></div>
             </div>
 
             <div className="margin">ㅤ</div>

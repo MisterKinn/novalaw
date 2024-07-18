@@ -56,6 +56,13 @@
     border: 1px gray solid;
 }
 
+.card-container2 {
+    margin: 1.5em;
+    margin-top: 8.5em;
+    margin-bottom: -6em;
+    width: 26em;
+}
+
 .nova-logo {
     margin-left: 3em;
     margin-top: -1.5em;
@@ -63,11 +70,17 @@
     width: auto;
 }
 
+.card-subtitle {
+    margin: 1.25em;
+    color: #a0a0a0;
+}
+
 .card-title {
     margin: 1em;
+    margin-top: -0.75em;
     margin-left: 0.9em;
-    font-size: 1.7em;
-    color: #141d7d;
+    font-size: 1.4em;
+    color: #131518;
 }
 
 .card-text {

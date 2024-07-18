@@ -49,10 +49,9 @@
 .mobile-card-container {
     margin: 1em;
     margin-top: 5em;
-    height: 29em;
     width: 22.5em;
-    background-color: white;
-    box-shadow: 5px 5px 5px 5px #a0a0a0;
+    background-color: #fcfcfc;
+    border: 1px gray solid;
 }
 
 .mobile-nova-logo {
@@ -62,14 +61,22 @@
     width: auto;
 }
 
+.mobile-card-subtitle {
+    margin: 1.25em;
+    margin-bottom: -1em;
+    color: #a0a0a0;
+}
+
 .mobile-card-title {
-    margin: 1em;
-    font-size: 1.5em;
-    color: #141d7d;
+    margin: 1.25em;
+    font-size: 1.19em;
+    color: #131518;
 }
 
 .mobile-card-text {
     margin: 1em;
+    margin-top: -0.75em;
+    margin-left: 1.5em;
     text-align: left;
     font-size: 1.1em;
     color: #6e7083;
@@ -78,13 +85,13 @@
 .mobile-card-bottom {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     margin: 1em;
     font-size: 0.9em;
-    border-top: 1px gray solid;
 }
 
 .mobile-card-bottom p {
+    margin: 1em;
+    margin-right: 1.5em;
     font-size: 1em;
     font-weight: bold;
     color: #6b6b6b;
