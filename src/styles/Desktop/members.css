@@ -31,7 +31,7 @@
 }
 
 .members-title {
-    margin-top: 3em;
+    margin-top: 3.25em;
     text-align: center;
     font-size: 2em;
     color: #a0a0a0;
@@ -133,7 +133,7 @@
 }
 
 .career-text div {
-    font-size: 1.1em;
+    font-size: 1.05em;
     padding-right: -2em;
 }
 
@@ -144,7 +144,7 @@
 
 .ceo-img {
     margin-top: -14.75em;
-    margin-left: 0.8em;
+    margin-left: 1.8em;
     height: 37.5em;
     width: auto;
 }
@@ -152,22 +152,22 @@
 .employees-img {
     position: absolute;
     right: 0;
-    padding-top: 5.5em;
-    height: 17.5em;
+    padding-top: 8em;
+    height: 15em;
 }
 
 .kim-donggwon {
     position: absolute;
     right: 0;
-    padding-top: 7em;
-    height: 16em;
+    padding-top: 9em;
+    height: 14em;
 }
 
 .oh0seok {
     position: absolute;
     right: 0;
-    padding-top: 4em;
-    height: 19em;
+    padding-top: 7em;
+    height: 16em;
 }
 
 .margin {
