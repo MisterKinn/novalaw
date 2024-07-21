@@ -1,12 +1,6 @@
 function System() {
     return (
         <div>
-            <div className="margin2"></div>
-
-            <h2 className="greeting-title" data-aos="fade-up">
-                <strong>노바의 시스템</strong>
-            </h2>
-
             <div className="system-container">
                 <h3 data-aos="fade-up">01</h3>
                 <h4 data-aos="fade-up">

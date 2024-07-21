@@ -13,8 +13,8 @@ function NavBar() {
                 </a>
 
                 <div className="topnav">
-                    <a href="../speciality" title="노바의 전략">
-                        노바의 전략
+                    <a href="../system" title="노바의 시스템">
+                        노바의 시스템
                     </a>
 
                     <a href="../works" title="업무분야">

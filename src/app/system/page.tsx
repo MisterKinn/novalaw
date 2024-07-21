@@ -6,24 +6,25 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Mobile/footer.css";
-import "@/styles/Desktop/speciality.css";
+import "@/styles/Desktop/system.css";
 import "@/styles/Mobile/speciality.css";
 
 import NavBar from "@/components/home/desktop/NavBar";
 import StickyNav from "@/components/home/desktop/StickyNav";
-import Intro from "@/components/speciality/desktop/Intro";
-import Greeting from "@/components/speciality/desktop/Greeting";
-import System from "@/components/speciality/desktop/System";
-import Feedback from "@/components/speciality/desktop/Feedback";
-import Consult from "@/components/speciality/desktop/Consult";
+import Intro from "@/components/system/desktop/Intro";
+import Greeting from "@/components/system/desktop/Greeting";
+import Point from "@/components/system/desktop/Point";
+import System from "@/components/system/desktop/System";
+import Feedback from "@/components/system/desktop/Feedback";
+import Consult from "@/components/system/desktop/Consult";
 import Footer from "@/components/home/desktop/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
-import MobileIntro from "@/components/speciality/mobile/Intro";
-import MobileGreeting from "@/components/speciality/mobile/Greeting";
-import MobileSystem from "@/components/speciality/mobile/System";
-import MobileFeedback from "@/components/speciality/mobile/Feedback";
-import MobileConsult from "@/components/speciality/mobile/Consult";
+import MobileIntro from "@/components/system/mobile/Intro";
+import MobileGreeting from "@/components/system/mobile/Greeting";
+import MobileSystem from "@/components/system/mobile/System";
+import MobileFeedback from "@/components/system/mobile/Feedback";
+import MobileConsult from "@/components/system/mobile/Consult";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function Speicality() {
@@ -54,6 +55,7 @@ function Speicality() {
                 <StickyNav />
                 <Intro />
                 <Greeting />
+                <Point />
                 <System />
                 <Feedback />
                 <Consult />

@@ -10,9 +10,9 @@ function Consult() {
             <div className="consult-container" data-aos="fade-up">
                 <h2 className="consult-title">상담연결</h2>
                 <h3 className="consult-subtitle">
-                    다양한 방법을 통해
+                    축하드립니다.
                     <br />
-                    사건 해결을 도와드립니다.
+                    이제, 온전히 맡기셔도 됩니다.
                 </h3>
 
                 <div className="consult-buttons">
