@@ -49,15 +49,41 @@
     border-bottom: 2px #bdc0dc solid;
 }
 
+.mobile-greeting-subtitle {
+    margin: 2em;
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 1.4;
+    color: #141d7d;
+}
+
+.mobile-small {
+    margin-top: -1em;
+    margin-bottom: -1em;
+    text-align: center;
+    font-size: 1em;
+    font-weight: normal;
+    color: #141d7d;
+}
+
+.mobile-greeting-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5em;
+}
+
 .mobile-greeting-container img {
     height: 25em;
     width: auto;
 }
 
 .mobile-greeting-container p {
-    margin: 1em;
+    margin: 1.25em;
     text-align: center;
-    font-size: 1em;
+    font-size: 1.1em;
     color: black;
 }
 
@@ -79,10 +105,66 @@
     font-size: 1.75em;
 }
 
-.mobile-point {
-    margin-top: 2em;
+#mobile-point {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.mobile-point-bg {
+    margin-top: 5em;
     height: auto;
     width: 100vw;
+}
+
+.mobile-point-container {
+    position: absolute;
+}
+
+.mobile-point-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+
+.mobile-point-icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mobile-point-element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    margin-top: -0.5em;
+}
+
+.mobile-point-element img {
+    height: 17.5em;
+    width: auto;
+}
+
+.mobile-point-element h4 {
+    margin-top: 0.1em;
+    font-size: 1.25em;
+    font-weight: normal;
+    color: white;
+}
+
+.mobile-point-element h3 {
+    margin-top: -0.75em;
+    font-size: 1.75em;
+    color: white;
+}
+
+.mobile-blue {
+    color: #3f52ff;
 }
 
 .mobile-margin {
@@ -110,10 +192,6 @@
     text-align: center;
     font-size: 1.4em;
     color: black;
-}
-
-.mobile-blue {
-    color: blue;
 }
 
 .mobile-system-container img {
@@ -184,7 +262,7 @@
 
 .mobile-consult-subtitle {
     text-align: center;
-    margin-top: -0.1em;
+    margin-top: 1;
     font-size: 2em;
     color: white;
 }
@@ -204,7 +282,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 1em;
+    margin: 0.5em;
     height: 4em;
     width: 20em;
     background-color: #4051ff;

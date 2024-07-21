@@ -35,7 +35,7 @@
     position: fixed;
     z-index: 1;
     top: 0;
-    height: 5em;
+    height: 4em;
     width: 100vw;
     background-color: #f9f9f9;
 }
@@ -46,7 +46,7 @@
     cursor: pointer;
     position: fixed;
     padding: 10px 15px;
-    height: 3.25em;
+    height: 2.5em;
     width: auto;
     border: none;
 }
@@ -56,7 +56,8 @@
     left: 0;
     position: fixed;
     margin: 1.25em;
-    height: 2.25em;
+    margin-top: 1.1em;
+    height: 2em;
     width: auto;
     z-index: 0;
 }

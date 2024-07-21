@@ -4,6 +4,30 @@ function Greeting() {
             <h2 className="mobile-greeting-title" data-aos="fade-up">
                 <strong>노바의 의뢰인</strong>이 된다는 것은?
             </h2>
+            <div data-aos="fade-up">
+                <h3 className="mobile-greeting-subtitle">
+                    자문하고 있는
+                    <br />
+                    <strong>유튜버 채널 구독자 수 총 730만</strong>,
+                    <br />
+                    대한민국 유일무이한
+                    <br />
+                    <strong>‘인플루언서’ 전문 법률사무소</strong>,
+                    <br />
+                    1년 내내 형사 특정 변호사
+                    <br />
+                    <br />
+                    선정된 사람만이 갖출 수 있는
+                </h3>
+                <h4 className="mobile-small">
+                    (23년 하반기, 24년 상반기 23년 기준 800명/
+                    <br />
+                    24년 기준 930 중 24명 이내)
+                </h4>
+                <h3 className="mobile-greeting-subtitle">
+                    <strong>[시스템]과 함께한다는 것</strong>을 의미합니다.
+                </h3>
+            </div>
 
             <div className="mobile-greeting-container">
                 <img
@@ -12,45 +36,36 @@ function Greeting() {
                     data-aos="fade-up"
                 />
                 <p data-aos="fade-up">
-                    자문하고 있는{" "}
-                    <strong>유튜브 채널 구독자 수 총 700만</strong>,
+                    인생에서 변호사와 법률 상담은
                     <br />
-                    대한민국 유일무이한 <strong>"인플루언서" 전문 채널</strong>,
-                    <br />
-                    <br />
-                    형사사건 1년 연속 선임건수 상위 5%만이 가지고 있는
-                    <br />
-                    <strong>시스템</strong>과 함께한다는 것을 의미합니다.
-                    <br />
-                    <br />
-                    인생에서 변호사와의 <strong>법률 상담</strong>은<br />
                     빼놓을 수 없는 일입니다.
                     <br />
-                    작은 명예훼손이나 모욕 사건부터
-                    <br />큰 이혼소송, 반환소송까지
+                    작은 명예훼손이나 모욕 사건부터 큰 이혼 소송,
                     <br />
-                    다양한 상황에서 <strong>법률적인 도움</strong>은 항상
-                    필요합니다.
+                    반환소송까지 다양한 상황에서
+                    <br />
+                    법률적인 도움은 항상 필요합니다.
                     <br />
                     <br />
-                    이 때 어떤 법률사무소, 어떤 변호사를 만나느냐가
+                    적절한 법률사무소를 선택하는 것은
                     <br />
-                    단순히 <strong>송사의 결과</strong>뿐만 아니라
+                    단순히 송사 결과만을 좌우하지 않습니다.
                     <br />
-                    <strong>여러분의 인생</strong>을 바꿀 수 있습니다.
+                    여러분의 당연히 누려야 할 권리와
+                    <br />
+                    평안한 일상을 되찾아 주고,
+                    <br />
+                    더 나아가 두려움을 딛고,
+                    <br />
+                    삶의 방향을 앞으로
+                    <br />
+                    나아갈 수 있게 해주는 결정입니다.
                     <div>
                         <h2>노바법률사무소 대표</h2>
                         <h1>이돈호</h1>
                     </div>
                 </p>
             </div>
-
-            <img
-                src="img/point-mobile.png"
-                alt="노바법률사무소만의 핵심 포인트"
-                className="mobile-point"
-                data-aos="fade-up"
-            />
         </div>
     );
 }

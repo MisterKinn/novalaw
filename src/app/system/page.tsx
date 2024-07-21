@@ -7,7 +7,7 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Mobile/footer.css";
 import "@/styles/Desktop/system.css";
-import "@/styles/Mobile/speciality.css";
+import "@/styles/Mobile/system.css";
 
 import NavBar from "@/components/home/desktop/NavBar";
 import StickyNav from "@/components/home/desktop/StickyNav";
@@ -22,6 +22,7 @@ import Footer from "@/components/home/desktop/Footer";
 import SideBar from "@/components/home/mobile/SideBar";
 import MobileIntro from "@/components/system/mobile/Intro";
 import MobileGreeting from "@/components/system/mobile/Greeting";
+import MobilePoint from "@/components/system/mobile/Point";
 import MobileSystem from "@/components/system/mobile/System";
 import MobileFeedback from "@/components/system/mobile/Feedback";
 import MobileConsult from "@/components/system/mobile/Consult";
@@ -42,6 +43,7 @@ function Speicality() {
                 <SideBar />
                 <MobileIntro />
                 <MobileGreeting />
+                <MobilePoint />
                 <MobileSystem />
                 <MobileFeedback />
                 <MobileConsult />
