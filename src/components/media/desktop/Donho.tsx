@@ -11,10 +11,10 @@ function Donho() {
                 <div data-aos="fade-up">
                     <h2 className="media-title">이돈호 변호사 YouTube</h2>
                     <h3 className="media-subtitle">
-                        노바법률사무소의 대표변호사
+                        법의 관점에서 다양한 이슈를 들여다보는 노바법률사무소
+                        대표 변호사인
                         <br />
-                        이돈호 변호사의 유튜브를 통해 최신 법률 소식을
-                        확인해보세요.
+                        이돈호 변호사의 유튜브 채널을 만나보세요.
                     </h3>
 
                     <a

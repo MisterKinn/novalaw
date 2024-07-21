@@ -12,7 +12,8 @@ function Broadcast() {
                         <div className="margin-top" />
                         <h2 className="media-title">방송 출연</h2>
                         <h3 className="media-subtitle">
-                            노바법률사무소의 대표 이돈호 변호사가 출연한
+                            노바법률사무소의 대표 변호사인 이돈호 변호사가
+                            출연한
                             <br />
                             법률 해결 미디어를 살펴보세요.
                         </h3>

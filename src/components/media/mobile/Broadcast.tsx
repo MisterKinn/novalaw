@@ -10,13 +10,13 @@ function Broadcast() {
             <div className="mobile-media-container">
                 <div data-aos="fade-up">
                     <div className="mobile-margin-top" />
-                    <h2 className="mobile-media-title" id="black">
-                        방송 출연
-                    </h2>
-                    <h3 className="mobile-media-subtitle" id="mobile-gray">
-                        노바법률사무소의 대표 이돈호 변호사가 출연한
+                    <h2 className="mobile-media-title">방송 출연</h2>
+                    <h3 className="mobile-media-subtitle">
+                        노바법률사무소의 대표 변호사인
                         <br />
-                        법률 해결 미디어를 살펴보세요.
+                        이돈호 변호사가 출연한
+                        <br />
+                        다양한 방송 채널들을 살펴보세요.
                     </h3>
                 </div>
 
@@ -27,7 +27,7 @@ function Broadcast() {
                                 src="img/media-broadcast-1.jpg"
                                 alt="SBS 저녁 인터뷰 - '공중협박죄' 신설에 관여"
                             />
-                            <p id="black">
+                            <p>
                                 SBS 저녁 인터뷰-
                                 <br />
                                 '공중협박죄' 신설에 관여
@@ -41,7 +41,7 @@ function Broadcast() {
                                 src="img/media-broadcast-2.jpg"
                                 alt="[이돈호 변호사 진행] '공황장애' 산재사건에서 승소"
                             />
-                            <p id="black">
+                            <p>
                                 [이돈호 변호사 진행]
                                 <br />
                                 '공황장애' 산재사건에서 승소
