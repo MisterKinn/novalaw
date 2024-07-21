@@ -1,17 +1,19 @@
 function Intro() {
     return (
         <div>
-            <div data-aos="fade-up">
+            <div className="intro-container" data-aos="fade-up">
                 <h2 className="mobile-intro-title">고객후기</h2>
-                <h1 className="mobile-intro-subtitle">
-                    의뢰인 여러분의{" "}
-                    <span className="mobile-blue">감사 인사</span>
-                    <br />한 마디가 노바에게{" "}
-                    <span className="mobile-blue">큰 힘</span>이 됩니다.
+                <h1>
+                    여러분의 안심이
+                    <br />
+                    저희에게 더 나아갈
+                    <br />큰 힘이 됩니다.
+                </h1>
+                <h2>
                     <br />
                     언제나 <span className="mobile-blue">의뢰인의 편</span>에
                     서겠습니다.
-                </h1>
+                </h2>
             </div>
 
             <div className="mobile-success-list" data-aos="fade-up">
