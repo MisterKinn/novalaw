@@ -1,14 +1,14 @@
 .address-title {
-    margin-top: 2em;
-    margin-left: 2em;
-    font-size: 5em;
+    margin-top: 3em;
+    margin-left: 2.5em;
+    font-size: 4em;
     color: #131d7d;
 }
 
 .address-subtitle {
-    margin-top: -1.5em;
-    margin-left: 5em;
-    font-size: 2em;
+    margin-top: -1em;
+    margin-left: 5.5em;
+    font-size: 1.75em;
     line-height: 1.4em;
     color: #a0a0a0;
 }

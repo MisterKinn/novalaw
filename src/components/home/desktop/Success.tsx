@@ -23,9 +23,9 @@ function Success() {
 
                         <div className="small-margin" />
 
-                        <a href="/success" title="법률사례 더 보기">
+                        <a href="/success" title="승소사례 더 보기">
                             <div className="learn-more">
-                                <p>법률사례 더 보기 {">"}</p>
+                                <p>승소사례 더 보기 {">"}</p>
                             </div>
                         </a>
                     </div>

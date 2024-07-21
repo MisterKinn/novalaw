@@ -39,14 +39,15 @@ function Works() {
                                     className="cardimg"
                                 />
                             </div>
-                            <div className="card-title">형사사건</div>
+                            <div className="card-title">통신매체 이용음란</div>
                             <div className="card-text">
-                                수사단계부터 재판까지 의뢰인의 편에서
+                                온라인 성폭력 피해에 있어
                                 <br />
-                                최선의 결과를 위해 노력합니다.
+                                의뢰인의 당연히 누려야 할 권리를 지킵니다.
                             </div>
                         </div>
                     </div>
+
                     <div className="card-container">
                         <div>
                             <div className="card-img">
@@ -56,14 +57,15 @@ function Works() {
                                     className="cardimg"
                                 />
                             </div>
-                            <div className="card-title">민사소송</div>
+                            <div className="card-title">유튜버 사건 대응</div>
                             <div className="card-text">
-                                의뢰인의 소중한 권리와 자산 보호를 위해
+                                인플루언서 여러분이 억울하게 잃은
                                 <br />
-                                체계적이고 전략적으로 접근합니다.
+                                영향력과 명예를 회복시켜드립니다.
                             </div>
                         </div>
                     </div>
+
                     <div className="card-container">
                         <div>
                             <div className="card-img">
@@ -73,18 +75,18 @@ function Works() {
                                     className="cardimg"
                                 />
                             </div>
-                            <div className="card-title">행정쟁송</div>
+                            <div className="card-title">명예훼손</div>
                             <div className="card-text">
-                                국가로부터 권리를 침해받았을 때
+                                의뢰인이 명예 회복과 안정을 위한
                                 <br />
-                                구제받을 수 있도록 조력자가 되어 드립니다.
+                                철저하고 신속한 대응을 제공합니다.
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div className="container" data-aos="fade-up">
-                    <div className="card-container2">
+                <div className="container2" data-aos="fade-up">
+                    <div className="card-container">
                         <div>
                             <div className="card-img">
                                 <img
@@ -93,15 +95,16 @@ function Works() {
                                     className="cardimg"
                                 />
                             </div>
-                            <div className="card-title">노동쟁송</div>
+                            <div className="card-title">성범죄</div>
                             <div className="card-text">
-                                고문 노무사님과 함께
+                                의뢰인이 일상으로 돌아갈 수 있도록
                                 <br />
-                                당연한 권리를 누릴 수 있도록 돕습니다.
+                                보호 및 강력한 법적 대응을 도와드립니다.
                             </div>
                         </div>
                     </div>
-                    <div className="card-container2">
+
+                    <div className="card-container">
                         <div>
                             <div className="card-img">
                                 <img
@@ -110,11 +113,29 @@ function Works() {
                                     className="cardimg"
                                 />
                             </div>
-                            <div className="card-title">법률자문</div>
+                            <div className="card-title">형사사건</div>
                             <div className="card-text">
-                                정기적인 법률자문이 필요한 경우
+                                사건별 맞춤형 법률 서비스를 통해
                                 <br />
-                                믿을 수 있는 법률자문 서비스를 제공합니다.
+                                여러분의 권리를 지킵니다.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="card-container">
+                        <div>
+                            <div className="card-img">
+                                <img
+                                    loading="lazy"
+                                    src="img/work_6.png"
+                                    className="cardimg"
+                                />
+                            </div>
+                            <div className="card-title">이혼</div>
+                            <div className="card-text">
+                                정절차에 따라 의뢰인이 누릴 수 있는
+                                <br />
+                                권리를 위해 최선의 법률 지원을 제공합니다.
                             </div>
                         </div>
                     </div>
