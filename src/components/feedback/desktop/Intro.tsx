@@ -4,10 +4,9 @@ function Intro() {
             <div data-aos="fade-up">
                 <h2 className="intro-title">고객후기</h2>
                 <h1 className="intro-subtitle">
-                    의뢰인 여러분의 <span className="blue">감사 인사</span> 한
-                    마디가
+                    여러분의 안심이
                     <br />
-                    노바에게 <span className="blue">큰 힘</span>이 됩니다.
+                    저희에게 더 나아갈 큰 힘이 됩니다.
                     <br />
                     언제나 <span className="blue">의뢰인의 편</span>에
                     서겠습니다.

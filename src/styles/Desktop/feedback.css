@@ -7,9 +7,10 @@
 
 .intro-subtitle {
     margin-top: -0.25em;
-    margin-bottom: 1.5em;
+    margin-bottom: 2em;
     text-align: center;
     font-size: 3em;
+    line-height: 1.4;
     color: black;
 }
 
@@ -22,6 +23,7 @@
     flex-direction: row;
     justify-content: center;
     overflow: hidden;
+    margin-bottom: -5em;
 }
 
 .success-list a {
