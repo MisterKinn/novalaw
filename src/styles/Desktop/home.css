@@ -68,15 +68,18 @@
 
 .title {
     margin: 0.5em;
-    font-size: 3.75em;
+    padding-top: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 3.5em;
     color: white;
+    border-top: 1px white solid;
 }
 
 .sub-title {
+    margin-top: -0.5em;
     margin-bottom: -0.75em;
-    padding-top: 0.5em;
     font-size: 2.25em;
-    border-top: 2.5px white solid;
     color: #ccc;
 }
 
@@ -84,7 +87,7 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: 2.5em;
+    margin-top: 5em;
     text-decoration: none;
 }
 

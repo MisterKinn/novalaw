@@ -40,18 +40,16 @@ function Home() {
                             alt="Nova Logo"
                             className="header-icon"
                         />
-                        <h2 className="sub-title">
-                            의뢰인의 든든한 법률 파트너,
-                        </h2>
-                        <h1 className="title">노바법률사무소입니다.</h1>
+                        <h1 className="title">노바법률사무소 입니다</h1>
+                        <h2 className="sub-title">이제 안심하셔도 좋습니다</h2>
 
                         <a
                             href="/speciality"
-                            title="노바의 특별함 보러가기"
+                            title="노바의 시스템 보러가기"
                             className="greeting-button"
                         >
                             <div>
-                                <p>노바의 특별함 보러가기 {">"}</p>
+                                <p>왜 안심해도 좋냐고요?</p>
                             </div>
                         </a>
                     </div>
