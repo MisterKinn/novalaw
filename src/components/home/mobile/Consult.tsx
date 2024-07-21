@@ -12,8 +12,9 @@ function Consult() {
             <div className="mobile-consult-container" data-aos="fade-up">
                 <h2 className="mobile-consult-title">상담문의</h2>
                 <h3 className="mobile-consult-subtitle">
-                    의뢰인의 일을 내 일처럼,
-                    <br />한 명 한 명 진심으로 듣겠습니다.
+                    걱정하지 말고 온전히 맡기세요.
+                    <br />
+                    저희가 돕겠습니다.
                 </h3>
 
                 <div className="mobile-consult-buttons">

@@ -17,10 +17,10 @@ function Home() {
                             alt="Nova Logo"
                             className="mobile-header-icon"
                         />
-                        <h2 className="mobile-sub-title">
-                            의뢰인의 든든한 법률 파트너,
-                        </h2>
-                        <h1 className="mobile-title">노바법률사무소입니다.</h1>
+                        <h2 className="mobile-title">노바법률사무소 입니다.</h2>
+                        <h1 className="mobile-subtitle">
+                            이제 안심하셔도 좋습니다.
+                        </h1>
 
                         <a
                             href="/speciality"
@@ -28,7 +28,7 @@ function Home() {
                             className="mobile-greeting-button"
                         >
                             <div>
-                                <p>노바의 특별함 보러가기 {">"}</p>
+                                <p>왜 안심해도 좋냐고요?</p>
                             </div>
                         </a>
                     </div>

@@ -1,11 +1,12 @@
 #mobile-success {
-    margin-top: 55em;
+    margin-top: 79em;
     background-color: #1c1c1c;
     overflow: hidden;
 }
 
 .mobile-success-title {
     padding-top: 3em;
+    text-align: center;
     font-size: 1.75em;
     color: white;
 }
@@ -13,7 +14,7 @@
 .mobile-success-button {
     display: flex;
     justify-content: center;
-    margin-top: -3em;
+    margin-top: 2em;
 }
 
 .mobile-success-button a {
