@@ -11,8 +11,8 @@ function Home() {
                     className="header-img"
                 />
 
-                {/* <div className="popup-container">
-                    <div className="popup-element">
+                <div className="popup-container" data-aos="fade-up">
+                    <div>
                         <img
                             src="img/close-img.png"
                             alt=""
@@ -20,18 +20,9 @@ function Home() {
                             onClick={closePopup}
                         />
 
-                        <img
-                            src="img/popup1.png"
-                            alt=""
-                            className="popup-img"
-                        />
-                        <img
-                            src="img/popup2.png"
-                            alt=""
-                            className="popup-img"
-                        />
+                        <img src="img/popup.png" alt="" className="popup-img" />
                     </div>
-                </div> */}
+                </div>
 
                 <div className="text-container">
                     <div data-aos="fade-up">

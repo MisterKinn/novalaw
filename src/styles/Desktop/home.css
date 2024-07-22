@@ -27,19 +27,20 @@
 }
 
 .popup-container div {
-    margin: 1.5em;
-    margin-top: 8em;
+    position: relative;
+    margin-top: 5em;
     margin-bottom: 0em;
     padding-top: 3em;
-    background-color: white;
 }
 
 .popup-close-img {
     top: 0;
     left: 0;
-    margin-top: -2em;
+    position: absolute;
+    margin: 0.5em;
+    margin-top: 3.25em;
     margin-bottom: 40em;
-    height: 2em;
+    height: 1.5em;
     width: auto;
 }
 
