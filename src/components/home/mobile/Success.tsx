@@ -3,7 +3,7 @@ import "@/styles/Mobile/success.css";
 function Success() {
     return (
         <div id="mobile-success">
-            <h2 className="mobile-success-title">
+            <h2 className="mobile-success-title" data-aos="fade-up">
                 전문적인 구성원들과
                 <br />
                 여러 건의 승소사례를
@@ -11,7 +11,7 @@ function Success() {
                 다양한 분야에서 쌓아왔습니다.
             </h2>
 
-            <div className="mobile-success-button">
+            <div className="mobile-success-button" data-aos="fade-up">
                 <a href="/feedback" title="후기 더 보기">
                     <div className="mobile-learn-more">
                         <p>후기 더 보기 {">"}</p>
@@ -20,9 +20,9 @@ function Success() {
 
                 <div className="small-margin" />
 
-                <a href="/success" title="법률사례 더 보기">
+                <a href="/success" title="승소사례 더 보기">
                     <div className="mobile-learn-more">
-                        <p>법률사례 더 보기 {">"}</p>
+                        <p>승소사례 더 보기 {">"}</p>
                     </div>
                 </a>
             </div>
