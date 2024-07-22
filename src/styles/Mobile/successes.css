@@ -58,7 +58,7 @@
     justify-content: center;
     margin: 1.5em;
     height: 10em;
-    width: 25em;
+    width: 20em;
 }
 
 .mobile-card-container h3 {
@@ -72,7 +72,7 @@
 .mobile-card-container h2 {
     margin: 1em;
     margin-top: -1em;
-    font-size: 1.1em;
+    font-size: 1em;
     color: black;
 }
 
@@ -91,7 +91,7 @@
 
 .mobile-img-container h4 {
     margin-left: -1em;
-    font-size: 1em;
+    font-size: 0.9em;
     color: #3252ff;
 }
 

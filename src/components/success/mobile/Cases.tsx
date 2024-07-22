@@ -15,6 +15,8 @@ function Cases() {
                                 공무집행방해 등의 혐의로
                                 <br />
                                 징역형이 구형된 사례
+                                <br />
+                                <br />
                             </h2>
                             <div className="mobile-img-container">
                                 <img src="img/hammer.png" alt="판결 내용" />
@@ -30,9 +32,8 @@ function Cases() {
                         <div>
                             <h3>형사</h3>
                             <h2>
-                                구속 영장을 발부받았을
-                                <br />
-                                때의 대처법ㅤㅤㅤㅤㅤㅤㅤㅤ
+                                구속 영장을 발부받았을 때의
+                                대처법ㅤㅤㅤㅤㅤㅤㅤㅤ
                                 <br />
                                 <br />
                                 <br />
@@ -58,6 +59,7 @@ function Cases() {
                                 이끈 사례
                                 <br />
                                 <br />
+                                <br />
                             </h2>
                             <div className="mobile-img-container">
                                 <img src="img/hammer.png" alt="판결 내용" />
@@ -73,11 +75,10 @@ function Cases() {
                         <div>
                             <h3>형사</h3>
                             <h2>
-                                개인정보보호법 위반으로
-                                <br />
-                                기소 후 선고유예를
+                                개인정보보호법 위반으로 기소 후 선고유예를
                                 <br />
                                 받게 한 사례
+                                <br />
                                 <br />
                                 <br />
                             </h2>
@@ -95,9 +96,8 @@ function Cases() {
                         <div>
                             <h3>형사</h3>
                             <h2>
-                                스토킹 처벌법 고소대리
+                                스토킹 처벌법 고소대리 사건
                                 <br />
-                                사건
                                 <br />
                                 <br />
                                 <br />
@@ -116,9 +116,7 @@ function Cases() {
                         <div>
                             <h3>형사</h3>
                             <h2>
-                                1심에서 징역형이 선고된
-                                <br />
-                                피고인의 2심 감형
+                                1심에서 징역형이 선고된 피고인의 2심 감형
                                 <br />
                                 판결을 받아낸 사례
                                 <br />
@@ -188,9 +186,7 @@ function Cases() {
                                 <br />
                                 검사 6억원 청구
                                 <br />
-                                추징금을 법리적 해석을
-                                <br />
-                                통해 6천만원으로
+                                추징금을 법리적 해석을 통해 6천만원으로
                                 <br />
                                 감액한 사례
                             </h2>
