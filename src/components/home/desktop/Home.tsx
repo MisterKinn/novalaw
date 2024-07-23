@@ -35,7 +35,7 @@ function Home() {
                         <h2 className="sub-title">이제 안심하셔도 좋습니다</h2>
 
                         <a
-                            href="/speciality"
+                            href="/system"
                             title="노바의 시스템 보러가기"
                             className="greeting-button"
                         >
