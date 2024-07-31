@@ -5,7 +5,7 @@ import "../global.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "노바의 특별함ㅣ노바법률사무소",
+    title: "노바의 시스템ㅣ노바법률사무소",
     description: "법률서비스의 새로운 시작을 알리는 노바법률사무소입니다.",
     icons: {
         icon: "img/novalaw-icon.png",

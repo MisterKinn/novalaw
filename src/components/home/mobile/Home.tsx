@@ -23,7 +23,7 @@ function Home() {
                         </h1>
 
                         <a
-                            href="/speciality"
+                            href="/system"
                             title="CEO 인사말 보러가기"
                             className="mobile-greeting-button"
                         >
