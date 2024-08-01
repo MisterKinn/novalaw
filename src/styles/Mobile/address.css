@@ -23,3 +23,59 @@
     height: 15em;
     width: auto;
 }
+
+#mobile-addresses {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.mobile-addresses-title-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mobile-addresses-title {
+    display: inline;
+    margin-top: 2em;
+    padding-bottom: 1em;
+    font-size: 1.5em;
+    color: #131d7d;
+    border-bottom: 2.5px #abbce8 solid;
+}
+
+.mobile-addresses-blank {
+    margin: 3em;
+}
+
+.mobile-addresses-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.mobile-addresses-container div {
+    display: flex;
+    flex-direction: row;
+    width: 32.5em;
+    border-bottom: 1px #d5d5d5 solid;
+}
+
+.mobile-addresses-container h3 {
+    width: 4em;
+    font-size: 0.8em;
+    color: #989898;
+}
+
+.mobile-addresses-container h4 {
+    margin-top: 1em;
+    margin-left: 1em;
+    font-size: 0.8em;
+    font-weight: normal;
+    color: #989898;
+}
+
+.mobile-addresses-blank2 {
+    margin: 7.5em;
+}

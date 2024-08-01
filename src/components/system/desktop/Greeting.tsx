@@ -16,10 +16,7 @@ function Greeting() {
                     <br />
                     1년 내내 형사 특정 변호사 선정된 사람만이 갖출 수 있는
                 </h3>
-                <h4 className="small">
-                    (23년 하반기, 24년 상반기 23년 기준 800명/ 24년 기준 930 중
-                    24명 이내)
-                </h4>
+                <h4 className="small">(23년 하반기 기준 800명 중 24명 이내)</h4>
                 <h3 className="greeting-subtitle">
                     <strong>[시스템]과 함께한다는 것</strong>을 의미합니다.
                 </h3>

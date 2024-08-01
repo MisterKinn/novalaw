@@ -37,7 +37,7 @@ function NavBar() {
                         미디어 소개
                     </a>
 
-                    <a href="../#address" title="오시는 길">
+                    <a href="../address" title="오시는 길">
                         오시는 길
                     </a>
 

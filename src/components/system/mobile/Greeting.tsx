@@ -20,9 +20,7 @@ function Greeting() {
                     선정된 사람만이 갖출 수 있는
                 </h3>
                 <h4 className="mobile-small">
-                    (23년 하반기, 24년 상반기 23년 기준 800명/
-                    <br />
-                    24년 기준 930 중 24명 이내)
+                    (23년 하반기 기준 800명 중 24명 이내)
                 </h4>
                 <h3 className="mobile-greeting-subtitle">
                     <strong>[시스템]과 함께한다는 것</strong>을 의미합니다.

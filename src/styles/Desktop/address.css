@@ -24,3 +24,52 @@
     height: 40em;
     width: 70em;
 }
+
+#addresses {
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+.addresses-title {
+    display: inline;
+    margin-top: 1em;
+    margin-left: 0.5em;
+    padding-top: 0.2em;
+    font-size: 3em;
+    border-top: 5px #abbce8 solid;
+}
+
+.addresses-blank {
+    margin: 3em;
+}
+
+.addresses-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.addresses-container div {
+    display: flex;
+    flex-direction: row;
+    width: 32.5em;
+    border-bottom: 1px #d5d5d5 solid;
+}
+
+.addresses-container h3 {
+    font-size: 1.25em;
+    color: #989898;
+}
+
+.addresses-container h4 {
+    margin-top: 1em;
+    margin-left: 1em;
+    font-size: 1.25em;
+    font-weight: normal;
+    color: #989898;
+}
+
+.addresses-blank2 {
+    margin: 7.5em;
+}

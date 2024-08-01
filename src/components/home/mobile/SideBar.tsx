@@ -55,7 +55,7 @@ function Sidebar() {
                     <a href="../media" title="미디어 소개">
                         미디어 소개
                     </a>
-                    <a href="../#address" title="오시는 길">
+                    <a href="../address" title="오시는 길">
                         오시는 길
                     </a>
                     <a href="../#consult" title="상담문의">
