@@ -30,11 +30,9 @@ function System() {
             <div className="mobile-system-container">
                 <h3 data-aos="fade-up">02</h3>
                 <h4 data-aos="fade-up">
-                    <span className="mobile-blue">대표 변호사</span>가{" "}
-                    <span className="mobile-blue">직접 사건을 담당</span>하며
+                    경찰조사, 내용증명 등
                     <br />
-                    경찰조사, 내용증명 등<br />
-                    <span className="mobile-blue">주요 과정에 동행</span>합니다
+                    <span className="blue">중요 과정에 항상 동행</span>합니다
                 </h4>
                 <img
                     src="img/system-2.png"
