@@ -133,7 +133,7 @@ function Works() {
                             </div>
                             <div className="card-title">이혼</div>
                             <div className="card-text">
-                                정절차에 따라 의뢰인이 누릴 수 있는
+                                절차에 따라 의뢰인이 누릴 수 있는
                                 <br />
                                 권리를 위해 최선의 법률 지원을 제공합니다.
                             </div>

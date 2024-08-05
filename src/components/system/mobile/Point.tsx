@@ -37,7 +37,7 @@ function Point() {
                             alt="노바법률사무소만의 핵심 포인트"
                         />
                         <h4>대한민국 유일무이</h4>
-                        <h3>'인플루언서' 전용 로펌</h3>
+                        <h3>'인플루언서' 전문 로펌</h3>
                     </div>
 
                     <div className="mobile-point-element" data-aos="fade-up">
