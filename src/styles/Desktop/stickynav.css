@@ -2,7 +2,7 @@
     position: fixed;
     right: 2em;
     bottom: 2em;
-    z-index: 100;
+    z-index: 1;
 }
 
 .sticky-img {
