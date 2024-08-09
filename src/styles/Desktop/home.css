@@ -28,7 +28,7 @@
 
 .popup-container div {
     position: relative;
-    margin-top: 5em;
+    margin-top: 7.5em;
     margin-bottom: 0em;
     padding-top: 3em;
 }
@@ -45,7 +45,7 @@
 }
 
 .popup-img {
-    height: 40em;
+    height: 35em;
     width: auto;
 }
 

@@ -20,7 +20,11 @@ function Home() {
                             onClick={closePopup}
                         />
 
-                        <img src="img/popup.png" alt="" className="popup-img" />
+                        <img
+                            src="img/popup.png"
+                            alt="PopUp"
+                            className="popup-img"
+                        />
                     </div>
                 </div>
 
