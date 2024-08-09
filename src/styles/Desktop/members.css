@@ -73,6 +73,14 @@
     border: 1px gray solid;
 }
 
+.employees-container2 {
+    height: 21em;
+    width: 32.5em;
+    margin: 1em;
+    padding: 2em;
+    padding-right: 0;
+}
+
 .top0 {
     margin-top: -15em;
 }
@@ -119,7 +127,7 @@
     flex-direction: row;
     margin-top: 2.5em;
     margin-left: 1em;
-    margin-right: 4.75em;
+    margin-right: 5.65em;
     line-height: 1.9em;
 }
 
@@ -133,7 +141,7 @@
 }
 
 .career-text div {
-    font-size: 1.05em;
+    font-size: 1em;
     padding-right: -2em;
 }
 
@@ -143,7 +151,7 @@
 }
 
 .ceo-img {
-    margin-top: -14.75em;
+    margin-top: -15em;
     margin-left: 1.8em;
     height: 37.5em;
     width: auto;

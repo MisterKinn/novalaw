@@ -4,35 +4,6 @@ function Employees() {
             <div className="container" data-aos="fade-up">
                 <div className="employees-container top0">
                     <div className="card-title">
-                        <h1>김태리</h1>
-                        <h2>파트너 변호사</h2>
-                    </div>
-
-                    <div className="career-container">
-                        <div className="career-text2">
-                            서울대학교 법과대학 (학사, 우등졸업)
-                            <br />
-                            고려대학교 법학전문대학원 (전문석사)
-                            <br />
-                            제3회 변호사시험 합격
-                            <br />
-                            前 Y&K 법률사무소 변호사
-                            <br />
-                            前 법무법인(유한) 주원 변호사
-                            <br />
-                            現 법무법인 전문 변호사
-                            <br />現 노바법률사무소 파트너 변호사
-                        </div>
-                        <img
-                            src="img/kim-taeri.png"
-                            alt="김태리 파트너 변호사"
-                            className="employees-img"
-                        />
-                    </div>
-                </div>
-
-                <div className="employees-container top0">
-                    <div className="card-title">
                         <h1>김민성</h1>
                         <h2>고문변호사</h2>
                     </div>
@@ -53,10 +24,8 @@ function Employees() {
                         />
                     </div>
                 </div>
-            </div>
 
-            <div className="container" data-aos="fade-up">
-                <div className="employees-container">
+                <div className="employees-container top0">
                     <div className="card-title">
                         <h1>서예은</h1>
                         <h2>자문회계사</h2>
@@ -80,7 +49,9 @@ function Employees() {
                         />
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>김동권</h1>
@@ -107,9 +78,7 @@ function Employees() {
                         />
                     </div>
                 </div>
-            </div>
 
-            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>김혜진</h1>
@@ -138,7 +107,9 @@ function Employees() {
                         />
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>오영석</h1>
@@ -167,6 +138,8 @@ function Employees() {
                         />
                     </div>
                 </div>
+
+                <div className="employees-container2" />
             </div>
 
             <div className="margin">ㅤ</div>

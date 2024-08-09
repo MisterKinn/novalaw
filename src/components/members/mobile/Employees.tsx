@@ -2,39 +2,6 @@ function Employees() {
     return (
         <div id="mobile-employees">
             <div className="mobile-container" data-aos="fade-up">
-                <div className="mobile-container" data-aos="fade-up">
-                    <div className="mobile-career-container">
-                        <div className="mobile-card-title">
-                            <h1>김태리</h1>
-                            <h2>파트너 변호사</h2>
-                        </div>
-                        <div className="mobile-career-container">
-                            <img
-                                src="img/kim-taeri.png"
-                                alt="김태리 파트너 변호사"
-                                className="mobile-employees-img"
-                            />
-                            <div className="mobile-career-text">
-                                서울대학교 법과대학 (학사, 우등졸업)
-                                <br />
-                                고려대학교 법학전문대학원 (전문석사)
-                                <br />
-                                제3회 변호사시험 합격
-                                <br />
-                                前 Y&K 법률사무소 변호사
-                                <br />
-                                前 법무법인(유한) 주원 변호사
-                                <br />
-                                現 법무법인 전문 변호사
-                                <br />
-                                現 노바법률사무소 파트너 변호사
-                                <br />
-                                <br />ㅤ
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div className="mobile-card-container">
                     <div className="mobile-card-title">
                         <h1>김민성</h1>
