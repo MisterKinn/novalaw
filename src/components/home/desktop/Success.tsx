@@ -207,6 +207,40 @@ function Success() {
                             <p>의뢰인 ju******</p>
                         </div>
                     </div>
+
+                    <div className="card-container3">
+                        <img
+                            src="img/success-logo.png"
+                            alt="NovaLaw Logo"
+                            className="nova-logo"
+                        />
+                        <h2 className="success-card-title">
+                            합의 진행에 도움을 받고자
+                            <br />
+                            방문드렸습니다.
+                        </h2>
+                        <p className="success-card-text">
+                            무엇보다 내용을 꼼꼼히 정리하셔서 제가 많은 설명을
+                            드리지 않았음에도 상황파악을 잘 해주셨고요.
+                            <br />제 입장과 취할 수 있는 여러 방안들을 정확하게
+                            제시해주셔서 한결 마음이 편해졌습니다.
+                            <br />
+                            일반적으로 이런 송사에 얽히면 스트레스도 심하고 여러
+                            가지 고민이 많아지게 되는데, 든든하게 말씀을 해
+                            주시니 편한 마음으로 진행할 수 있었습니다. 정말
+                            감사드립니다!
+                        </p>
+                        <img
+                            src="img/goso-sosong.png"
+                            alt="고소/소송절차분야"
+                            className="success-parts"
+                        />
+                        <div className="success-card-bottom">
+                            <p>2024.03</p>
+                            <p>전화상담</p>
+                            <p>의뢰인 wh******</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

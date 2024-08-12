@@ -55,7 +55,7 @@
     flex-direction: row;
     margin-right: -40em;
     padding-top: 2em;
-    animation: moveLeft 5s ease-in-out infinite;
+    animation: mobileMoveLeft 5s ease-in-out infinite;
 }
 
 .mobile-card-container3 {
@@ -112,7 +112,7 @@
     margin-bottom: 7.5em;
 }
 
-@keyframes moveLeft {
+@keyframes mobileMoveLeft {
     from {
         transform: translateX(0);
     }

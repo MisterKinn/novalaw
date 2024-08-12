@@ -74,7 +74,7 @@
     flex-direction: row;
     margin-right: -40em;
     padding-top: 2em;
-    animation: moveLeft 5s ease-in-out infinite;
+    animation: moveLeft 10s ease-in-out infinite;
 }
 
 .card-container3 {
@@ -132,6 +132,6 @@
         transform: translateX(0);
     }
     to {
-        transform: translateX(-79vw);
+        transform: translateX(-69vw);
     }
 }
