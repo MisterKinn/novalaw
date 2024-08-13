@@ -10,14 +10,12 @@ function Intro() {
             <div className="mobile-members-container" data-aos="fade-up">
                 <h2>구성원 소개</h2>
                 <h3>
-                    전문 변호사들로 이루어진 <br />
-                    <span className="mobile-white">노바법률사무소</span>입니다.
-                </h3>
-                <h4>
-                    도움이 필요하실 때는
+                    <span className="mobile-white">최고의 전문성</span>과{" "}
+                    <span className="mobile-white">경험</span>을 갖춘
                     <br />
-                    노바의 전문 변호사들과 함께하세요.
-                </h4>
+                    <span className="mobile-white">구성원들</span>이 활동하고
+                    있습니다.
+                </h3>
             </div>
         </div>
     );

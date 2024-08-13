@@ -1,6 +1,6 @@
 function Intro() {
     return (
-        <div id="mobile-intro">
+        <div id="intro">
             <img
                 src="img/members-bg.png"
                 alt="구성원 소개"
@@ -10,11 +10,10 @@ function Intro() {
             <div className="members-container" data-aos="fade-up">
                 <h2 className="members-title">구성원 소개</h2>
                 <h3 className="members-subtitle">
-                    <span className="white">전문적인 구성원</span>들로 이루어진{" "}
-                    <span className="white">노바법률사무소</span>입니다.
+                    <span className="white">최고의 전문성</span>과{" "}
+                    <span className="white">경험</span>을 갖춘
                     <br />
-                    <span className="white">법률적 도움</span>이 필요하실 때는{" "}
-                    <span className="white">노바법률사무소</span>와 함께하세요.
+                    <span className="white">구성원들</span>이 활동하고 있습니다.
                 </h3>
             </div>
         </div>

@@ -1,5 +1,5 @@
 #mobile-intro {
-    height: 100vh;
+    height: 35em;
     width: 100vw;
     top: 0;
     display: flex;
@@ -35,7 +35,7 @@
 
 .mobile-members-container {
     position: absolute;
-    margin-top: 10em;
+    margin-top: 5em;
 }
 
 .mobile-members-container h2 {
@@ -48,17 +48,8 @@
 .mobile-members-container h3 {
     margin-top: 1em;
     text-align: center;
-    font-size: 1.75em;
-    line-height: 1.3;
-    color: #d9d9d9;
-}
-
-.mobile-members-container h4 {
-    margin-top: -0.25em;
-    text-align: center;
-    font-size: 1.5em;
-    font-weight: normal;
-    line-height: 1.3;
+    font-size: 1.9em;
+    line-height: 1.4;
     color: #d9d9d9;
 }
 
