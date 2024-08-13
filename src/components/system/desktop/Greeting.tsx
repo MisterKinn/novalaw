@@ -10,15 +10,16 @@ function Greeting() {
             <div data-aos="fade-up">
                 <h3 className="greeting-subtitle">
                     자문하고 있는{" "}
-                    <strong>유튜버 채널 구독자 수 총 730만</strong>, 대한민국
-                    유일무이한 <strong>‘인플루언서’ 전문 법률사무소</strong>,
+                    <strong>유튜버 채널 구독자 수 총 900만.</strong>
                     <br />
                     <br />
-                    1년 내내 형사 특정 변호사 선정된 사람만이 갖출 수 있는
-                </h3>
-                <h4 className="small">(23년 하반기 기준 800명 중 24명 이내)</h4>
-                <h3 className="greeting-subtitle">
-                    <strong>[시스템]과 함께한다는 것</strong>을 의미합니다.
+                    법률 상담부터 착수, 고소장 작성, 조사 입회, 고소대리 까지
+                    <br />
+                    <strong>1년 내내 형사 특정 변호사</strong>로 선정된
+                    변호사만이 보여줄 수 있는
+                    <br />
+                    <strong>노바의 [시스템]</strong> 과 함께 할수 있다는 것을
+                    말합니다.
                 </h3>
             </div>
 

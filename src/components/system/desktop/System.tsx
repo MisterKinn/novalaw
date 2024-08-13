@@ -9,7 +9,7 @@ function System() {
                     <span className="blue">
                         폭넓은 경험을 가진 변호사
                     </span>들이 <span className="blue">직접 사건을 담당</span>
-                    합니다
+                    합니다.
                 </h4>
                 <img
                     src="img/system-1.png"
@@ -23,7 +23,7 @@ function System() {
                 <h4 data-aos="fade-up">
                     경찰조사, 내용증명 등
                     <br />
-                    <span className="blue">중요 과정에 항상 동행</span>합니다
+                    <span className="blue">중요 과정에 항상 동행</span>합니다.
                 </h4>
                 <img
                     src="img/system-2.png"
@@ -35,10 +35,9 @@ function System() {
             <div className="system-container">
                 <h3 data-aos="fade-up">03</h3>
                 <h4 data-aos="fade-up">
-                    해외에 있는 전담인력을 통해 의뢰인의 일정과 상관없이
+                    <span className="blue">24시간 주야간 운영 방식</span>을 통해
                     <br />
-                    <span className="blue">24시간 대응 가능</span>한
-                    증거대응팀이 있습니다
+                    의뢰인의 사건에 신속하고 정확하게 대응합니다.
                 </h4>
                 <img
                     src="img/system-3.png"
@@ -52,8 +51,9 @@ function System() {
                 <h4 data-aos="fade-up">
                     해외에 거주하는 의뢰인의 경우
                     <br />
-                    전담인력을 통해 의뢰인의 문제에{" "}
-                    <span className="blue">어디서든 대응</span>이 가능합니다
+                    전담인력을 통해 <span className="blue">전 세계</span>에서
+                    의뢰인의 문제에 <span className="blue">대응 가능</span>
+                    합니다.
                 </h4>
                 <img
                     src="img/system-4.png"

@@ -12,7 +12,7 @@ function Consult() {
                     상담연결
                 </h2>
                 <h3 className="mobile-consult-subtitle" data-aos="fade-up">
-                    축하드립니다.
+                    걱정하지 마세요.
                     <br />
                     이제, 온전히 맡기셔도 됩니다.
                 </h3>
