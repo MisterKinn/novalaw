@@ -35,8 +35,8 @@ function Home() {
                             alt="Nova Logo"
                             className="header-icon"
                         />
+                        <h2 className="sub-title">의뢰인 밀착 케어 시스템</h2>
                         <h1 className="title">노바법률사무소 입니다</h1>
-                        <h2 className="sub-title">이제 안심하셔도 좋습니다</h2>
 
                         <a
                             href="/system"
@@ -44,7 +44,7 @@ function Home() {
                             className="greeting-button"
                         >
                             <div>
-                                <p>왜 안심해도 좋냐고요?</p>
+                                <p>노바와 함께하기 →</p>
                             </div>
                         </a>
                     </div>

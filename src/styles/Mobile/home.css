@@ -45,6 +45,7 @@
 
 .mobile-title {
     margin: 1em;
+    margin-top: 0.75em;
     margin-left: -2em;
     margin-right: -2em;
     font-size: 2em;
@@ -52,7 +53,7 @@
 }
 
 .mobile-subtitle {
-    margin-top: -1.5em;
+    margin-top: 0.5em;
     margin-bottom: -0.75em;
     padding-top: 0.5em;
     font-size: 1.5em;
@@ -83,7 +84,7 @@
 }
 
 .mobile-greeting-button p {
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: bold;
     color: white;
 }

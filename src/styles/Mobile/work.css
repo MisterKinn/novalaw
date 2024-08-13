@@ -76,8 +76,8 @@
 }
 
 .mobile-card-container {
-    margin: 3em;
-    height: 12em;
+    margin: 2.25em;
+    height: 13.5em;
     width: 20em;
     background-color: #141528;
     border: 5px solid white;
@@ -104,6 +104,6 @@
 .mobile-card-text {
     margin-top: 0.75em;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.05em;
     color: #a0a0a0;
 }

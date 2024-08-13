@@ -35,37 +35,15 @@ function Works() {
                             <div className="mobile-card-img">
                                 <img
                                     loading="lazy"
-                                    src="img/work_1.png"
+                                    src="img/work_5.png"
                                     className="mobile-cardimg"
                                 />
                             </div>
-                            <div className="mobile-card-title">
-                                통신매체 이용음란
-                            </div>
+                            <div className="mobile-card-title">형사사건</div>
                             <div className="mobile-card-text">
-                                온라인 성폭력 피해에 있어
+                                사건별 맞춤형 법률 서비스를 통해
                                 <br />
-                                의뢰인의 당연히 누려야 할 권리를 지킵니다.
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="mobile-card-container" data-aos="fade-up">
-                        <div>
-                            <div className="mobile-card-img">
-                                <img
-                                    loading="lazy"
-                                    src="img/work_2.png"
-                                    className="mobile-cardimg"
-                                />
-                            </div>
-                            <div className="mobile-card-title">
-                                유튜버 사건 대응
-                            </div>
-                            <div className="mobile-card-text">
-                                인플루언서 여러분이 억울하게 잃은
-                                <br />
-                                영향력과 명예를 회복시켜드립니다.
+                                여러분의 권리를 지킵니다.
                             </div>
                         </div>
                     </div>
@@ -93,13 +71,31 @@ function Works() {
                             <div className="mobile-card-img">
                                 <img
                                     loading="lazy"
+                                    src="img/work_6.png"
+                                    className="mobile-cardimg"
+                                />
+                            </div>
+                            <div className="mobile-card-title">이혼</div>
+                            <div className="mobile-card-text">
+                                절차에 따라 의뢰인이 누릴 수 있는
+                                <br />
+                                권리를 위해 최선의 법률 지원을 제공합니다.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="mobile-card-container" data-aos="fade-up">
+                        <div>
+                            <div className="mobile-card-img">
+                                <img
+                                    loading="lazy"
                                     src="img/work_4.png"
                                     className="mobile-cardimg"
                                 />
                             </div>
                             <div className="mobile-card-title">성범죄</div>
                             <div className="mobile-card-text">
-                                고의뢰인이 일상으로 돌아갈 수 있도록
+                                의뢰인이 일상으로 돌아갈 수 있도록
                                 <br />
                                 보호 및 강력한 법적 대응을 도와드립니다.
                             </div>
@@ -111,15 +107,17 @@ function Works() {
                             <div className="mobile-card-img">
                                 <img
                                     loading="lazy"
-                                    src="img/work_5.png"
+                                    src="img/work_1.png"
                                     className="mobile-cardimg"
                                 />
                             </div>
-                            <div className="mobile-card-title">형사사건</div>
+                            <div className="mobile-card-title">
+                                통신매체 이용음란
+                            </div>
                             <div className="mobile-card-text">
-                                사건별 맞춤형 법률 서비스를 통해
+                                온라인 성폭력 피해에 있어
                                 <br />
-                                여러분의 권리를 지킵니다.
+                                의뢰인의 당연히 누려야 할 권리를 지킵니다.
                             </div>
                         </div>
                     </div>
@@ -129,15 +127,19 @@ function Works() {
                             <div className="mobile-card-img">
                                 <img
                                     loading="lazy"
-                                    src="img/work_6.png"
+                                    src="img/work_2.png"
                                     className="mobile-cardimg"
                                 />
                             </div>
-                            <div className="mobile-card-title">이혼</div>
+                            <div className="mobile-card-title">
+                                온라인 사건 대응
+                            </div>
                             <div className="mobile-card-text">
-                                절차에 따라 의뢰인이 누릴 수 있는
+                                유명 유튜버, 인플루언서를 포함
                                 <br />
-                                권리를 위해 최선의 법률 지원을 제공합니다.
+                                온라인에서 각종 댓글, 게시글로 인해
+                                <br />
+                                고통받는 분들의 명예회복을 도와드리겠습니다.
                             </div>
                         </div>
                     </div>
