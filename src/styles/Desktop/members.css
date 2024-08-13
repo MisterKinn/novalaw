@@ -17,6 +17,7 @@
     flex-direction: column;
     position: relative;
     overflow: hidden;
+    margin-bottom: -5em;
 }
 
 .members-bg {
