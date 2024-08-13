@@ -42,20 +42,6 @@ body {
     margin: 7.5em;
 }
 
-.back {
-    margin-top: 10em;
-    margin-left: 10em;
-    height: 3em;
-    width: auto;
-}
-
-.mobile-back {
-    margin-top: 7em;
-    margin-left: 1em;
-    height: 2.25em;
-    width: auto;
-}
-
 .terms-title {
     margin-top: -1em;
     text-align: center;

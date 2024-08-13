@@ -81,6 +81,7 @@ function Case7() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-3.png" alt="노바법률사무소의 조력 3" />
@@ -92,6 +93,8 @@ function Case7() {
                         진행하여 인과관계를 입증함
                     </p>
                 </div>
+
+                <div className="rescue-card2" />
             </div>
 
             <h2 className="case-title" data-aos="fade-up">

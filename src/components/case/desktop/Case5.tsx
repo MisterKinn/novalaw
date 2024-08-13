@@ -92,6 +92,7 @@ function Case5() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-3.png" alt="노바법률사무소의 조력 3" />
@@ -117,6 +118,7 @@ function Case5() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-5.png" alt="노바법률사무소의 조력 5" />
@@ -130,6 +132,8 @@ function Case5() {
                         피해자 대리인을 이용하여 구두진술
                     </p>
                 </div>
+
+                <div className="rescue-card2" />
             </div>
 
             <h2 className="case-title" data-aos="fade-up">

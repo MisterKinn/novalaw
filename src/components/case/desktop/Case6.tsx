@@ -68,6 +68,7 @@ function Case6() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-3.png" alt="노바법률사무소의 조력 3" />
@@ -91,6 +92,7 @@ function Case6() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-5.png" alt="노바법률사무소의 조력 5" />
@@ -113,6 +115,7 @@ function Case6() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card wide-card">
                     <img src="img/case-7.png" alt="노바법률사무소의 조력 7" />
@@ -128,6 +131,8 @@ function Case6() {
                         재판부에 양형부당을 설득함
                     </p>
                 </div>
+
+                <div className="rescue-card2" />
             </div>
 
             <h2 className="case-title" data-aos="fade-up">

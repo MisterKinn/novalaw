@@ -85,6 +85,7 @@ function Case3() {
                     </p>
                 </div>
             </div>
+
             <div className="rescue-container" data-aos="fade-up">
                 <div className="rescue-card">
                     <img src="img/case-3.png" alt="노바법률사무소의 조력 3" />
@@ -96,6 +97,8 @@ function Case3() {
                         요소들을 반영한 의견서를 수차례 제출
                     </p>
                 </div>
+
+                <div className="rescue-card2" />
             </div>
 
             <h2 className="case-title" data-aos="fade-up">

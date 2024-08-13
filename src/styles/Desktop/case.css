@@ -83,6 +83,12 @@
     border: 2px black solid;
 }
 
+.rescue-card2 {
+    margin: 1.5em;
+    height: 12.5em;
+    width: 27.5em;
+}
+
 .wide-card {
     height: 14em;
     width: 27.5em;
