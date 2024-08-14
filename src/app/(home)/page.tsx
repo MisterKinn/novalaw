@@ -6,7 +6,7 @@ import AOS from "aos";
 import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Mobile/footer.css";
-// test5
+// test6
 import NavBar from "@/components/home/desktop/NavBar";
 import StickyNav from "@/components/home/desktop/StickyNav";
 import Home from "@/components/home/desktop/Home";
