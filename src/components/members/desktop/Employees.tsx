@@ -27,6 +27,33 @@ function Employees() {
 
                 <div className="employees-container top0">
                     <div className="card-title">
+                        <h1>류효정</h1>
+                        <h2>변호사</h2>
+                    </div>
+
+                    <div className="career-container">
+                        <div className="career-text2">
+                            고려대학교 경영학과 졸업 (학사)
+                            <br />
+                            이화여자대학교 법학전문대학원 졸업 (전문학사)
+                            <br />
+                            제 11회 변호사시험 합격
+                            <br />
+                            前 법무법인 퍼스트
+                            <br />
+                        </div>
+                        <img
+                            src="img/ryuhyojeong.jpeg"
+                            alt="류효정 변호사"
+                            className="employees-img"
+                        />
+                    </div>
+                </div>
+            </div>
+
+            <div className="container" data-aos="fade-up">
+                <div className="employees-container">
+                    <div className="card-title">
                         <h1>서예은</h1>
                         <h2>자문회계사</h2>
                     </div>
@@ -49,9 +76,7 @@ function Employees() {
                         />
                     </div>
                 </div>
-            </div>
 
-            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>김동권</h1>
@@ -74,11 +99,13 @@ function Employees() {
                         <img
                             src="img/kim-donggwon.png"
                             alt="김동권 자문노무사"
-                            className="kim-donggwon"
+                            className="employees-img"
                         />
                     </div>
                 </div>
+            </div>
 
+            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>김혜진</h1>
@@ -107,9 +134,7 @@ function Employees() {
                         />
                     </div>
                 </div>
-            </div>
 
-            <div className="container" data-aos="fade-up">
                 <div className="employees-container">
                     <div className="card-title">
                         <h1>오영석</h1>
@@ -134,31 +159,7 @@ function Employees() {
                         <img
                             src="img/50seok.png"
                             alt="오영석 자문의"
-                            className="oh0seok"
-                        />
-                    </div>
-                </div>
-                <div className="employees-container">
-                    <div className="card-title">
-                        <h1>류효정</h1>
-                        <h2>변호사</h2>
-                    </div>
-
-                    <div className="career-container">
-                        <div className="career-text2">
-                            고려대학교 경영학과 졸업 (학사)
-                            <br />
-                            이화여자대학교 법학전문대학원 졸업 (전문학사)
-                            <br />
-                            제 11회 변호사시험 합격
-                            <br />
-                            前 법무법인 퍼스트
-                            <br />
-                        </div>
-                        <img
-                            src="img/ryuhyojeong.jpeg"
-                            alt="류효정 변호사"
-                            className="oh0seok"
+                            className="employees-img"
                         />
                     </div>
                 </div>
