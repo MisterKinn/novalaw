@@ -1,0 +1,56 @@
+.intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 2em;
+    color: #131d7d;
+}
+
+.intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 3em;
+    line-height: 1.4em;
+    color: black;
+}
+
+.blue {
+    color: #3252ff;
+}
+
+.container {
+    margin-left: 10em;
+    margin-right: 10em;
+    border-top: 2px solid gray;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: -0.5em;
+    padding-left: 2em;
+    pading-right: 2em;
+    border-bottom: 1px solid gray;
+}
+
+.card-container h2 {
+    margin-left: 2em;
+    margin-right: 4em;
+    font-size: 2em;
+    color: #a9a9a9;
+}
+
+.card-container h3 {
+    width: 30em;
+    font-size: 1.75em;
+    color: black;
+}
+
+.card-container h4 {
+    font-size: 1.5em;
+    color: #a0a0a0;
+}

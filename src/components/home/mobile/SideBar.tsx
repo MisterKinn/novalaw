@@ -40,6 +40,9 @@ function Sidebar() {
                     <a href="../system" title="노바의 시스템">
                         노바의 시스템
                     </a>
+                    <a href="../announcement" title="노바의 시스템">
+                        공지사항
+                    </a>
                     <a href="../works" title="업무분야">
                         업무분야
                     </a>
