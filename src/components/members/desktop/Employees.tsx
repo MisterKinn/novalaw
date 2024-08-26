@@ -163,38 +163,6 @@ function Employees() {
                         />
                     </div>
                 </div>
-<<<<<<< HEAD
-
-                <div className="employees-container">
-                    <div className="card-title">
-                        <h1>오영석</h1>
-                        <h2>자문의</h2>
-                    </div>
-
-                    <div className="career-container">
-                        <div className="career-text2">
-                            관동대학교 의과대학 졸업
-                            <br />
-                            국제성모병원 수련의 수료
-                            <br />
-                            한양대학교 명지병원 권역응급의료센터 전공의
-                            <br />
-                            前 한양대학교의료원 외래교수
-                            <br />前 연세메디람의원 호스피스전문 센터 진료과장
-                            <br />前 오산한국병원 응급의학과 진료과장
-                            <br />前 EM365 영종점 부원장
-                            <br />現 오늘도 365의원 원장
-                            <br />現 노바법률사무소 자문의
-                        </div>
-                        <img
-                            src="img/50seok.png"
-                            alt="오영석 자문의"
-                            className="oh0seok"
-                        />
-                    </div>
-                </div>
-=======
->>>>>>> refs/remotes/origin/main
             </div>
 
             <div className="margin">ㅤ</div>

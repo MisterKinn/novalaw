@@ -9,11 +9,9 @@ function Ceo() {
                     </div>
 
                     <div className="introduce">
-                        23년 하반기/24년 상반기 형사 특정
+                        23년 하반기/24년 상반기
                         <br />
-                        23년 기준 800명 중,
-                        <br />
-                        24년 기준 934명 중 24명 선정
+                        형사 변호사 특정
                     </div>
 
                     <div className="career-container">
