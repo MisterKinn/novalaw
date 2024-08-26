@@ -26,6 +26,34 @@ function Employees() {
                 </div>
             </div>
 
+            {/* 류효정 변호사 추가 */}
+            <div className="mobile-container" data-aos="fade-up">
+                <div className="mobile-card-container">
+                    <div className="mobile-card-title">
+                        <h1>류효정</h1>
+                        <h2>변호사</h2>
+                    </div>
+                </div>
+
+                <div className="mobile-career-container">
+                    <img
+                        src="img/ryuhyojeong.jpeg"
+                        alt="류효정 변호사"
+                        className="mobile-employees-img"
+                    />
+                    <div className="mobile-career-text">
+                        고려대학교 경영학과 졸업 (학사)
+                        <br />
+                        이화여자대학교 법학전문대학원 졸업 (전문석사)
+                        <br />
+                        제 11회 변호사시험 합격
+                        <br />
+                        前 법무법인 퍼스트
+                        <br />現 노바법률사무소 변호사
+                    </div>
+                </div>
+            </div>
+
             <div className="mobile-container" data-aos="fade-up">
                 <div className="mobile-card-container">
                     <div className="mobile-card-title">
@@ -41,7 +69,7 @@ function Employees() {
                         className="mobile-employees-img"
                     />
                     <div className="mobile-career-text">
-                        균관대학교 경제학과 졸업 (학사)
+                        성균관대학교 경제학과 졸업 (학사)
                         <br />
                         2012년 공인회계사 합격
                         <br />前 김&장 법률사무소 회계사

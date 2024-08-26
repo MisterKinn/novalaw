@@ -1,9 +1,10 @@
+/* 기존 CSS 유지 */
 nextjs-portal {
     display: none;
 }
 
 #page {
-    overflow: hidden;
+    overflow: auto; /* overflow를 hidden에서 auto로 변경하여 스크롤이 가능하도록 수정 */
 }
 
 html,
@@ -74,7 +75,7 @@ body {
     margin-left: 1.25em;
     margin-right: 1em;
     padding: 2em;
-    width: 75vw;
+    width: 90vw; /* 모바일에서 더 작은 화면에 맞게 조정 */
     text-align: left;
     font-size: 15px;
     color: #444444;
@@ -91,4 +92,20 @@ p {
 .center {
     margin-top: 20em;
     text-align: center;
+}
+
+/* 추가: 모바일에서 모든 멤버가 보이도록 설정 */
+@media (max-width: 768px) {
+    .explain,
+    .portfolio,
+    .terms-text,
+    .mobile-terms-text {
+        margin-left: 1em; /* 모바일에서 좌측 여백을 줄여 콘텐츠가 화면에 잘 보이도록 조정 */
+        margin-right: 1em;
+    }
+
+    .blank2,
+    .margin {
+        margin: 2em; /* 모바일에서 불필요한 큰 여백을 줄임 */
+    }
 }
