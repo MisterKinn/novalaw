@@ -7,7 +7,7 @@ import "@/styles/aos.css";
 import "@/styles/style.css";
 import "@/styles/Mobile/footer.css";
 import "@/styles/Desktop/announcement.css";
-import "@/styles/Mobile/successes.css";
+import "@/styles/Mobile/announcement.css";
 
 import NavBar from "@/components/home/desktop/NavBar";
 import StickyNav from "@/components/home/desktop/StickyNav";
@@ -16,8 +16,8 @@ import Posts from "@/components/announcement/desktop/Posts";
 import Footer from "@/components/home/desktop/Footer";
 
 import SideBar from "@/components/home/mobile/SideBar";
-import MobileIntro from "@/components/success/mobile/Intro";
-import MobileCases from "@/components/success/mobile/Cases";
+import MobileIntro from "@/components/announcement/mobile/Intro";
+import MobilePosts from "@/components/announcement/mobile/Posts";
 import MobileFooter from "@/components/home/mobile/Footer";
 
 function Announcement() {
@@ -34,7 +34,7 @@ function Announcement() {
             <div id="page">
                 <SideBar />
                 <MobileIntro />
-                <MobileCases />
+                <MobilePosts />
                 <MobileFooter />
             </div>
         );

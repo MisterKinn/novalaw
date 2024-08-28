@@ -1,0 +1,55 @@
+.mobile-intro-title {
+    margin-top: 6em;
+    text-align: center;
+    font-size: 1.25em;
+    color: #131d7d;
+}
+
+.mobile-intro-subtitle {
+    margin-top: -0.25em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 1.75em;
+    line-height: 1.4em;
+    color: black;
+}
+
+.mobile-blue {
+    color: #3252ff;
+}
+
+.mobile-container {
+    border-top: 2px solid gray;
+}
+
+.mobile-container a {
+    text-decoration: none;
+}
+
+.mobile-card-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: -0.75em;
+    border-bottom: 1px solid gray;
+}
+
+.mobile-card-container h2 {
+    margin: 1em;
+    margin-left: 1em;
+    width: 5em;
+    font-size: 1.25em;
+    color: #a9a9a9;
+}
+
+.mobile-card-container h3 {
+    margin: 1em;
+    width: 7.5em;
+    font-size: 1.25em;
+    color: black;
+}
+
+.mobile-card-container h4 {
+    margin: 1em;
+    font-size: 1.25em;
+    color: #a0a0a0;
+}
