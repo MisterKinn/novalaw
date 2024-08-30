@@ -12,7 +12,7 @@ function Ceo() {
                 <div className="mobile-introduce">
                     23년 하반기/24년 상반기
                     <br />
-                    형사 특정 변호사 선정
+                    형사 특정변호사 선정
                 </div>
 
                 <div className="mobile-career-container">
