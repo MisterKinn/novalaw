@@ -137,9 +137,9 @@ function Employees() {
                                 <br />前 대한민국 공군 군수사령부 인사장교
                                 <br />前 현대차그룹 현대엔지니어링 사내 노무사
                                 <br />
-                                고려대학교 경영대학원 석사과정
+                                고려대학교 경영대학원 석사과정 (전문석사)
                                 <br />
-                                경북대학교 사범대학
+                                경북대학교 사범대학 (학사)
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@ function Employees() {
                             className="mobile-employees-img"
                         />
                         <div className="mobile-career-text">
-                            관동대학교 의과대학 졸업
+                            관동대학교 의과대학 졸업 (학사)
                             <br />
                             국제성모병원 수련의 수료
                             <br />

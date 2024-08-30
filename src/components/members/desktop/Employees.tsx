@@ -35,7 +35,7 @@ function Employees() {
                         <div className="career-text2">
                             고려대학교 경영학과 졸업 (학사)
                             <br />
-                            이화여자대학교 법학전문대학원 졸업 (전문학사)
+                            이화여자대학교 법학전문대학원 졸업 (전문석사)
                             <br />
                             제 11회 변호사시험 합격
                             <br />
@@ -85,9 +85,9 @@ function Employees() {
 
                     <div className="career-container">
                         <div className="career-text2">
-                            경북대학교 사범대학
+                            경북대학교 사범대학 (학사)
                             <br />
-                            고려대학교 경영대학원 석사과정
+                            고려대학교 경영대학원 석사과정 (전문석사)
                             <br />
                             前 공인노무사회 노동시간 단축 전문 컨설턴트
                             <br />前 중소벤처기업부 비즈니스지원단 현장클리닉
@@ -143,7 +143,7 @@ function Employees() {
 
                     <div className="career-container">
                         <div className="career-text2">
-                            관동대학교 의과대학 졸업
+                            관동대학교 의과대학 졸업 (학사)
                             <br />
                             국제성모병원 수련의 수료
                             <br />
