@@ -1,7 +1,28 @@
+import { useEffect } from 'react';
+import Cookies from 'js-cookie';
 import "@/styles/Desktop/home.css";
-import { closePopup } from "@/app/closePopup";
+import { closePopup, closePopup2 } from "@/app/closePopup";
 
 function Home() {
+    useEffect(() => {
+        const popupClosed = Cookies.get('popupClosed');
+        const popupClosed2 = Cookies.get('popupClosed2');
+
+        if (popupClosed) {
+            const popupContainer = document.querySelector('.popup-container');
+            if (popupContainer) {
+                popupContainer.style.display = 'none';
+            }
+        }
+
+        if (popupClosed2) {
+            const popupElement2 = document.querySelector('.popup-element2');
+            if (popupElement2) {
+                popupElement2.style.display = 'none';
+            }
+        }
+    }, []);
+
     return (
         <div id="home">
             <header className="header">
