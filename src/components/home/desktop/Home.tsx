@@ -1,24 +1,18 @@
-import { useEffect } from 'react';
-import Cookies from 'js-cookie';
+import { useEffect } from "react";
+import Cookies from "js-cookie";
 import "@/styles/Desktop/home.css";
-import { closePopup, closePopup2 } from "@/app/closePopup";
+import { closePopup } from "@/app/closePopup";
 
 function Home() {
     useEffect(() => {
-        const popupClosed = Cookies.get('popupClosed');
-        const popupClosed2 = Cookies.get('popupClosed2');
+        const popupClosed = Cookies.get("popupClosed") === "true";
 
         if (popupClosed) {
-            const popupContainer = document.querySelector('.popup-container');
+            const popupContainer = document.querySelector(
+                ".popup-container"
+            ) as HTMLElement;
             if (popupContainer) {
-                popupContainer.style.display = 'none';
-            }
-        }
-
-        if (popupClosed2) {
-            const popupElement2 = document.querySelector('.popup-element2');
-            if (popupElement2) {
-                popupElement2.style.display = 'none';
+                popupContainer.style.display = "none";
             }
         }
     }, []);
