@@ -4,7 +4,7 @@ nextjs-portal {
 }
 
 #page {
-    overflow: auto; /* overflow를 hidden에서 auto로 변경하여 스크롤이 가능하도록 수정 */
+    overflow: hidden;
 }
 
 html,
